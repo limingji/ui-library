@@ -1,119 +1,263 @@
 {
   "commit" : "44fbd80fbaed5dccd549e2fcf407dc48b5b4a84e",
-  "build" : 67048,
-  "version" : 112,
-  "fonts" : [
-    "PingFangHK-Regular",
-    "MicrosoftYaHei-Bold",
-    "PingFangHK-Semibold",
-    "Roboto-Bold",
-    "Gotham-Bold",
-    "Roboto-Regular"
-  ],
-  "compatibilityVersion" : 99,
-  "app" : "com.bohemiancoding.sketch3",
-  "autosaved" : 0,
-  "variant" : "NONAPPSTORE",
-  "created" : {
-    "build" : 67048,
-    "appVersion" : "52.1",
-    "commit" : "44fbd80fbaed5dccd549e2fcf407dc48b5b4a84e",
-    "app" : "com.bohemiancoding.sketch3",
-    "compatibilityVersion" : 99,
-    "version" : 112,
-    "variant" : "NONAPPSTORE"
-  },
-  "saveHistory" : [
-    "NONAPPSTORE.67048"
-  ],
-  "appVersion" : "52.1",
   "pagesAndArtboards" : {
     "ECD26649-E44D-4FAF-931E-9C8A38007114" : {
       "name" : "🚀 Icon",
       "artboards" : {
-        "46275672-40DE-4369-8C82-062A5B7140C8" : {
-          "name" : "Assets\/icon\/cursor\/pointer"
-        },
-        "1478E47B-19B7-4B04-9A3E-7BC24C735C82" : {
-          "name" : "icon\/badge\/weibo-VerifiedCelebrity"
-        },
-        "8545D004-D48C-46A2-8A57-FDD14E8999CB" : {
-          "name" : "icon\/meta\/like"
-        },
-        "C4A8F086-315C-49FC-8CF0-B54C2318B41A" : {
-          "name" : "color-palette\/color-container\/square"
-        },
-        "1471C67F-15F3-48BB-815B-C951FC519875" : {
-          "name" : "icon\/reaction\/mono-color\/love"
-        },
-        "5313FF5D-A654-4D6A-AECB-ABD91A7AE46D" : {
-          "name" : "card\/default"
+        "C3A60869-F345-49BB-844C-C54543EBDDB3" : {
+          "name" : "icon\/industry\/Politics"
         },
         "2778A155-5512-44A5-ABB6-9D35F4C724AE" : {
           "name" : "icon\/badge\/vip"
         },
-        "426041AF-44EC-4E61-8E14-337946779928" : {
-          "name" : "icon\/alert\/success"
+        "1849EBAE-A504-4508-91E9-1483816702B6" : {
+          "name" : "icon\/action\/enter"
         },
-        "4FA42AE8-47DB-43E4-B7FC-88217CE16023" : {
-          "name" : "icon\/caret\/arrow-left"
+        "57DBB4B9-0FEB-4AE8-88D4-E914677A0F44" : {
+          "name" : "icon\/media\/mono-color\/youtube"
         },
-        "19F546A8-AD43-4577-99C3-8AC331D06205" : {
-          "name" : "icon\/action\/download"
+        "2A7A6C28-A119-41A1-B6EA-684B478ABFF8" : {
+          "name" : "icon\/action\/image"
         },
-        "54C6AE0D-3D10-4ECD-8174-2F8845C80AC1" : {
-          "name" : "icon\/reaction\/mono-color\/like"
+        "73480D8D-E0E0-4EE9-B491-8EF93C661FBA" : {
+          "name" : "icon\/action\/logout"
+        },
+        "9C93422F-160D-41F0-97AB-E4C6FD80B48D" : {
+          "name" : "icon\/industry\/E-Commerce"
+        },
+        "7DF8D08F-A7B4-4196-9C5F-A299622344F0" : {
+          "name" : "icon\/form\/radio-checked"
+        },
+        "B496E7BA-AEAF-44DA-8CAA-96DFD1485EF4" : {
+          "name" : "icon\/industry\/tourism"
+        },
+        "CB2CB558-8E55-4B8E-8A5B-D227AC4E2A99" : {
+          "name" : "icon\/industry\/publicaffairs"
+        },
+        "30C31F4E-41C5-40EE-97C4-357E41E1CBD3" : {
+          "name" : "icon\/form\/radio-uncheck"
+        },
+        "C025D57E-9535-4CE7-A1B0-BB1F7913B63A" : {
+          "name" : "icon\/action\/cart"
+        },
+        "F29927C7-866B-4535-8BAC-C71AAA9B4B34" : {
+          "name" : "icon\/industry\/realestate"
+        },
+        "7C0373AD-C5EC-4A89-9F9B-DE223B9FD3DC" : {
+          "name" : "icon\/action\/user"
+        },
+        "F27F9468-C7AE-4569-A8F5-85A954902BBF" : {
+          "name" : "icon\/media\/multi-color\/weibo"
+        },
+        "09C40985-FA28-47D9-B9E2-69A00A55D2DF" : {
+          "name" : "icon\/form\/switches-on"
+        },
+        "0BE78EB7-3A4A-46F0-B1A7-53B5FAA38FFA" : {
+          "name" : "icon\/industry\/Health"
+        },
+        "FEC0043E-C359-4D32-BD5C-80DC48C24E8C" : {
+          "name" : "icon\/loading\/standard"
+        },
+        "724039A7-1D22-43A1-9543-607F7FF6C9BA" : {
+          "name" : "icon\/alert\/block"
+        },
+        "5BC87BC3-F019-4118-94CA-360E785C2E18" : {
+          "name" : "icon\/caret\/arrow-forward"
+        },
+        "9FB2FD35-E2EC-49B5-B711-B2117517B4E2" : {
+          "name" : "icon\/industry\/Humor"
+        },
+        "AF7D5E8B-5EB8-4940-8CBE-01CEEC477833" : {
+          "name" : "icon\/badge\/beta"
+        },
+        "72DA563C-401D-4FEC-AB28-2A1219B0F416" : {
+          "name" : "icon\/badges\/dot"
+        },
+        "F76DC8AD-33EA-4DB0-A21B-44263396D2E7" : {
+          "name" : "icon\/action\/locked"
+        },
+        "1FD97381-974C-419A-9066-96103C50CB94" : {
+          "name" : "icon\/badge\/weibo-VerifiedOrg"
         },
         "A98DC158-F201-47B7-BA82-1BB8ABBA7269" : {
           "name" : "icon\/nav\/apps"
         },
-        "B232781E-B847-4978-B307-777BB199884F" : {
-          "name" : "icon\/reaction\/multi-color\/like"
+        "36966416-2282-40B2-AC8F-44321B41FBB6" : {
+          "name" : "icon\/industry\/art"
         },
-        "FC940AAE-3797-48D9-BC28-25E16AD4ACDF" : {
-          "name" : "icon\/form\/switches-off"
+        "4602E5A6-BAA6-4D45-B7A3-84AD97029DB2" : {
+          "name" : "icon\/industry\/game"
         },
-        "41EB3F35-206F-4CE1-83DC-E1027D32CD51" : {
-          "name" : "icon\/badge\/youtube-Verified"
-        },
-        "1849EBAE-A504-4508-91E9-1483816702B6" : {
-          "name" : "icon\/action\/enter"
-        },
-        "537F59FF-0524-46EA-B39B-1E6780F24A17" : {
-          "name" : "icon\/flag\/Taiwan"
-        },
-        "AF2E58F4-FFFF-4748-B12F-BD89E2EA84B4" : {
-          "name" : "icon\/media\/multi-color\/wechat"
-        },
-        "BECB0257-4773-4C1F-A8BD-54AAB008B0ED" : {
-          "name" : "icon\/action\/link"
-        },
-        "35463856-54D9-4080-A5D3-D9E60B6A8ED4" : {
-          "name" : "icon\/action\/info"
-        },
-        "EAEF8AD4-5B82-44F5-8558-7CDF6A98E719" : {
-          "name" : "icon\/action\/print"
-        },
-        "B351912A-7742-4601-89CF-F62B746CB4A1" : {
-          "name" : "Assets\/icon\/cursor\/arrow"
-        },
-        "F69BB277-6ED9-46EE-8510-AA21CFAC43E5" : {
-          "name" : "icon\/meta\/dislike"
+        "63E3986A-975B-42A9-A64B-1875A314E9F2" : {
+          "name" : "icon\/media\/mono-color\/facebook"
         },
         "5A1D3A8A-D72B-4C13-A951-41306148F212" : {
           "name" : "icon\/action\/history"
         },
-        "44A8AFBF-0A16-4735-A083-7F0D2A8F3CFB" : {
-          "name" : "icon\/nav\/more-hor"
+        "AF0EBE97-F00E-4959-A343-75672D803D2A" : {
+          "name" : "icon\/action\/search"
         },
-        "7C9145CE-48CD-4751-ACB7-4A787949D46D" : {
-          "name" : "icon\/action\/tour"
+        "FC940AAE-3797-48D9-BC28-25E16AD4ACDF" : {
+          "name" : "icon\/form\/switches-off"
+        },
+        "A5BBA0D2-CC7E-47C6-B7B5-E56DC6108683" : {
+          "name" : "icon\/reaction\/multi-color\/love"
+        },
+        "AB6D5B3F-7DB2-4E99-AB63-E343DCD9A195" : {
+          "name" : "icon\/flag\/China"
+        },
+        "46275672-40DE-4369-8C82-062A5B7140C8" : {
+          "name" : "Assets\/icon\/cursor\/pointer"
+        },
+        "D1C10020-65CA-4CBB-B0C8-342AD33B0B87" : {
+          "name" : "icon\/caret\/arrow-down"
+        },
+        "B232781E-B847-4978-B307-777BB199884F" : {
+          "name" : "icon\/reaction\/multi-color\/like"
+        },
+        "906647E2-D2F9-445D-9B34-0CF006232F90" : {
+          "name" : "icon\/industry\/environment"
+        },
+        "279C1C2A-2CEA-4213-99A6-7AE4D15E9EC7" : {
+          "name" : "icon\/industry\/Fashion"
+        },
+        "DCF3C323-A6D3-4DA3-A9D0-DA0B9E7A4FC9" : {
+          "name" : "icon\/meta\/love"
+        },
+        "62DCF7B4-58F8-4896-9A21-223E1F0964DC" : {
+          "name" : "icon\/communication\/mail"
+        },
+        "0D7A5B82-D193-4F65-93EB-A6B936776C76" : {
+          "name" : "icon\/industry\/Household & Family"
+        },
+        "E1C308ED-E05A-431D-BEE3-EAED588CA1BA" : {
+          "name" : "icon\/industry\/legal"
+        },
+        "C29613A8-F028-4C03-898F-6EAB2C7234CA" : {
+          "name" : "icon\/action\/archive"
+        },
+        "F4F4D1CF-73CC-4D67-9D96-CBB1050E2A1D" : {
+          "name" : "icon\/caret\/arrow-backward"
+        },
+        "65AE8FEA-FFF4-45E8-9F4E-EC02829DDDA7" : {
+          "name" : "icon\/industry\/transportation"
+        },
+        "8525F184-A1F4-4D5B-8B86-0C958F2E04B6" : {
+          "name" : "icon\/industry\/sciences"
+        },
+        "ED40701B-3B02-48F5-B3D0-72ABFE41D3DA" : {
+          "name" : "icon\/reaction\/mono-color\/angry"
+        },
+        "0A248AC3-EA95-4297-9036-0CFFE4306326" : {
+          "name" : "icon\/industry\/sport"
+        },
+        "A1E07C9E-67A4-4851-9652-62F3008B2DC9" : {
+          "name" : "icon\/badge\/weibo-CertifiedCelebrity"
+        },
+        "B351912A-7742-4601-89CF-F62B746CB4A1" : {
+          "name" : "Assets\/icon\/cursor\/arrow"
+        },
+        "0D84FE87-ACE2-4EA3-9B50-915E93D11AF0" : {
+          "name" : "icon\/industry\/agriculture"
+        },
+        "257A7EAC-BA20-48E2-B664-21B1EFA1B490" : {
+          "name" : "icon\/action\/delete"
         },
         "87A89ABD-7B42-4694-8A43-D947EB28E704" : {
           "name" : "icon\/form\/checkbox-checked"
         },
-        "AF7D5E8B-5EB8-4940-8CBE-01CEEC477833" : {
-          "name" : "icon\/badge\/beta"
+        "7D03393E-7B4D-425F-9491-C289576B4C75" : {
+          "name" : "icon\/reaction\/multi-color\/wow"
+        },
+        "A83E3E4E-DF50-444E-9D7E-F01659C328DA" : {
+          "name" : "icon\/industry\/Combined Topics"
+        },
+        "45345913-E493-4406-8888-366B62505C06" : {
+          "name" : "icon\/media\/mono-color\/weibo"
+        },
+        "CDFD561B-0AFA-4766-8DAE-5E6959712C93" : {
+          "name" : "icon\/media\/mono-color\/instagram"
+        },
+        "E44BF6A4-C5AB-4CD9-844B-E8CDB74317BC" : {
+          "name" : "icon\/industry\/Horoscopes"
+        },
+        "F89AD71B-71DD-4723-905D-9EEBDF38408B" : {
+          "name" : "icon\/media\/mono-color\/wechat"
+        },
+        "EBA5CB82-A5C7-4DE6-9A49-592D5933103B" : {
+          "name" : "icon\/reaction\/mono-color\/haha"
+        },
+        "016DD0B1-5C83-4DD9-B679-7C100ACCFCE6" : {
+          "name" : "icon\/action\/setting"
+        },
+        "5B8F771D-1D03-403E-8EAA-411610C8FD13" : {
+          "name" : "icon\/view\/card-view"
+        },
+        "2DA42D5E-0169-4BE6-B01E-B9A2205AD6F2" : {
+          "name" : "icon\/industry\/automobile"
+        },
+        "CA4CE54F-3E12-41AC-AE38-2568E28484C0" : {
+          "name" : "icon\/caret\/arrow-drop-down"
+        },
+        "09B49883-2D45-4C55-B4B8-F64246CE4AB5" : {
+          "name" : "icon\/caret\/arrow-grow"
+        },
+        "35463856-54D9-4080-A5D3-D9E60B6A8ED4" : {
+          "name" : "icon\/action\/info"
+        },
+        "95678ECD-70C4-4D00-9EBA-B5DCEC5BE66E" : {
+          "name" : "icon\/reaction\/multi-color\/angry"
+        },
+        "92C4C559-7258-41F1-9AFE-7ED9C69FBF20" : {
+          "name" : "icon\/flag\/HongKong"
+        },
+        "DBD2085F-A256-420B-BAE0-CC1336B5C4EA" : {
+          "name" : "icon\/industry\/Junior Models"
+        },
+        "E5EF5526-3FA5-41DA-9683-E45C21B819D3" : {
+          "name" : "icon\/reaction\/mono-color\/sad"
+        },
+        "19F546A8-AD43-4577-99C3-8AC331D06205" : {
+          "name" : "icon\/action\/download"
+        },
+        "E8DA3438-C8F7-44CB-BCEE-74041157C1F4" : {
+          "name" : "icon\/industry\/Photography"
+        },
+        "EAEF8AD4-5B82-44F5-8558-7CDF6A98E719" : {
+          "name" : "icon\/action\/print"
+        },
+        "221C5577-DC78-447A-BDE7-4F7FAC72CAE1" : {
+          "name" : "icon\/industry\/Beauty"
+        },
+        "B4A7CCC8-9FC5-44C6-A660-C1434BEE795E" : {
+          "name" : "icon\/badge\/facebook-Verified"
+        },
+        "8545D004-D48C-46A2-8A57-FDD14E8999CB" : {
+          "name" : "icon\/meta\/like"
+        },
+        "54CB9B6B-3162-414E-A274-D09EF7449D5D" : {
+          "name" : "icon\/industry\/media"
+        },
+        "8C0AD6BF-FDDF-4A28-8DC9-66DC936E891C" : {
+          "name" : "icon\/reaction\/mono-color\/wow"
+        },
+        "2A0CC75D-DE53-44AA-B7AB-AC21D2F881FB" : {
+          "name" : "icon\/alert\/error"
+        },
+        "94F953E0-8E6B-411B-8561-A267271E3826" : {
+          "name" : "icon\/industry\/Education"
+        },
+        "A7FB95F6-479F-4502-A453-2565F5BC542A" : {
+          "name" : "icon\/industry\/Professional Skills"
+        },
+        "BECB0257-4773-4C1F-A8BD-54AAB008B0ED" : {
+          "name" : "icon\/action\/link"
+        },
+        "145FBDEF-C111-4782-87EF-0250E5DF69DF" : {
+          "name" : "icon\/action\/entrance"
+        },
+        "426041AF-44EC-4E61-8E14-337946779928" : {
+          "name" : "icon\/alert\/success"
         },
         "5468463C-59C4-47C3-AFF2-717EDE803665" : {
           "name" : "icon\/nav\/menu"
@@ -121,224 +265,170 @@
         "78A45142-11E5-4931-B412-C791FBAD4128" : {
           "name" : "icon\/badge\/instagram-Verified"
         },
-        "145FBDEF-C111-4782-87EF-0250E5DF69DF" : {
-          "name" : "icon\/action\/entrance"
-        },
-        "484B1C75-E441-4996-90FA-BB9024DA1ADF" : {
-          "name" : "icon\/meta\/comment"
-        },
-        "72DA563C-401D-4FEC-AB28-2A1219B0F416" : {
-          "name" : "icon\/badges\/dot"
-        },
-        "DF70DA09-42AB-4EE8-A0F1-E528220B74F9" : {
-          "name" : "color-palette\/color-container\/circle"
-        },
-        "FEC0043E-C359-4D32-BD5C-80DC48C24E8C" : {
-          "name" : "icon\/loading\/standard"
-        },
-        "09B49883-2D45-4C55-B4B8-F64246CE4AB5" : {
-          "name" : "icon\/caret\/arrow-grow"
-        },
-        "ED973818-5B09-4828-98CE-78023B7D83F1" : {
-          "name" : "icon\/caret\/arrow-right"
-        },
-        "50E3870A-E9C2-46CE-884F-55382E14BFFB" : {
-          "name" : "icon\/meta\/video"
-        },
-        "724039A7-1D22-43A1-9543-607F7FF6C9BA" : {
-          "name" : "icon\/alert\/block"
-        },
-        "A1E07C9E-67A4-4851-9652-62F3008B2DC9" : {
-          "name" : "icon\/badge\/weibo-CertifiedCelebrity"
-        },
-        "F4F4D1CF-73CC-4D67-9D96-CBB1050E2A1D" : {
-          "name" : "icon\/caret\/arrow-backward"
-        },
-        "57DBB4B9-0FEB-4AE8-88D4-E914677A0F44" : {
-          "name" : "icon\/media\/mono-color\/youtube"
-        },
-        "A4A99341-23F3-44C7-BD42-C17B32070CAB" : {
-          "name" : "icon\/action\/bookmark"
-        },
-        "09C40985-FA28-47D9-B9E2-69A00A55D2DF" : {
-          "name" : "icon\/form\/switches-on"
-        },
-        "7D03393E-7B4D-425F-9491-C289576B4C75" : {
-          "name" : "icon\/reaction\/multi-color\/wow"
-        },
-        "D4728C58-FB19-44A8-AB2F-104EB50CFDA2" : {
-          "name" : "icon\/action\/unlock"
-        },
-        "393DD345-4BCC-468F-B932-97D82C69B846" : {
-          "name" : "icon\/media\/multi-color\/instagram"
-        },
-        "30521625-2725-4007-8C59-8E045403C36C" : {
-          "name" : "icon\/caret\/arrow-up"
-        },
-        "AB6D5B3F-7DB2-4E99-AB63-E343DCD9A195" : {
-          "name" : "icon\/flag\/China"
-        },
-        "45345913-E493-4406-8888-366B62505C06" : {
-          "name" : "icon\/media\/mono-color\/weibo"
-        },
-        "92C4C559-7258-41F1-9AFE-7ED9C69FBF20" : {
-          "name" : "icon\/flag\/HongKong"
-        },
-        "1FD97381-974C-419A-9066-96103C50CB94" : {
-          "name" : "icon\/badge\/weibo-VerifiedOrg"
-        },
-        "5B8F771D-1D03-403E-8EAA-411610C8FD13" : {
-          "name" : "icon\/view\/card-view"
-        },
-        "AF0EBE97-F00E-4959-A343-75672D803D2A" : {
-          "name" : "icon\/action\/search"
-        },
-        "D97E13A2-493D-409C-B72A-3310E9D50A7E" : {
-          "name" : "icon\/caret\/arrow-drop-up"
-        },
-        "2A7A6C28-A119-41A1-B6EA-684B478ABFF8" : {
-          "name" : "icon\/action\/image"
-        },
-        "30C31F4E-41C5-40EE-97C4-357E41E1CBD3" : {
-          "name" : "icon\/form\/radio-uncheck"
-        },
-        "CA4CE54F-3E12-41AC-AE38-2568E28484C0" : {
-          "name" : "icon\/caret\/arrow-drop-down"
-        },
-        "2402862A-6517-477D-A3AC-13868F66A6FB" : {
-          "name" : "icon\/media\/multi-color\/youtube"
-        },
-        "DCF3C323-A6D3-4DA3-A9D0-DA0B9E7A4FC9" : {
-          "name" : "icon\/meta\/love"
-        },
-        "ED40701B-3B02-48F5-B3D0-72ABFE41D3DA" : {
-          "name" : "icon\/reaction\/mono-color\/angry"
-        },
-        "A5BBA0D2-CC7E-47C6-B7B5-E56DC6108683" : {
-          "name" : "icon\/reaction\/multi-color\/love"
-        },
-        "7C0373AD-C5EC-4A89-9F9B-DE223B9FD3DC" : {
-          "name" : "icon\/action\/user"
-        },
-        "EA067EB2-3D71-4BB1-A8EC-CAD4D0B812A8" : {
-          "name" : "icon\/action\/language"
-        },
-        "B66C1FD3-76B3-4A4F-BFF4-8609FE0CC486" : {
-          "name" : "icon\/media\/multi-color\/facebook"
-        },
-        "EBA5CB82-A5C7-4DE6-9A49-592D5933103B" : {
-          "name" : "icon\/reaction\/mono-color\/haha"
-        },
-        "73480D8D-E0E0-4EE9-B491-8EF93C661FBA" : {
-          "name" : "icon\/action\/logout"
-        },
-        "F27F9468-C7AE-4569-A8F5-85A954902BBF" : {
-          "name" : "icon\/media\/multi-color\/weibo"
-        },
-        "F76DC8AD-33EA-4DB0-A21B-44263396D2E7" : {
-          "name" : "icon\/action\/locked"
-        },
-        "F89AD71B-71DD-4723-905D-9EEBDF38408B" : {
-          "name" : "icon\/media\/mono-color\/wechat"
-        },
-        "EF238DD1-CFEF-48E2-A446-A0CB0FF2D49E" : {
-          "name" : "icon\/view\/image-view"
-        },
-        "1432067B-3E2D-4C2D-B321-B71F4EAAEDB3" : {
-          "name" : "icon\/action\/notification"
-        },
-        "B4A7CCC8-9FC5-44C6-A660-C1434BEE795E" : {
-          "name" : "icon\/badge\/facebook-Verified"
-        },
-        "0B0D2863-E21E-4207-8E49-5DADFD984E33" : {
-          "name" : "pic\/grids-04"
-        },
-        "0142E9D1-B6B2-44C4-932F-71D9BFDAA117" : {
-          "name" : "icon\/reaction\/multi-color\/sad"
-        },
-        "016DD0B1-5C83-4DD9-B679-7C100ACCFCE6" : {
-          "name" : "icon\/action\/setting"
-        },
-        "6BA1F125-12BB-4259-8721-03C7170F8A54" : {
-          "name" : "icon\/meta\/star-filled"
-        },
-        "D1C10020-65CA-4CBB-B0C8-342AD33B0B87" : {
-          "name" : "icon\/caret\/arrow-down"
+        "085A5A37-B3FB-4545-896E-6C37CC813641" : {
+          "name" : "icon\/industry\/industrial"
         },
         "6C011CC2-3161-4FC8-8F91-D6FBEBD30550" : {
           "name" : "icon\/badge\/weibo-VerifiedTalent"
         },
-        "8C0AD6BF-FDDF-4A28-8DC9-66DC936E891C" : {
-          "name" : "icon\/reaction\/mono-color\/wow"
+        "0B0D2863-E21E-4207-8E49-5DADFD984E33" : {
+          "name" : "pic\/grids-04"
         },
-        "7DF8D08F-A7B4-4196-9C5F-A299622344F0" : {
-          "name" : "icon\/form\/radio-checked"
+        "9BF571E3-0DB7-4A1C-A2F4-B9AF7238005D" : {
+          "name" : "icon\/industry\/accounting"
         },
-        "C29613A8-F028-4C03-898F-6EAB2C7234CA" : {
-          "name" : "icon\/action\/archive"
+        "A4A99341-23F3-44C7-BD42-C17B32070CAB" : {
+          "name" : "icon\/action\/bookmark"
         },
-        "30C943D5-96D1-4209-9074-F51853414F3F" : {
-          "name" : "icon\/action\/calendar"
+        "D4728C58-FB19-44A8-AB2F-104EB50CFDA2" : {
+          "name" : "icon\/action\/unlock"
         },
-        "95678ECD-70C4-4D00-9EBA-B5DCEC5BE66E" : {
-          "name" : "icon\/reaction\/multi-color\/angry"
+        "ED592325-CF73-42C8-8737-1E9DA4A76EDF" : {
+          "name" : "icon\/industry\/construction"
         },
-        "C369CAFA-01FE-4356-A710-018C20E0134D" : {
-          "name" : "icon\/emoji\/smile"
+        "44A8AFBF-0A16-4735-A083-7F0D2A8F3CFB" : {
+          "name" : "icon\/nav\/more-hor"
         },
-        "62DCF7B4-58F8-4896-9A21-223E1F0964DC" : {
-          "name" : "icon\/communication\/mail"
+        "EF238DD1-CFEF-48E2-A446-A0CB0FF2D49E" : {
+          "name" : "icon\/view\/image-view"
         },
-        "CDFD561B-0AFA-4766-8DAE-5E6959712C93" : {
-          "name" : "icon\/media\/mono-color\/instagram"
+        "365C3265-9046-4245-B320-D2D9B66E2D71" : {
+          "name" : "icon\/industry\/business"
         },
-        "16C4A36B-CBA6-492D-ABF3-9583AECD8318" : {
-          "name" : "icon\/action\/bookmarked"
+        "1471C67F-15F3-48BB-815B-C951FC519875" : {
+          "name" : "icon\/reaction\/mono-color\/love"
         },
-        "5BC87BC3-F019-4118-94CA-360E785C2E18" : {
-          "name" : "icon\/caret\/arrow-forward"
+        "7C9145CE-48CD-4751-ACB7-4A787949D46D" : {
+          "name" : "icon\/action\/tour"
         },
-        "22A4C7FC-4D52-4095-B016-A6727D1496CC" : {
-          "name" : "icon\/reaction\/multi-color\/haha"
+        "B66C1FD3-76B3-4A4F-BFF4-8609FE0CC486" : {
+          "name" : "icon\/media\/multi-color\/facebook"
         },
-        "25A4A4CA-53B6-4B8C-8F5D-FAEDBF6E41C3" : {
-          "name" : "icon\/form\/checkbox-uncheck"
+        "088C0E03-E161-4F99-AD4B-5DEDCAB16DCE" : {
+          "name" : "icon\/industry\/retailshop"
         },
-        "63E3986A-975B-42A9-A64B-1875A314E9F2" : {
-          "name" : "icon\/media\/mono-color\/facebook"
+        "EA067EB2-3D71-4BB1-A8EC-CAD4D0B812A8" : {
+          "name" : "icon\/action\/language"
         },
-        "C025D57E-9535-4CE7-A1B0-BB1F7913B63A" : {
-          "name" : "icon\/action\/cart"
+        "0142E9D1-B6B2-44C4-932F-71D9BFDAA117" : {
+          "name" : "icon\/reaction\/multi-color\/sad"
         },
-        "EE420F0C-9D8B-4E76-BBB2-96B639A45344" : {
-          "name" : "color-palette\/color-container\/rounded-1px"
+        "B948354D-D1E4-4737-B379-40BD93688C92" : {
+          "name" : "icon\/industry\/Advertising"
         },
-        "257A7EAC-BA20-48E2-B664-21B1EFA1B490" : {
-          "name" : "icon\/action\/delete"
-        },
-        "FA9CCB19-6B02-4B55-918D-C79C73936C8E" : {
-          "name" : "icon\/meta\/share"
-        },
-        "FF056EDC-CE5E-4AB8-B162-EBF075AF68CE" : {
-          "name" : "icon\/communication\/phone"
-        },
-        "E5EF5526-3FA5-41DA-9683-E45C21B819D3" : {
-          "name" : "icon\/reaction\/mono-color\/sad"
-        },
-        "3C3672F0-4906-495B-B408-CA6236F64A54" : {
-          "name" : "icon\/meta\/view"
-        },
-        "2A0CC75D-DE53-44AA-B7AB-AC21D2F881FB" : {
-          "name" : "icon\/alert\/error"
-        },
-        "55EDBC48-B052-453E-AE18-4D94A50A5E7A" : {
-          "name" : "icon\/meta\/star"
+        "E26A01DE-F822-4620-A649-8B4BD92C47DA" : {
+          "name" : "icon\/industry\/Animals"
         },
         "C8B89AD7-8993-40E7-BDBF-9247C137C391" : {
           "name" : "icon\/action\/close"
         },
+        "F69BB277-6ED9-46EE-8510-AA21CFAC43E5" : {
+          "name" : "icon\/meta\/dislike"
+        },
+        "4FA42AE8-47DB-43E4-B7FC-88217CE16023" : {
+          "name" : "icon\/caret\/arrow-left"
+        },
         "9D61C1CE-8C5B-4D4C-9F3D-034EEB5D8245" : {
           "name" : "icon\/caret\/arrow-drop"
+        },
+        "FA9CCB19-6B02-4B55-918D-C79C73936C8E" : {
+          "name" : "icon\/meta\/share"
+        },
+        "22A4C7FC-4D52-4095-B016-A6727D1496CC" : {
+          "name" : "icon\/reaction\/multi-color\/haha"
+        },
+        "1478E47B-19B7-4B04-9A3E-7BC24C735C82" : {
+          "name" : "icon\/badge\/weibo-VerifiedCelebrity"
+        },
+        "AF2E58F4-FFFF-4748-B12F-BD89E2EA84B4" : {
+          "name" : "icon\/media\/multi-color\/wechat"
+        },
+        "ED973818-5B09-4828-98CE-78023B7D83F1" : {
+          "name" : "icon\/caret\/arrow-right"
+        },
+        "6BA1F125-12BB-4259-8721-03C7170F8A54" : {
+          "name" : "icon\/meta\/star-filled"
+        },
+        "C4A8F086-315C-49FC-8CF0-B54C2318B41A" : {
+          "name" : "color-palette\/color-container\/square"
+        },
+        "55EDBC48-B052-453E-AE18-4D94A50A5E7A" : {
+          "name" : "icon\/meta\/star"
+        },
+        "F08A7E3B-940D-481A-9116-B989163888D4" : {
+          "name" : "icon\/industry\/entertainment"
+        },
+        "25A4A4CA-53B6-4B8C-8F5D-FAEDBF6E41C3" : {
+          "name" : "icon\/form\/checkbox-uncheck"
+        },
+        "5313FF5D-A654-4D6A-AECB-ABD91A7AE46D" : {
+          "name" : "card\/default"
+        },
+        "E2D2DC85-A960-4DFD-9A69-DE723F286B1A" : {
+          "name" : "icon\/industry\/Finance"
+        },
+        "30521625-2725-4007-8C59-8E045403C36C" : {
+          "name" : "icon\/caret\/arrow-up"
+        },
+        "2402862A-6517-477D-A3AC-13868F66A6FB" : {
+          "name" : "icon\/media\/multi-color\/youtube"
+        },
+        "C369CAFA-01FE-4356-A710-018C20E0134D" : {
+          "name" : "icon\/emoji\/smile"
+        },
+        "D97E13A2-493D-409C-B72A-3310E9D50A7E" : {
+          "name" : "icon\/caret\/arrow-drop-up"
+        },
+        "1432067B-3E2D-4C2D-B321-B71F4EAAEDB3" : {
+          "name" : "icon\/action\/notification"
+        },
+        "DF70DA09-42AB-4EE8-A0F1-E528220B74F9" : {
+          "name" : "color-palette\/color-container\/circle"
+        },
+        "30C943D5-96D1-4209-9074-F51853414F3F" : {
+          "name" : "icon\/action\/calendar"
+        },
+        "54C6AE0D-3D10-4ECD-8174-2F8845C80AC1" : {
+          "name" : "icon\/reaction\/mono-color\/like"
+        },
+        "41EB3F35-206F-4CE1-83DC-E1027D32CD51" : {
+          "name" : "icon\/badge\/youtube-Verified"
+        },
+        "EE420F0C-9D8B-4E76-BBB2-96B639A45344" : {
+          "name" : "color-palette\/color-container\/rounded-1px"
+        },
+        "50E3870A-E9C2-46CE-884F-55382E14BFFB" : {
+          "name" : "icon\/meta\/video"
+        },
+        "3C3672F0-4906-495B-B408-CA6236F64A54" : {
+          "name" : "icon\/meta\/view"
+        },
+        "484B1C75-E441-4996-90FA-BB9024DA1ADF" : {
+          "name" : "icon\/meta\/comment"
+        },
+        "FF056EDC-CE5E-4AB8-B162-EBF075AF68CE" : {
+          "name" : "icon\/communication\/phone"
+        },
+        "45A522F8-51DB-4B7E-BCDD-74F338DCCEAC" : {
+          "name" : "icon\/industry\/romace"
+        },
+        "89CCF550-292F-4A36-95B1-34D0315A40DD" : {
+          "name" : "icon\/industry\/gambling"
+        },
+        "537F59FF-0524-46EA-B39B-1E6780F24A17" : {
+          "name" : "icon\/flag\/Taiwan"
+        },
+        "393DD345-4BCC-468F-B932-97D82C69B846" : {
+          "name" : "icon\/media\/multi-color\/instagram"
+        },
+        "EADF8EEA-2E18-4565-86A3-5B1550678DC2" : {
+          "name" : "icon\/industry\/IT & Digital Product"
+        },
+        "16C4A36B-CBA6-492D-ABF3-9583AECD8318" : {
+          "name" : "icon\/action\/bookmarked"
+        },
+        "0B148A72-32D3-47E4-95C0-09DA6225CA18" : {
+          "name" : "icon\/industry\/Food"
         }
       }
     },
@@ -383,8 +473,8 @@
     "DD36F0B3-9B77-4493-A56A-EF2D1C79B781" : {
       "name" : "✏️ Components",
       "artboards" : {
-        "711A64BE-789C-42EC-9AE7-4D9A0E9CC0C0" : {
-          "name" : "components\/Tooltip\/info"
+        "A2AC9268-1FD4-465E-957D-B99F1816ECFD" : {
+          "name" : "components\/report"
         },
         "F0574199-0ED0-43C0-8FBA-A9FEEA40DD6D" : {
           "name" : "components\/nav\/wisersOne-header"
@@ -392,14 +482,14 @@
         "A1B71A9A-8E9A-4153-ACE4-FA2452251D62" : {
           "name" : "components\/nav\/module-header"
         },
-        "A2AC9268-1FD4-465E-957D-B99F1816ECFD" : {
-          "name" : "components\/report"
-        },
         "4E66B272-BBEC-453A-B889-3BFB8A2ED8FE" : {
           "name" : "components\/Tooltip\/data-single"
         },
         "3670F033-3FA9-4B80-A20C-69CAA7CB9656" : {
           "name" : "components\/nav\/WiseInfluencer"
+        },
+        "711A64BE-789C-42EC-9AE7-4D9A0E9CC0C0" : {
+          "name" : "components\/Tooltip\/info"
         }
       }
     },
@@ -486,5 +576,32 @@
         }
       }
     }
-  }
+  },
+  "version" : 112,
+  "fonts" : [
+    "PingFangHK-Regular",
+    "MicrosoftYaHei-Bold",
+    "PingFangHK-Semibold",
+    "Roboto-Bold",
+    "Gotham-Bold",
+    "Roboto-Regular"
+  ],
+  "compatibilityVersion" : 99,
+  "app" : "com.bohemiancoding.sketch3",
+  "autosaved" : 0,
+  "variant" : "NONAPPSTORE",
+  "created" : {
+    "build" : 67048,
+    "appVersion" : "52.1",
+    "commit" : "44fbd80fbaed5dccd549e2fcf407dc48b5b4a84e",
+    "app" : "com.bohemiancoding.sketch3",
+    "compatibilityVersion" : 99,
+    "version" : 112,
+    "variant" : "NONAPPSTORE"
+  },
+  "saveHistory" : [
+    "NONAPPSTORE.67048"
+  ],
+  "appVersion" : "52.1",
+  "build" : 67048
 }
