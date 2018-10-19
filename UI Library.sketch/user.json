@@ -5,7 +5,7 @@
   },
   "2DE544C4-9E0C-47A4-BAAB-39CADE9A59A6" : {
     "scrollOrigin" : "{-748, 590}",
-    "zoomValue" : 1
+    "zoomValue" : 0.5
   },
   "DD36F0B3-9B77-4493-A56A-EF2D1C79B781" : {
     "scrollOrigin" : "{-2765, -1059}",
@@ -25,6 +25,6 @@
   },
   "55F53439-41BD-46C2-8D05-4A97FF051670" : {
     "scrollOrigin" : "{-96, 3880}",
-    "zoomValue" : 0.5
+    "zoomValue" : 0.25
   }
 }
