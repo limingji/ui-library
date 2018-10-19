@@ -1,11 +1,38 @@
 {
   "commit" : "44fbd80fbaed5dccd549e2fcf407dc48b5b4a84e",
+  "build" : 67048,
+  "version" : 112,
+  "fonts" : [
+    "PingFangHK-Regular",
+    "MicrosoftYaHei-Bold",
+    "PingFangHK-Semibold",
+    "Roboto-Bold",
+    "Gotham-Bold",
+    "Roboto-Regular"
+  ],
+  "compatibilityVersion" : 99,
+  "app" : "com.bohemiancoding.sketch3",
+  "autosaved" : 0,
+  "variant" : "NONAPPSTORE",
+  "created" : {
+    "build" : 67048,
+    "appVersion" : "52.1",
+    "commit" : "44fbd80fbaed5dccd549e2fcf407dc48b5b4a84e",
+    "app" : "com.bohemiancoding.sketch3",
+    "compatibilityVersion" : 99,
+    "version" : 112,
+    "variant" : "NONAPPSTORE"
+  },
+  "saveHistory" : [
+    "NONAPPSTORE.67048"
+  ],
+  "appVersion" : "52.1",
   "pagesAndArtboards" : {
     "ECD26649-E44D-4FAF-931E-9C8A38007114" : {
       "name" : "🚀 Icon",
       "artboards" : {
-        "C3A60869-F345-49BB-844C-C54543EBDDB3" : {
-          "name" : "icon\/industry\/Politics"
+        "16C4A36B-CBA6-492D-ABF3-9583AECD8318" : {
+          "name" : "icon\/action\/bookmarked"
         },
         "2778A155-5512-44A5-ABB6-9D35F4C724AE" : {
           "name" : "icon\/badge\/vip"
@@ -40,8 +67,8 @@
         "C025D57E-9535-4CE7-A1B0-BB1F7913B63A" : {
           "name" : "icon\/action\/cart"
         },
-        "F29927C7-866B-4535-8BAC-C71AAA9B4B34" : {
-          "name" : "icon\/industry\/realestate"
+        "0B148A72-32D3-47E4-95C0-09DA6225CA18" : {
+          "name" : "icon\/industry\/Food"
         },
         "7C0373AD-C5EC-4A89-9F9B-DE223B9FD3DC" : {
           "name" : "icon\/action\/user"
@@ -424,11 +451,11 @@
         "EADF8EEA-2E18-4565-86A3-5B1550678DC2" : {
           "name" : "icon\/industry\/IT & Digital Product"
         },
-        "16C4A36B-CBA6-492D-ABF3-9583AECD8318" : {
-          "name" : "icon\/action\/bookmarked"
+        "F29927C7-866B-4535-8BAC-C71AAA9B4B34" : {
+          "name" : "icon\/industry\/realestate"
         },
-        "0B148A72-32D3-47E4-95C0-09DA6225CA18" : {
-          "name" : "icon\/industry\/Food"
+        "C3A60869-F345-49BB-844C-C54543EBDDB3" : {
+          "name" : "icon\/industry\/Politics"
         }
       }
     },
@@ -473,8 +500,8 @@
     "DD36F0B3-9B77-4493-A56A-EF2D1C79B781" : {
       "name" : "✏️ Components",
       "artboards" : {
-        "A2AC9268-1FD4-465E-957D-B99F1816ECFD" : {
-          "name" : "components\/report"
+        "711A64BE-789C-42EC-9AE7-4D9A0E9CC0C0" : {
+          "name" : "components\/Tooltip\/info"
         },
         "F0574199-0ED0-43C0-8FBA-A9FEEA40DD6D" : {
           "name" : "components\/nav\/wisersOne-header"
@@ -482,14 +509,14 @@
         "A1B71A9A-8E9A-4153-ACE4-FA2452251D62" : {
           "name" : "components\/nav\/module-header"
         },
+        "A2AC9268-1FD4-465E-957D-B99F1816ECFD" : {
+          "name" : "components\/report"
+        },
         "4E66B272-BBEC-453A-B889-3BFB8A2ED8FE" : {
           "name" : "components\/Tooltip\/data-single"
         },
         "3670F033-3FA9-4B80-A20C-69CAA7CB9656" : {
           "name" : "components\/nav\/WiseInfluencer"
-        },
-        "711A64BE-789C-42EC-9AE7-4D9A0E9CC0C0" : {
-          "name" : "components\/Tooltip\/info"
         }
       }
     },
@@ -576,32 +603,5 @@
         }
       }
     }
-  },
-  "version" : 112,
-  "fonts" : [
-    "PingFangHK-Regular",
-    "MicrosoftYaHei-Bold",
-    "PingFangHK-Semibold",
-    "Roboto-Bold",
-    "Gotham-Bold",
-    "Roboto-Regular"
-  ],
-  "compatibilityVersion" : 99,
-  "app" : "com.bohemiancoding.sketch3",
-  "autosaved" : 0,
-  "variant" : "NONAPPSTORE",
-  "created" : {
-    "build" : 67048,
-    "appVersion" : "52.1",
-    "commit" : "44fbd80fbaed5dccd549e2fcf407dc48b5b4a84e",
-    "app" : "com.bohemiancoding.sketch3",
-    "compatibilityVersion" : 99,
-    "version" : 112,
-    "variant" : "NONAPPSTORE"
-  },
-  "saveHistory" : [
-    "NONAPPSTORE.67048"
-  ],
-  "appVersion" : "52.1",
-  "build" : 67048
+  }
 }
