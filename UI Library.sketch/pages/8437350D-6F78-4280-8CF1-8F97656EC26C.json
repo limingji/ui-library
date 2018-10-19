@@ -1,35 +1,12 @@
 {
   "isFlippedHorizontal" : false,
   "style" : {
-    "endMarkerType" : 0,
     "windingRule" : 1,
     "_class" : "style",
     "miterLimit" : 10,
-    "startMarkerType" : 0
+    "startMarkerType" : 0,
+    "endMarkerType" : 0
   },
-  "rotation" : 0,
-  "frame" : {
-    "y" : 0,
-    "width" : 0,
-    "_class" : "rect",
-    "x" : 0,
-    "constrainProportions" : false,
-    "height" : 0
-  },
-  "do_objectID" : "8437350D-6F78-4280-8CF1-8F97656EC26C",
-  "layerListExpandedType" : 0,
-  "exportOptions" : {
-    "exportFormats" : [
-
-    ],
-    "includedLayerIds" : [
-
-    ],
-    "layerOptions" : 0,
-    "_class" : "exportOptions",
-    "shouldTrim" : false
-  },
-  "hasClickThrough" : true,
   "horizontalRulerData" : {
     "base" : -588,
     "_class" : "rulerData",
@@ -37,7 +14,30 @@
 
     ]
   },
+  "frame" : {
+    "x" : 0,
+    "y" : 0,
+    "_class" : "rect",
+    "constrainProportions" : false,
+    "height" : 0,
+    "width" : 0
+  },
+  "do_objectID" : "8437350D-6F78-4280-8CF1-8F97656EC26C",
+  "hasClickThrough" : true,
+  "exportOptions" : {
+    "shouldTrim" : false,
+    "includedLayerIds" : [
+
+    ],
+    "layerOptions" : 0,
+    "_class" : "exportOptions",
+    "exportFormats" : [
+
+    ]
+  },
   "includeInCloudUpload" : true,
+  "layerListExpandedType" : 0,
+  "rotation" : 0,
   "verticalRulerData" : {
     "base" : -459,
     "_class" : "rulerData",
@@ -46,46 +46,20 @@
     ]
   },
   "isFlippedVertical" : false,
-  "nameIsFixed" : true,
+  "clippingMaskMode" : 0,
   "name" : "🔤 Text",
   "isVisible" : true,
-  "resizingType" : 0,
-  "clippingMaskMode" : 0,
   "hasClippingMask" : false,
   "layers" : [
     {
       "isFlippedHorizontal" : false,
       "style" : {
-        "endMarkerType" : 0,
         "windingRule" : 1,
         "_class" : "style",
         "miterLimit" : 10,
-        "startMarkerType" : 0
+        "startMarkerType" : 0,
+        "endMarkerType" : 0
       },
-      "rotation" : 0,
-      "frame" : {
-        "y" : -59,
-        "width" : 600,
-        "_class" : "rect",
-        "x" : 12,
-        "constrainProportions" : false,
-        "height" : 800
-      },
-      "do_objectID" : "6BF113D2-9902-464C-8F17-A7A052E4D39A",
-      "layerListExpandedType" : 0,
-      "exportOptions" : {
-        "exportFormats" : [
-
-        ],
-        "includedLayerIds" : [
-
-        ],
-        "layerOptions" : 0,
-        "_class" : "exportOptions",
-        "shouldTrim" : false
-      },
-      "hasClickThrough" : false,
-      "hasBackgroundColor" : false,
       "horizontalRulerData" : {
         "base" : 0,
         "_class" : "rulerData",
@@ -93,6 +67,30 @@
 
         ]
       },
+      "frame" : {
+        "x" : 12,
+        "y" : -59,
+        "_class" : "rect",
+        "constrainProportions" : false,
+        "height" : 800,
+        "width" : 600
+      },
+      "do_objectID" : "6BF113D2-9902-464C-8F17-A7A052E4D39A",
+      "hasClickThrough" : true,
+      "exportOptions" : {
+        "shouldTrim" : false,
+        "includedLayerIds" : [
+
+        ],
+        "layerOptions" : 0,
+        "_class" : "exportOptions",
+        "exportFormats" : [
+
+        ]
+      },
+      "hasBackgroundColor" : false,
+      "includeInCloudUpload" : true,
+      "layerListExpandedType" : 0,
       "backgroundColor" : {
         "red" : 1,
         "_class" : "color",
@@ -100,8 +98,8 @@
         "blue" : 1,
         "green" : 1
       },
-      "includeInCloudUpload" : true,
       "resizesContent" : false,
+      "rotation" : 0,
       "verticalRulerData" : {
         "base" : 0,
         "_class" : "rulerData",
@@ -110,11 +108,9 @@
         ]
       },
       "isFlippedVertical" : false,
-      "nameIsFixed" : true,
+      "clippingMaskMode" : 0,
       "name" : "EN",
       "isVisible" : true,
-      "resizingType" : 0,
-      "clippingMaskMode" : 0,
       "hasClippingMask" : false,
       "layers" : [
         {
@@ -122,7 +118,7 @@
           "sharedStyleID" : "15FD0025-6267-4F2E-BBBB-1955F95CE38D",
           "style" : {
             "_class" : "style",
-            "endMarkerType" : 0,
+            "miterLimit" : 10,
             "do_objectID" : "B1F090AA-71A2-480D-974B-45A1DF54F6E9",
             "startMarkerType" : 0,
             "windingRule" : 1,
@@ -130,6 +126,15 @@
               "verticalAlignment" : 0,
               "_class" : "textStyle",
               "encodedAttributes" : {
+                "paragraphStyle" : {
+                  "_class" : "paragraphStyle",
+                  "allowsDefaultTighteningForTruncation" : 0,
+                  "baseWritingDirection" : 0,
+                  "tighteningFactorForTruncation" : 0.050000000000000003,
+                  "alignment" : 0,
+                  "minimumLineHeight" : 50.400001525878913,
+                  "maximumLineHeight" : 50.400001525878913
+                },
                 "MSAttributedStringColorAttribute" : {
                   "red" : 0,
                   "_class" : "color",
@@ -143,50 +148,43 @@
                     "size" : 36
                   },
                   "_class" : "fontDescriptor"
-                },
-                "paragraphStyle" : {
-                  "_class" : "paragraphStyle",
-                  "allowsDefaultTighteningForTruncation" : 0,
-                  "tighteningFactorForTruncation" : 0.050000000000000003,
-                  "baseWritingDirection" : 0,
-                  "alignment" : 0,
-                  "minimumLineHeight" : 50.400001525878913,
-                  "maximumLineHeight" : 50.400001525878913
                 }
               }
             },
-            "miterLimit" : 10
+            "endMarkerType" : 0
           },
-          "rotation" : 0,
+          "glyphBounds" : "{{0, 10}, {309, 28}}",
           "frame" : {
-            "y" : 255,
-            "width" : 315,
-            "_class" : "rect",
             "x" : 36,
+            "y" : 255,
+            "_class" : "rect",
             "constrainProportions" : false,
-            "height" : 51
+            "height" : 51,
+            "width" : 315
           },
           "do_objectID" : "20516493-3732-40D2-8C7E-7038A8D68A1D",
           "layerListExpandedType" : 0,
           "exportOptions" : {
-            "exportFormats" : [
-
-            ],
+            "shouldTrim" : false,
             "includedLayerIds" : [
 
             ],
             "layerOptions" : 0,
             "_class" : "exportOptions",
-            "shouldTrim" : false
+            "exportFormats" : [
+
+            ]
           },
-          "glyphBounds" : "{{0, 10}, {309, 28}}",
+          "rotation" : 0,
           "dontSynchroniseWithSymbol" : false,
           "lineSpacingBehaviour" : 2,
           "textBehaviour" : 0,
           "isFlippedVertical" : false,
-          "nameIsFixed" : false,
+          "clippingMaskMode" : 0,
           "name" : "This is Headline H1",
           "isVisible" : true,
+          "hasClippingMask" : false,
+          "nameIsFixed" : false,
           "resizingType" : 0,
           "userInfo" : {
             "com.animaapp.stc-sketch-plugin" : {
@@ -195,18 +193,22 @@
               }
             }
           },
-          "clippingMaskMode" : 0,
-          "hasClippingMask" : false,
           "isLocked" : false,
           "attributedString" : {
-            "string" : "This is Headline H1",
-            "_class" : "attributedString",
             "attributes" : [
               {
                 "length" : 19,
                 "_class" : "stringAttribute",
-                "location" : 0,
                 "attributes" : {
+                  "paragraphStyle" : {
+                    "_class" : "paragraphStyle",
+                    "allowsDefaultTighteningForTruncation" : 0,
+                    "baseWritingDirection" : 0,
+                    "tighteningFactorForTruncation" : 0.050000000000000003,
+                    "alignment" : 0,
+                    "minimumLineHeight" : 50.400001525878913,
+                    "maximumLineHeight" : 50.400001525878913
+                  },
                   "MSAttributedStringColorAttribute" : {
                     "red" : 0,
                     "_class" : "color",
@@ -220,19 +222,13 @@
                       "size" : 36
                     },
                     "_class" : "fontDescriptor"
-                  },
-                  "paragraphStyle" : {
-                    "_class" : "paragraphStyle",
-                    "allowsDefaultTighteningForTruncation" : 0,
-                    "tighteningFactorForTruncation" : 0.050000000000000003,
-                    "baseWritingDirection" : 0,
-                    "alignment" : 0,
-                    "minimumLineHeight" : 50.400001525878913,
-                    "maximumLineHeight" : 50.400001525878913
                   }
-                }
+                },
+                "location" : 0
               }
-            ]
+            ],
+            "_class" : "attributedString",
+            "string" : "This is Headline H1"
           },
           "shouldBreakMaskChain" : false,
           "isFixedToViewport" : false,
@@ -246,7 +242,7 @@
           "sharedStyleID" : "78065DDF-06E7-4F5F-B3FE-9191484448C2",
           "style" : {
             "_class" : "style",
-            "endMarkerType" : 0,
+            "miterLimit" : 10,
             "do_objectID" : "2BF5DAE8-BFBC-4E60-8CBD-02126DC4164B",
             "startMarkerType" : 0,
             "windingRule" : 1,
@@ -254,6 +250,15 @@
               "verticalAlignment" : 0,
               "_class" : "textStyle",
               "encodedAttributes" : {
+                "paragraphStyle" : {
+                  "_class" : "paragraphStyle",
+                  "allowsDefaultTighteningForTruncation" : 0,
+                  "baseWritingDirection" : 0,
+                  "tighteningFactorForTruncation" : 0.050000000000000003,
+                  "alignment" : 0,
+                  "minimumLineHeight" : 67.199996948242188,
+                  "maximumLineHeight" : 67.199996948242188
+                },
                 "MSAttributedStringColorAttribute" : {
                   "red" : 0,
                   "_class" : "color",
@@ -267,26 +272,17 @@
                     "size" : 48
                   },
                   "_class" : "fontDescriptor"
-                },
-                "paragraphStyle" : {
-                  "_class" : "paragraphStyle",
-                  "allowsDefaultTighteningForTruncation" : 0,
-                  "tighteningFactorForTruncation" : 0.050000000000000003,
-                  "baseWritingDirection" : 0,
-                  "alignment" : 0,
-                  "minimumLineHeight" : 67.199996948242188,
-                  "maximumLineHeight" : 67.199996948242188
                 }
               }
             },
-            "miterLimit" : 10
+            "endMarkerType" : 0
           },
-          "rotation" : 0,
+          "glyphBounds" : "{{1, 14}, {381, 47}}",
           "frame" : {
             "_class" : "rect",
             "height" : 68,
-            "do_objectID" : "82EC0139-226D-4748-86BA-9A36092C86B1",
             "constrainProportions" : false,
+            "do_objectID" : "82EC0139-226D-4748-86BA-9A36092C86B1",
             "x" : 36,
             "width" : 391,
             "y" : 36
@@ -294,25 +290,27 @@
           "do_objectID" : "80DDB30C-95B9-4E3F-B5C3-3DB4174A469F",
           "layerListExpandedType" : 0,
           "exportOptions" : {
-            "exportFormats" : [
-
-            ],
+            "shouldTrim" : false,
             "do_objectID" : "DC9BD272-9805-42D1-BAF6-02A3309AA618",
             "includedLayerIds" : [
 
             ],
             "_class" : "exportOptions",
             "layerOptions" : 0,
-            "shouldTrim" : false
+            "exportFormats" : [
+
+            ]
           },
-          "glyphBounds" : "{{1, 14}, {381, 47}}",
+          "rotation" : 0,
           "dontSynchroniseWithSymbol" : false,
           "lineSpacingBehaviour" : 2,
           "textBehaviour" : 0,
           "isFlippedVertical" : false,
-          "nameIsFixed" : false,
+          "clippingMaskMode" : 0,
           "name" : "This is Big Text B1",
           "isVisible" : true,
+          "hasClippingMask" : false,
+          "nameIsFixed" : false,
           "resizingType" : 0,
           "userInfo" : {
             "com.animaapp.stc-sketch-plugin" : {
@@ -321,18 +319,22 @@
               }
             }
           },
-          "clippingMaskMode" : 0,
-          "hasClippingMask" : false,
           "isLocked" : false,
           "attributedString" : {
-            "string" : "This is Big Text B1",
-            "_class" : "attributedString",
             "attributes" : [
               {
                 "length" : 19,
                 "_class" : "stringAttribute",
-                "location" : 0,
                 "attributes" : {
+                  "paragraphStyle" : {
+                    "_class" : "paragraphStyle",
+                    "allowsDefaultTighteningForTruncation" : 0,
+                    "baseWritingDirection" : 0,
+                    "tighteningFactorForTruncation" : 0.050000000000000003,
+                    "alignment" : 0,
+                    "minimumLineHeight" : 67.199996948242188,
+                    "maximumLineHeight" : 67.199996948242188
+                  },
                   "MSAttributedStringColorAttribute" : {
                     "red" : 0,
                     "_class" : "color",
@@ -346,19 +348,13 @@
                       "size" : 48
                     },
                     "_class" : "fontDescriptor"
-                  },
-                  "paragraphStyle" : {
-                    "_class" : "paragraphStyle",
-                    "allowsDefaultTighteningForTruncation" : 0,
-                    "tighteningFactorForTruncation" : 0.050000000000000003,
-                    "baseWritingDirection" : 0,
-                    "alignment" : 0,
-                    "minimumLineHeight" : 67.199996948242188,
-                    "maximumLineHeight" : 67.199996948242188
                   }
-                }
+                },
+                "location" : 0
               }
-            ]
+            ],
+            "_class" : "attributedString",
+            "string" : "This is Big Text B1"
           },
           "shouldBreakMaskChain" : false,
           "isFixedToViewport" : false,
@@ -372,7 +368,7 @@
           "sharedStyleID" : "FD6D81DF-7A4F-47CD-8D91-5AE9F0264F04",
           "style" : {
             "_class" : "style",
-            "endMarkerType" : 0,
+            "miterLimit" : 10,
             "do_objectID" : "0424143B-9638-4992-98A1-A79D1B4AA08F",
             "startMarkerType" : 0,
             "windingRule" : 1,
@@ -380,6 +376,15 @@
               "verticalAlignment" : 0,
               "_class" : "textStyle",
               "encodedAttributes" : {
+                "paragraphStyle" : {
+                  "_class" : "paragraphStyle",
+                  "allowsDefaultTighteningForTruncation" : 0,
+                  "baseWritingDirection" : 0,
+                  "tighteningFactorForTruncation" : 0.050000000000000003,
+                  "alignment" : 0,
+                  "minimumLineHeight" : 50.400001525878913,
+                  "maximumLineHeight" : 50.400001525878913
+                },
                 "MSAttributedStringColorAttribute" : {
                   "red" : 0,
                   "_class" : "color",
@@ -393,26 +398,17 @@
                     "size" : 36
                   },
                   "_class" : "fontDescriptor"
-                },
-                "paragraphStyle" : {
-                  "_class" : "paragraphStyle",
-                  "allowsDefaultTighteningForTruncation" : 0,
-                  "tighteningFactorForTruncation" : 0.050000000000000003,
-                  "baseWritingDirection" : 0,
-                  "alignment" : 0,
-                  "minimumLineHeight" : 50.400001525878913,
-                  "maximumLineHeight" : 50.400001525878913
                 }
               }
             },
-            "miterLimit" : 10
+            "endMarkerType" : 0
           },
-          "rotation" : 0,
+          "glyphBounds" : "{{0, 10}, {292, 35}}",
           "frame" : {
             "_class" : "rect",
             "height" : 51,
-            "do_objectID" : "AA45835C-573F-4FE4-B08B-4CC477349A40",
             "constrainProportions" : false,
+            "do_objectID" : "AA45835C-573F-4FE4-B08B-4CC477349A40",
             "x" : 36,
             "width" : 294,
             "y" : 104
@@ -420,25 +416,27 @@
           "do_objectID" : "F5E960DD-BDFF-4979-9EC6-283294C85B8F",
           "layerListExpandedType" : 0,
           "exportOptions" : {
-            "exportFormats" : [
-
-            ],
+            "shouldTrim" : false,
             "do_objectID" : "99A1AC43-BD31-4CEA-BBB0-8523461F4FC8",
             "includedLayerIds" : [
 
             ],
             "_class" : "exportOptions",
             "layerOptions" : 0,
-            "shouldTrim" : false
+            "exportFormats" : [
+
+            ]
           },
-          "glyphBounds" : "{{0, 10}, {292, 35}}",
+          "rotation" : 0,
           "dontSynchroniseWithSymbol" : false,
           "lineSpacingBehaviour" : 2,
           "textBehaviour" : 0,
           "isFlippedVertical" : false,
-          "nameIsFixed" : false,
+          "clippingMaskMode" : 0,
           "name" : "This is Big Text B2",
           "isVisible" : true,
+          "hasClippingMask" : false,
+          "nameIsFixed" : false,
           "resizingType" : 0,
           "userInfo" : {
             "com.animaapp.stc-sketch-plugin" : {
@@ -447,18 +445,22 @@
               }
             }
           },
-          "clippingMaskMode" : 0,
-          "hasClippingMask" : false,
           "isLocked" : false,
           "attributedString" : {
-            "string" : "This is Big Text B2",
-            "_class" : "attributedString",
             "attributes" : [
               {
                 "length" : 19,
                 "_class" : "stringAttribute",
-                "location" : 0,
                 "attributes" : {
+                  "paragraphStyle" : {
+                    "_class" : "paragraphStyle",
+                    "allowsDefaultTighteningForTruncation" : 0,
+                    "baseWritingDirection" : 0,
+                    "tighteningFactorForTruncation" : 0.050000000000000003,
+                    "alignment" : 0,
+                    "minimumLineHeight" : 50.400001525878913,
+                    "maximumLineHeight" : 50.400001525878913
+                  },
                   "MSAttributedStringColorAttribute" : {
                     "red" : 0,
                     "_class" : "color",
@@ -472,19 +474,13 @@
                       "size" : 36
                     },
                     "_class" : "fontDescriptor"
-                  },
-                  "paragraphStyle" : {
-                    "_class" : "paragraphStyle",
-                    "allowsDefaultTighteningForTruncation" : 0,
-                    "tighteningFactorForTruncation" : 0.050000000000000003,
-                    "baseWritingDirection" : 0,
-                    "alignment" : 0,
-                    "minimumLineHeight" : 50.400001525878913,
-                    "maximumLineHeight" : 50.400001525878913
                   }
-                }
+                },
+                "location" : 0
               }
-            ]
+            ],
+            "_class" : "attributedString",
+            "string" : "This is Big Text B2"
           },
           "shouldBreakMaskChain" : false,
           "isFixedToViewport" : false,
@@ -498,7 +494,7 @@
           "sharedStyleID" : "EA00E733-00EC-4899-BBAB-0E0E0CDEB79B",
           "style" : {
             "_class" : "style",
-            "endMarkerType" : 0,
+            "miterLimit" : 10,
             "do_objectID" : "D7CB9BB8-787C-4BB5-B041-E1C958A343D2",
             "startMarkerType" : 0,
             "windingRule" : 1,
@@ -506,6 +502,15 @@
               "verticalAlignment" : 0,
               "_class" : "textStyle",
               "encodedAttributes" : {
+                "paragraphStyle" : {
+                  "_class" : "paragraphStyle",
+                  "allowsDefaultTighteningForTruncation" : 0,
+                  "baseWritingDirection" : 0,
+                  "tighteningFactorForTruncation" : 0.050000000000000003,
+                  "alignment" : 0,
+                  "minimumLineHeight" : 33.599998474121087,
+                  "maximumLineHeight" : 33.599998474121087
+                },
                 "MSAttributedStringColorAttribute" : {
                   "red" : 0,
                   "_class" : "color",
@@ -519,26 +524,17 @@
                     "size" : 24
                   },
                   "_class" : "fontDescriptor"
-                },
-                "paragraphStyle" : {
-                  "_class" : "paragraphStyle",
-                  "allowsDefaultTighteningForTruncation" : 0,
-                  "tighteningFactorForTruncation" : 0.050000000000000003,
-                  "baseWritingDirection" : 0,
-                  "alignment" : 0,
-                  "minimumLineHeight" : 33.599998474121087,
-                  "maximumLineHeight" : 33.599998474121087
                 }
               }
             },
-            "miterLimit" : 10
+            "endMarkerType" : 0
           },
-          "rotation" : 0,
+          "glyphBounds" : "{{0, 6}, {194, 24}}",
           "frame" : {
             "_class" : "rect",
             "height" : 34,
-            "do_objectID" : "152C6EC1-4DE9-4CE1-9B6C-ABF5BC5E04EB",
             "constrainProportions" : false,
+            "do_objectID" : "152C6EC1-4DE9-4CE1-9B6C-ABF5BC5E04EB",
             "x" : 36,
             "width" : 196,
             "y" : 155
@@ -546,25 +542,27 @@
           "do_objectID" : "9B2C2990-C08C-4134-A2CC-F1DE996C429D",
           "layerListExpandedType" : 0,
           "exportOptions" : {
-            "exportFormats" : [
-
-            ],
+            "shouldTrim" : false,
             "do_objectID" : "4C5645FB-B598-40AC-BE98-6F1027CBF62B",
             "includedLayerIds" : [
 
             ],
             "_class" : "exportOptions",
             "layerOptions" : 0,
-            "shouldTrim" : false
+            "exportFormats" : [
+
+            ]
           },
-          "glyphBounds" : "{{0, 6}, {194, 24}}",
+          "rotation" : 0,
           "dontSynchroniseWithSymbol" : false,
           "lineSpacingBehaviour" : 2,
           "textBehaviour" : 0,
           "isFlippedVertical" : false,
-          "nameIsFixed" : false,
+          "clippingMaskMode" : 0,
           "name" : "This is Big Text B3",
           "isVisible" : true,
+          "hasClippingMask" : false,
+          "nameIsFixed" : false,
           "resizingType" : 0,
           "userInfo" : {
             "com.animaapp.stc-sketch-plugin" : {
@@ -573,18 +571,22 @@
               }
             }
           },
-          "clippingMaskMode" : 0,
-          "hasClippingMask" : false,
           "isLocked" : false,
           "attributedString" : {
-            "string" : "This is Big Text B3",
-            "_class" : "attributedString",
             "attributes" : [
               {
                 "length" : 19,
                 "_class" : "stringAttribute",
-                "location" : 0,
                 "attributes" : {
+                  "paragraphStyle" : {
+                    "_class" : "paragraphStyle",
+                    "allowsDefaultTighteningForTruncation" : 0,
+                    "baseWritingDirection" : 0,
+                    "tighteningFactorForTruncation" : 0.050000000000000003,
+                    "alignment" : 0,
+                    "minimumLineHeight" : 33.599998474121087,
+                    "maximumLineHeight" : 33.599998474121087
+                  },
                   "MSAttributedStringColorAttribute" : {
                     "red" : 0,
                     "_class" : "color",
@@ -598,19 +600,13 @@
                       "size" : 24
                     },
                     "_class" : "fontDescriptor"
-                  },
-                  "paragraphStyle" : {
-                    "_class" : "paragraphStyle",
-                    "allowsDefaultTighteningForTruncation" : 0,
-                    "tighteningFactorForTruncation" : 0.050000000000000003,
-                    "baseWritingDirection" : 0,
-                    "alignment" : 0,
-                    "minimumLineHeight" : 33.599998474121087,
-                    "maximumLineHeight" : 33.599998474121087
                   }
-                }
+                },
+                "location" : 0
               }
-            ]
+            ],
+            "_class" : "attributedString",
+            "string" : "This is Big Text B3"
           },
           "shouldBreakMaskChain" : false,
           "isFixedToViewport" : false,
@@ -624,7 +620,7 @@
           "sharedStyleID" : "2401DC53-817F-4B64-827F-92C5ABD9AAC4",
           "style" : {
             "_class" : "style",
-            "endMarkerType" : 0,
+            "miterLimit" : 10,
             "do_objectID" : "2E4159C0-6FE3-4E33-B181-9F6E903878EB",
             "startMarkerType" : 0,
             "windingRule" : 1,
@@ -632,6 +628,15 @@
               "verticalAlignment" : 0,
               "_class" : "textStyle",
               "encodedAttributes" : {
+                "paragraphStyle" : {
+                  "_class" : "paragraphStyle",
+                  "allowsDefaultTighteningForTruncation" : 0,
+                  "baseWritingDirection" : 0,
+                  "tighteningFactorForTruncation" : 0.050000000000000003,
+                  "alignment" : 0,
+                  "minimumLineHeight" : 25.20000076293945,
+                  "maximumLineHeight" : 25.20000076293945
+                },
                 "MSAttributedStringColorAttribute" : {
                   "red" : 0,
                   "_class" : "color",
@@ -645,26 +650,17 @@
                     "size" : 18
                   },
                   "_class" : "fontDescriptor"
-                },
-                "paragraphStyle" : {
-                  "_class" : "paragraphStyle",
-                  "allowsDefaultTighteningForTruncation" : 0,
-                  "tighteningFactorForTruncation" : 0.050000000000000003,
-                  "baseWritingDirection" : 0,
-                  "alignment" : 0,
-                  "minimumLineHeight" : 25.20000076293945,
-                  "maximumLineHeight" : 25.20000076293945
                 }
               }
             },
-            "miterLimit" : 10
+            "endMarkerType" : 0
           },
-          "rotation" : 0,
+          "glyphBounds" : "{{0, 5}, {147, 18}}",
           "frame" : {
             "_class" : "rect",
             "height" : 26,
-            "do_objectID" : "020E8B25-762C-46F9-ACBE-3174C70028B5",
             "constrainProportions" : false,
+            "do_objectID" : "020E8B25-762C-46F9-ACBE-3174C70028B5",
             "x" : 36,
             "width" : 147,
             "y" : 189
@@ -672,25 +668,27 @@
           "do_objectID" : "B223B735-C42B-417E-888B-DD30856F7CDB",
           "layerListExpandedType" : 0,
           "exportOptions" : {
-            "exportFormats" : [
-
-            ],
+            "shouldTrim" : false,
             "do_objectID" : "0E03D93D-5279-4479-8932-049B9BA8A1B2",
             "includedLayerIds" : [
 
             ],
             "_class" : "exportOptions",
             "layerOptions" : 0,
-            "shouldTrim" : false
+            "exportFormats" : [
+
+            ]
           },
-          "glyphBounds" : "{{0, 5}, {147, 18}}",
+          "rotation" : 0,
           "dontSynchroniseWithSymbol" : false,
           "lineSpacingBehaviour" : 2,
           "textBehaviour" : 0,
           "isFlippedVertical" : false,
-          "nameIsFixed" : false,
+          "clippingMaskMode" : 0,
           "name" : "This is Big Text B4",
           "isVisible" : true,
+          "hasClippingMask" : false,
+          "nameIsFixed" : false,
           "resizingType" : 0,
           "userInfo" : {
             "com.animaapp.stc-sketch-plugin" : {
@@ -699,18 +697,22 @@
               }
             }
           },
-          "clippingMaskMode" : 0,
-          "hasClippingMask" : false,
           "isLocked" : false,
           "attributedString" : {
-            "string" : "This is Big Text B4",
-            "_class" : "attributedString",
             "attributes" : [
               {
                 "length" : 19,
                 "_class" : "stringAttribute",
-                "location" : 0,
                 "attributes" : {
+                  "paragraphStyle" : {
+                    "_class" : "paragraphStyle",
+                    "allowsDefaultTighteningForTruncation" : 0,
+                    "baseWritingDirection" : 0,
+                    "tighteningFactorForTruncation" : 0.050000000000000003,
+                    "alignment" : 0,
+                    "minimumLineHeight" : 25.20000076293945,
+                    "maximumLineHeight" : 25.20000076293945
+                  },
                   "MSAttributedStringColorAttribute" : {
                     "red" : 0,
                     "_class" : "color",
@@ -724,19 +726,13 @@
                       "size" : 18
                     },
                     "_class" : "fontDescriptor"
-                  },
-                  "paragraphStyle" : {
-                    "_class" : "paragraphStyle",
-                    "allowsDefaultTighteningForTruncation" : 0,
-                    "tighteningFactorForTruncation" : 0.050000000000000003,
-                    "baseWritingDirection" : 0,
-                    "alignment" : 0,
-                    "minimumLineHeight" : 25.20000076293945,
-                    "maximumLineHeight" : 25.20000076293945
                   }
-                }
+                },
+                "location" : 0
               }
-            ]
+            ],
+            "_class" : "attributedString",
+            "string" : "This is Big Text B4"
           },
           "shouldBreakMaskChain" : false,
           "isFixedToViewport" : false,
@@ -750,7 +746,7 @@
           "sharedStyleID" : "E21C8840-511D-466C-8302-EBF4574BFC9F",
           "style" : {
             "_class" : "style",
-            "endMarkerType" : 0,
+            "miterLimit" : 10,
             "do_objectID" : "6727899C-1B1E-4447-B6DA-DEEC63386F8C",
             "startMarkerType" : 0,
             "windingRule" : 1,
@@ -758,6 +754,15 @@
               "verticalAlignment" : 0,
               "_class" : "textStyle",
               "encodedAttributes" : {
+                "paragraphStyle" : {
+                  "_class" : "paragraphStyle",
+                  "allowsDefaultTighteningForTruncation" : 0,
+                  "baseWritingDirection" : 0,
+                  "tighteningFactorForTruncation" : 0.050000000000000003,
+                  "alignment" : 0,
+                  "minimumLineHeight" : 39.200000762939453,
+                  "maximumLineHeight" : 39.200000762939453
+                },
                 "MSAttributedStringColorAttribute" : {
                   "red" : 0,
                   "_class" : "color",
@@ -771,26 +776,17 @@
                     "size" : 28
                   },
                   "_class" : "fontDescriptor"
-                },
-                "paragraphStyle" : {
-                  "_class" : "paragraphStyle",
-                  "allowsDefaultTighteningForTruncation" : 0,
-                  "tighteningFactorForTruncation" : 0.050000000000000003,
-                  "baseWritingDirection" : 0,
-                  "alignment" : 0,
-                  "minimumLineHeight" : 39.200000762939453,
-                  "maximumLineHeight" : 39.200000762939453
                 }
               }
             },
-            "miterLimit" : 10
+            "endMarkerType" : 0
           },
-          "rotation" : 0,
+          "glyphBounds" : "{{0, 8}, {244, 22}}",
           "frame" : {
             "_class" : "rect",
             "height" : 40,
-            "do_objectID" : "58654916-2BAB-41D2-AA20-A795DA2BA7B5",
             "constrainProportions" : false,
+            "do_objectID" : "58654916-2BAB-41D2-AA20-A795DA2BA7B5",
             "x" : 36,
             "width" : 245,
             "y" : 306
@@ -798,25 +794,27 @@
           "do_objectID" : "FE76091F-58F6-47DA-A12B-59995FE60CEE",
           "layerListExpandedType" : 0,
           "exportOptions" : {
-            "exportFormats" : [
-
-            ],
+            "shouldTrim" : false,
             "do_objectID" : "F7D334E0-50F2-4390-B90F-B0008493AB01",
             "includedLayerIds" : [
 
             ],
             "_class" : "exportOptions",
             "layerOptions" : 0,
-            "shouldTrim" : false
+            "exportFormats" : [
+
+            ]
           },
-          "glyphBounds" : "{{0, 8}, {244, 22}}",
+          "rotation" : 0,
           "dontSynchroniseWithSymbol" : false,
           "lineSpacingBehaviour" : 2,
           "textBehaviour" : 0,
           "isFlippedVertical" : false,
-          "nameIsFixed" : false,
+          "clippingMaskMode" : 0,
           "name" : "This is Headline H2",
           "isVisible" : true,
+          "hasClippingMask" : false,
+          "nameIsFixed" : false,
           "resizingType" : 0,
           "userInfo" : {
             "com.animaapp.stc-sketch-plugin" : {
@@ -825,18 +823,22 @@
               }
             }
           },
-          "clippingMaskMode" : 0,
-          "hasClippingMask" : false,
           "isLocked" : false,
           "attributedString" : {
-            "string" : "This is Headline H2",
-            "_class" : "attributedString",
             "attributes" : [
               {
                 "length" : 19,
                 "_class" : "stringAttribute",
-                "location" : 0,
                 "attributes" : {
+                  "paragraphStyle" : {
+                    "_class" : "paragraphStyle",
+                    "allowsDefaultTighteningForTruncation" : 0,
+                    "baseWritingDirection" : 0,
+                    "tighteningFactorForTruncation" : 0.050000000000000003,
+                    "alignment" : 0,
+                    "minimumLineHeight" : 39.200000762939453,
+                    "maximumLineHeight" : 39.200000762939453
+                  },
                   "MSAttributedStringColorAttribute" : {
                     "red" : 0,
                     "_class" : "color",
@@ -850,19 +852,13 @@
                       "size" : 28
                     },
                     "_class" : "fontDescriptor"
-                  },
-                  "paragraphStyle" : {
-                    "_class" : "paragraphStyle",
-                    "allowsDefaultTighteningForTruncation" : 0,
-                    "tighteningFactorForTruncation" : 0.050000000000000003,
-                    "baseWritingDirection" : 0,
-                    "alignment" : 0,
-                    "minimumLineHeight" : 39.200000762939453,
-                    "maximumLineHeight" : 39.200000762939453
                   }
-                }
+                },
+                "location" : 0
               }
-            ]
+            ],
+            "_class" : "attributedString",
+            "string" : "This is Headline H2"
           },
           "shouldBreakMaskChain" : false,
           "isFixedToViewport" : false,
@@ -876,7 +872,7 @@
           "sharedStyleID" : "CF870923-5A23-44AE-BF00-3DE27FE8B710",
           "style" : {
             "_class" : "style",
-            "endMarkerType" : 0,
+            "miterLimit" : 10,
             "do_objectID" : "403B4290-03F1-4124-B67D-241A11D3E8CF",
             "startMarkerType" : 0,
             "windingRule" : 1,
@@ -884,6 +880,15 @@
               "verticalAlignment" : 0,
               "_class" : "textStyle",
               "encodedAttributes" : {
+                "paragraphStyle" : {
+                  "_class" : "paragraphStyle",
+                  "allowsDefaultTighteningForTruncation" : 0,
+                  "baseWritingDirection" : 0,
+                  "tighteningFactorForTruncation" : 0.050000000000000003,
+                  "alignment" : 0,
+                  "minimumLineHeight" : 33.599998474121087,
+                  "maximumLineHeight" : 33.599998474121087
+                },
                 "MSAttributedStringColorAttribute" : {
                   "red" : 0,
                   "_class" : "color",
@@ -897,26 +902,17 @@
                     "size" : 24
                   },
                   "_class" : "fontDescriptor"
-                },
-                "paragraphStyle" : {
-                  "_class" : "paragraphStyle",
-                  "allowsDefaultTighteningForTruncation" : 0,
-                  "tighteningFactorForTruncation" : 0.050000000000000003,
-                  "baseWritingDirection" : 0,
-                  "alignment" : 0,
-                  "minimumLineHeight" : 33.599998474121087,
-                  "maximumLineHeight" : 33.599998474121087
                 }
               }
             },
-            "miterLimit" : 10
+            "endMarkerType" : 0
           },
-          "rotation" : 0,
+          "glyphBounds" : "{{0, 6}, {209, 19}}",
           "frame" : {
             "_class" : "rect",
             "height" : 34,
-            "do_objectID" : "99ECD27F-3CF1-4249-97EA-6DDBEA98B5FB",
             "constrainProportions" : false,
+            "do_objectID" : "99ECD27F-3CF1-4249-97EA-6DDBEA98B5FB",
             "x" : 36,
             "width" : 210,
             "y" : 346
@@ -924,25 +920,27 @@
           "do_objectID" : "6E978BBD-C906-44F3-AF8C-5AA823D90162",
           "layerListExpandedType" : 0,
           "exportOptions" : {
-            "exportFormats" : [
-
-            ],
+            "shouldTrim" : false,
             "do_objectID" : "072FE60D-8928-4F97-A5BE-DF03E42F7368",
             "includedLayerIds" : [
 
             ],
             "_class" : "exportOptions",
             "layerOptions" : 0,
-            "shouldTrim" : false
+            "exportFormats" : [
+
+            ]
           },
-          "glyphBounds" : "{{0, 6}, {209, 19}}",
+          "rotation" : 0,
           "dontSynchroniseWithSymbol" : false,
           "lineSpacingBehaviour" : 2,
           "textBehaviour" : 0,
           "isFlippedVertical" : false,
-          "nameIsFixed" : false,
+          "clippingMaskMode" : 0,
           "name" : "This is Headline H3",
           "isVisible" : true,
+          "hasClippingMask" : false,
+          "nameIsFixed" : false,
           "resizingType" : 0,
           "userInfo" : {
             "com.animaapp.stc-sketch-plugin" : {
@@ -951,18 +949,22 @@
               }
             }
           },
-          "clippingMaskMode" : 0,
-          "hasClippingMask" : false,
           "isLocked" : false,
           "attributedString" : {
-            "string" : "This is Headline H3",
-            "_class" : "attributedString",
             "attributes" : [
               {
                 "length" : 19,
                 "_class" : "stringAttribute",
-                "location" : 0,
                 "attributes" : {
+                  "paragraphStyle" : {
+                    "_class" : "paragraphStyle",
+                    "allowsDefaultTighteningForTruncation" : 0,
+                    "baseWritingDirection" : 0,
+                    "tighteningFactorForTruncation" : 0.050000000000000003,
+                    "alignment" : 0,
+                    "minimumLineHeight" : 33.599998474121087,
+                    "maximumLineHeight" : 33.599998474121087
+                  },
                   "MSAttributedStringColorAttribute" : {
                     "red" : 0,
                     "_class" : "color",
@@ -976,19 +978,13 @@
                       "size" : 24
                     },
                     "_class" : "fontDescriptor"
-                  },
-                  "paragraphStyle" : {
-                    "_class" : "paragraphStyle",
-                    "allowsDefaultTighteningForTruncation" : 0,
-                    "tighteningFactorForTruncation" : 0.050000000000000003,
-                    "baseWritingDirection" : 0,
-                    "alignment" : 0,
-                    "minimumLineHeight" : 33.599998474121087,
-                    "maximumLineHeight" : 33.599998474121087
                   }
-                }
+                },
+                "location" : 0
               }
-            ]
+            ],
+            "_class" : "attributedString",
+            "string" : "This is Headline H3"
           },
           "shouldBreakMaskChain" : false,
           "isFixedToViewport" : false,
@@ -1002,7 +998,7 @@
           "sharedStyleID" : "7BA0580C-4B75-4003-B024-E363FB866701",
           "style" : {
             "_class" : "style",
-            "endMarkerType" : 0,
+            "miterLimit" : 10,
             "do_objectID" : "F522C5D4-2019-47C7-B197-E74538C9F66E",
             "startMarkerType" : 0,
             "windingRule" : 1,
@@ -1010,6 +1006,15 @@
               "verticalAlignment" : 0,
               "_class" : "textStyle",
               "encodedAttributes" : {
+                "paragraphStyle" : {
+                  "_class" : "paragraphStyle",
+                  "allowsDefaultTighteningForTruncation" : 0,
+                  "baseWritingDirection" : 0,
+                  "tighteningFactorForTruncation" : 0.050000000000000003,
+                  "alignment" : 0,
+                  "minimumLineHeight" : 25.20000076293945,
+                  "maximumLineHeight" : 25.20000076293945
+                },
                 "MSAttributedStringColorAttribute" : {
                   "red" : 0,
                   "_class" : "color",
@@ -1023,26 +1028,17 @@
                     "size" : 18
                   },
                   "_class" : "fontDescriptor"
-                },
-                "paragraphStyle" : {
-                  "_class" : "paragraphStyle",
-                  "allowsDefaultTighteningForTruncation" : 0,
-                  "tighteningFactorForTruncation" : 0.050000000000000003,
-                  "baseWritingDirection" : 0,
-                  "alignment" : 0,
-                  "minimumLineHeight" : 25.20000076293945,
-                  "maximumLineHeight" : 25.20000076293945
                 }
               }
             },
-            "miterLimit" : 10
+            "endMarkerType" : 0
           },
-          "rotation" : 0,
+          "glyphBounds" : "{{0, 5}, {157, 15}}",
           "frame" : {
             "_class" : "rect",
             "height" : 26,
-            "do_objectID" : "F827C158-3942-43A5-AC72-884944E1A7B2",
             "constrainProportions" : false,
+            "do_objectID" : "F827C158-3942-43A5-AC72-884944E1A7B2",
             "x" : 36,
             "width" : 158,
             "y" : 380
@@ -1050,25 +1046,27 @@
           "do_objectID" : "5CB99B40-C402-40B6-90BD-86701EE7570F",
           "layerListExpandedType" : 0,
           "exportOptions" : {
-            "exportFormats" : [
-
-            ],
+            "shouldTrim" : false,
             "do_objectID" : "7F9A9C0F-74EC-4FDC-8C69-23101AE7C376",
             "includedLayerIds" : [
 
             ],
             "_class" : "exportOptions",
             "layerOptions" : 0,
-            "shouldTrim" : false
+            "exportFormats" : [
+
+            ]
           },
-          "glyphBounds" : "{{0, 5}, {157, 15}}",
+          "rotation" : 0,
           "dontSynchroniseWithSymbol" : false,
           "lineSpacingBehaviour" : 2,
           "textBehaviour" : 0,
           "isFlippedVertical" : false,
-          "nameIsFixed" : false,
+          "clippingMaskMode" : 0,
           "name" : "This is Headline H4",
           "isVisible" : true,
+          "hasClippingMask" : false,
+          "nameIsFixed" : false,
           "resizingType" : 0,
           "userInfo" : {
             "com.animaapp.stc-sketch-plugin" : {
@@ -1077,18 +1075,22 @@
               }
             }
           },
-          "clippingMaskMode" : 0,
-          "hasClippingMask" : false,
           "isLocked" : false,
           "attributedString" : {
-            "string" : "This is Headline H4",
-            "_class" : "attributedString",
             "attributes" : [
               {
                 "length" : 19,
                 "_class" : "stringAttribute",
-                "location" : 0,
                 "attributes" : {
+                  "paragraphStyle" : {
+                    "_class" : "paragraphStyle",
+                    "allowsDefaultTighteningForTruncation" : 0,
+                    "baseWritingDirection" : 0,
+                    "tighteningFactorForTruncation" : 0.050000000000000003,
+                    "alignment" : 0,
+                    "minimumLineHeight" : 25.20000076293945,
+                    "maximumLineHeight" : 25.20000076293945
+                  },
                   "MSAttributedStringColorAttribute" : {
                     "red" : 0,
                     "_class" : "color",
@@ -1102,19 +1104,13 @@
                       "size" : 18
                     },
                     "_class" : "fontDescriptor"
-                  },
-                  "paragraphStyle" : {
-                    "_class" : "paragraphStyle",
-                    "allowsDefaultTighteningForTruncation" : 0,
-                    "tighteningFactorForTruncation" : 0.050000000000000003,
-                    "baseWritingDirection" : 0,
-                    "alignment" : 0,
-                    "minimumLineHeight" : 25.20000076293945,
-                    "maximumLineHeight" : 25.20000076293945
                   }
-                }
+                },
+                "location" : 0
               }
-            ]
+            ],
+            "_class" : "attributedString",
+            "string" : "This is Headline H4"
           },
           "shouldBreakMaskChain" : false,
           "isFixedToViewport" : false,
@@ -1128,7 +1124,7 @@
           "sharedStyleID" : "B145B4E9-1EEF-4E46-B435-61B8442FEF0B",
           "style" : {
             "_class" : "style",
-            "endMarkerType" : 0,
+            "miterLimit" : 10,
             "do_objectID" : "F0E2144A-F236-4854-BB92-081E5C9BC279",
             "startMarkerType" : 0,
             "windingRule" : 1,
@@ -1136,6 +1132,15 @@
               "verticalAlignment" : 0,
               "_class" : "textStyle",
               "encodedAttributes" : {
+                "paragraphStyle" : {
+                  "_class" : "paragraphStyle",
+                  "allowsDefaultTighteningForTruncation" : 0,
+                  "baseWritingDirection" : 0,
+                  "tighteningFactorForTruncation" : 0.050000000000000003,
+                  "alignment" : 0,
+                  "minimumLineHeight" : 22.39999961853027,
+                  "maximumLineHeight" : 22.39999961853027
+                },
                 "MSAttributedStringColorAttribute" : {
                   "red" : 0,
                   "_class" : "color",
@@ -1149,26 +1154,17 @@
                     "size" : 16
                   },
                   "_class" : "fontDescriptor"
-                },
-                "paragraphStyle" : {
-                  "_class" : "paragraphStyle",
-                  "allowsDefaultTighteningForTruncation" : 0,
-                  "tighteningFactorForTruncation" : 0.050000000000000003,
-                  "baseWritingDirection" : 0,
-                  "alignment" : 0,
-                  "minimumLineHeight" : 22.39999961853027,
-                  "maximumLineHeight" : 22.39999961853027
                 }
               }
             },
-            "miterLimit" : 10
+            "endMarkerType" : 0
           },
-          "rotation" : 0,
+          "glyphBounds" : "{{0, 4}, {140, 13}}",
           "frame" : {
             "_class" : "rect",
             "height" : 23,
-            "do_objectID" : "A75A583E-3F85-42C3-B71A-28951B486F4E",
             "constrainProportions" : false,
+            "do_objectID" : "A75A583E-3F85-42C3-B71A-28951B486F4E",
             "x" : 36,
             "width" : 140,
             "y" : 406
@@ -1176,25 +1172,27 @@
           "do_objectID" : "20DA8092-732E-4327-93DC-4CB07E1FAB06",
           "layerListExpandedType" : 0,
           "exportOptions" : {
-            "exportFormats" : [
-
-            ],
+            "shouldTrim" : false,
             "do_objectID" : "1EC4A2D1-5522-4C45-B5A1-2F3460538061",
             "includedLayerIds" : [
 
             ],
             "_class" : "exportOptions",
             "layerOptions" : 0,
-            "shouldTrim" : false
+            "exportFormats" : [
+
+            ]
           },
-          "glyphBounds" : "{{0, 4}, {140, 13}}",
+          "rotation" : 0,
           "dontSynchroniseWithSymbol" : false,
           "lineSpacingBehaviour" : 2,
           "textBehaviour" : 0,
           "isFlippedVertical" : false,
-          "nameIsFixed" : false,
+          "clippingMaskMode" : 0,
           "name" : "This is Headline H5",
           "isVisible" : true,
+          "hasClippingMask" : false,
+          "nameIsFixed" : false,
           "resizingType" : 0,
           "userInfo" : {
             "com.animaapp.stc-sketch-plugin" : {
@@ -1203,18 +1201,22 @@
               }
             }
           },
-          "clippingMaskMode" : 0,
-          "hasClippingMask" : false,
           "isLocked" : false,
           "attributedString" : {
-            "string" : "This is Headline H5",
-            "_class" : "attributedString",
             "attributes" : [
               {
                 "length" : 19,
                 "_class" : "stringAttribute",
-                "location" : 0,
                 "attributes" : {
+                  "paragraphStyle" : {
+                    "_class" : "paragraphStyle",
+                    "allowsDefaultTighteningForTruncation" : 0,
+                    "baseWritingDirection" : 0,
+                    "tighteningFactorForTruncation" : 0.050000000000000003,
+                    "alignment" : 0,
+                    "minimumLineHeight" : 22.39999961853027,
+                    "maximumLineHeight" : 22.39999961853027
+                  },
                   "MSAttributedStringColorAttribute" : {
                     "red" : 0,
                     "_class" : "color",
@@ -1228,19 +1230,13 @@
                       "size" : 16
                     },
                     "_class" : "fontDescriptor"
-                  },
-                  "paragraphStyle" : {
-                    "_class" : "paragraphStyle",
-                    "allowsDefaultTighteningForTruncation" : 0,
-                    "tighteningFactorForTruncation" : 0.050000000000000003,
-                    "baseWritingDirection" : 0,
-                    "alignment" : 0,
-                    "minimumLineHeight" : 22.39999961853027,
-                    "maximumLineHeight" : 22.39999961853027
                   }
-                }
+                },
+                "location" : 0
               }
-            ]
+            ],
+            "_class" : "attributedString",
+            "string" : "This is Headline H5"
           },
           "shouldBreakMaskChain" : false,
           "isFixedToViewport" : false,
@@ -1254,7 +1250,7 @@
           "sharedStyleID" : "3F4AA7DD-6CDE-4D0D-977E-EE971721C6E1",
           "style" : {
             "_class" : "style",
-            "endMarkerType" : 0,
+            "miterLimit" : 10,
             "do_objectID" : "55698AE4-5B46-4454-84F1-2E80DA06EF02",
             "startMarkerType" : 0,
             "windingRule" : 1,
@@ -1262,6 +1258,15 @@
               "verticalAlignment" : 0,
               "_class" : "textStyle",
               "encodedAttributes" : {
+                "paragraphStyle" : {
+                  "_class" : "paragraphStyle",
+                  "allowsDefaultTighteningForTruncation" : 0,
+                  "baseWritingDirection" : 0,
+                  "tighteningFactorForTruncation" : 0.050000000000000003,
+                  "alignment" : 0,
+                  "minimumLineHeight" : 19.60000038146973,
+                  "maximumLineHeight" : 19.60000038146973
+                },
                 "MSAttributedStringColorAttribute" : {
                   "red" : 0,
                   "_class" : "color",
@@ -1275,26 +1280,17 @@
                     "size" : 14
                   },
                   "_class" : "fontDescriptor"
-                },
-                "paragraphStyle" : {
-                  "_class" : "paragraphStyle",
-                  "allowsDefaultTighteningForTruncation" : 0,
-                  "tighteningFactorForTruncation" : 0.050000000000000003,
-                  "baseWritingDirection" : 0,
-                  "alignment" : 0,
-                  "minimumLineHeight" : 19.60000038146973,
-                  "maximumLineHeight" : 19.60000038146973
                 }
               }
             },
-            "miterLimit" : 10
+            "endMarkerType" : 0
           },
-          "rotation" : 0,
+          "glyphBounds" : "{{0, 4}, {122, 11}}",
           "frame" : {
             "_class" : "rect",
             "height" : 20,
-            "do_objectID" : "B818C3E7-25DE-467A-8B7B-40F91D5879C7",
             "constrainProportions" : false,
+            "do_objectID" : "B818C3E7-25DE-467A-8B7B-40F91D5879C7",
             "x" : 36,
             "width" : 123,
             "y" : 429
@@ -1302,25 +1298,27 @@
           "do_objectID" : "F2D547F0-BA72-4FAA-88DB-6C18D108DF87",
           "layerListExpandedType" : 0,
           "exportOptions" : {
-            "exportFormats" : [
-
-            ],
+            "shouldTrim" : false,
             "do_objectID" : "2F2D9B90-80DE-4011-B8DC-C29675B04579",
             "includedLayerIds" : [
 
             ],
             "_class" : "exportOptions",
             "layerOptions" : 0,
-            "shouldTrim" : false
+            "exportFormats" : [
+
+            ]
           },
-          "glyphBounds" : "{{0, 4}, {122, 11}}",
+          "rotation" : 0,
           "dontSynchroniseWithSymbol" : false,
           "lineSpacingBehaviour" : 2,
           "textBehaviour" : 0,
           "isFlippedVertical" : false,
-          "nameIsFixed" : false,
+          "clippingMaskMode" : 0,
           "name" : "This is Headline H6",
           "isVisible" : true,
+          "hasClippingMask" : false,
+          "nameIsFixed" : false,
           "resizingType" : 0,
           "userInfo" : {
             "com.animaapp.stc-sketch-plugin" : {
@@ -1329,18 +1327,22 @@
               }
             }
           },
-          "clippingMaskMode" : 0,
-          "hasClippingMask" : false,
           "isLocked" : false,
           "attributedString" : {
-            "string" : "This is Headline H6",
-            "_class" : "attributedString",
             "attributes" : [
               {
                 "length" : 19,
                 "_class" : "stringAttribute",
-                "location" : 0,
                 "attributes" : {
+                  "paragraphStyle" : {
+                    "_class" : "paragraphStyle",
+                    "allowsDefaultTighteningForTruncation" : 0,
+                    "baseWritingDirection" : 0,
+                    "tighteningFactorForTruncation" : 0.050000000000000003,
+                    "alignment" : 0,
+                    "minimumLineHeight" : 19.60000038146973,
+                    "maximumLineHeight" : 19.60000038146973
+                  },
                   "MSAttributedStringColorAttribute" : {
                     "red" : 0,
                     "_class" : "color",
@@ -1354,19 +1356,13 @@
                       "size" : 14
                     },
                     "_class" : "fontDescriptor"
-                  },
-                  "paragraphStyle" : {
-                    "_class" : "paragraphStyle",
-                    "allowsDefaultTighteningForTruncation" : 0,
-                    "tighteningFactorForTruncation" : 0.050000000000000003,
-                    "baseWritingDirection" : 0,
-                    "alignment" : 0,
-                    "minimumLineHeight" : 19.60000038146973,
-                    "maximumLineHeight" : 19.60000038146973
                   }
-                }
+                },
+                "location" : 0
               }
-            ]
+            ],
+            "_class" : "attributedString",
+            "string" : "This is Headline H6"
           },
           "shouldBreakMaskChain" : false,
           "isFixedToViewport" : false,
@@ -1380,7 +1376,7 @@
           "sharedStyleID" : "2BB08DA4-860A-4999-8AE0-0FB6ECDFE6A5",
           "style" : {
             "_class" : "style",
-            "endMarkerType" : 0,
+            "miterLimit" : 10,
             "do_objectID" : "7141A407-EA00-40B5-8EA9-88773C36A7CD",
             "startMarkerType" : 0,
             "windingRule" : 1,
@@ -1388,6 +1384,15 @@
               "verticalAlignment" : 0,
               "_class" : "textStyle",
               "encodedAttributes" : {
+                "paragraphStyle" : {
+                  "_class" : "paragraphStyle",
+                  "allowsDefaultTighteningForTruncation" : 0,
+                  "baseWritingDirection" : 0,
+                  "tighteningFactorForTruncation" : 0.050000000000000003,
+                  "alignment" : 0,
+                  "minimumLineHeight" : 25.60000038146973,
+                  "maximumLineHeight" : 25.60000038146973
+                },
                 "MSAttributedStringColorAttribute" : {
                   "red" : 0,
                   "_class" : "color",
@@ -1401,26 +1406,17 @@
                     "size" : 16
                   },
                   "_class" : "fontDescriptor"
-                },
-                "paragraphStyle" : {
-                  "_class" : "paragraphStyle",
-                  "allowsDefaultTighteningForTruncation" : 0,
-                  "tighteningFactorForTruncation" : 0.050000000000000003,
-                  "baseWritingDirection" : 0,
-                  "alignment" : 0,
-                  "minimumLineHeight" : 25.60000038146973,
-                  "maximumLineHeight" : 25.60000038146973
                 }
               }
             },
-            "miterLimit" : 10
+            "endMarkerType" : 0
           },
-          "rotation" : 0,
+          "glyphBounds" : "{{0, 6}, {77, 13}}",
           "frame" : {
             "_class" : "rect",
             "height" : 26,
-            "do_objectID" : "86C1ECFD-ADF2-4D5D-9411-F5FD7146C6B3",
             "constrainProportions" : false,
+            "do_objectID" : "86C1ECFD-ADF2-4D5D-9411-F5FD7146C6B3",
             "x" : 36,
             "width" : 77,
             "y" : 489
@@ -1428,25 +1424,27 @@
           "do_objectID" : "7DE313D5-648C-4833-B353-A2FA7051FFC8",
           "layerListExpandedType" : 0,
           "exportOptions" : {
-            "exportFormats" : [
-
-            ],
+            "shouldTrim" : false,
             "do_objectID" : "5755FA59-68CD-4218-9047-0D45F770A704",
             "includedLayerIds" : [
 
             ],
             "_class" : "exportOptions",
             "layerOptions" : 0,
-            "shouldTrim" : false
+            "exportFormats" : [
+
+            ]
           },
-          "glyphBounds" : "{{0, 6}, {77, 13}}",
+          "rotation" : 0,
           "dontSynchroniseWithSymbol" : false,
           "lineSpacingBehaviour" : 2,
           "textBehaviour" : 0,
           "isFlippedVertical" : false,
-          "nameIsFixed" : false,
+          "clippingMaskMode" : 0,
           "name" : "Article text",
           "isVisible" : true,
+          "hasClippingMask" : false,
+          "nameIsFixed" : false,
           "resizingType" : 0,
           "userInfo" : {
             "com.animaapp.stc-sketch-plugin" : {
@@ -1455,18 +1453,22 @@
               }
             }
           },
-          "clippingMaskMode" : 0,
-          "hasClippingMask" : false,
           "isLocked" : false,
           "attributedString" : {
-            "string" : "Article text",
-            "_class" : "attributedString",
             "attributes" : [
               {
                 "length" : 12,
                 "_class" : "stringAttribute",
-                "location" : 0,
                 "attributes" : {
+                  "paragraphStyle" : {
+                    "_class" : "paragraphStyle",
+                    "allowsDefaultTighteningForTruncation" : 0,
+                    "baseWritingDirection" : 0,
+                    "tighteningFactorForTruncation" : 0.050000000000000003,
+                    "alignment" : 0,
+                    "minimumLineHeight" : 25.60000038146973,
+                    "maximumLineHeight" : 25.60000038146973
+                  },
                   "MSAttributedStringColorAttribute" : {
                     "red" : 0,
                     "_class" : "color",
@@ -1480,19 +1482,13 @@
                       "size" : 16
                     },
                     "_class" : "fontDescriptor"
-                  },
-                  "paragraphStyle" : {
-                    "_class" : "paragraphStyle",
-                    "allowsDefaultTighteningForTruncation" : 0,
-                    "tighteningFactorForTruncation" : 0.050000000000000003,
-                    "baseWritingDirection" : 0,
-                    "alignment" : 0,
-                    "minimumLineHeight" : 25.60000038146973,
-                    "maximumLineHeight" : 25.60000038146973
                   }
-                }
+                },
+                "location" : 0
               }
-            ]
+            ],
+            "_class" : "attributedString",
+            "string" : "Article text"
           },
           "shouldBreakMaskChain" : false,
           "isFixedToViewport" : false,
@@ -1506,7 +1502,7 @@
           "sharedStyleID" : "FC9B1486-D3B6-46B5-B8AB-656E7AF1BA67",
           "style" : {
             "_class" : "style",
-            "endMarkerType" : 0,
+            "miterLimit" : 10,
             "do_objectID" : "0E9D7DD1-B203-438D-96DF-C893F79F25E7",
             "startMarkerType" : 0,
             "windingRule" : 1,
@@ -1514,6 +1510,15 @@
               "verticalAlignment" : 0,
               "_class" : "textStyle",
               "encodedAttributes" : {
+                "paragraphStyle" : {
+                  "_class" : "paragraphStyle",
+                  "allowsDefaultTighteningForTruncation" : 0,
+                  "baseWritingDirection" : 0,
+                  "tighteningFactorForTruncation" : 0.050000000000000003,
+                  "alignment" : 0,
+                  "minimumLineHeight" : 19.60000038146973,
+                  "maximumLineHeight" : 19.60000038146973
+                },
                 "MSAttributedStringColorAttribute" : {
                   "red" : 0,
                   "_class" : "color",
@@ -1527,26 +1532,17 @@
                     "size" : 14
                   },
                   "_class" : "fontDescriptor"
-                },
-                "paragraphStyle" : {
-                  "_class" : "paragraphStyle",
-                  "allowsDefaultTighteningForTruncation" : 0,
-                  "tighteningFactorForTruncation" : 0.050000000000000003,
-                  "baseWritingDirection" : 0,
-                  "alignment" : 0,
-                  "minimumLineHeight" : 19.60000038146973,
-                  "maximumLineHeight" : 19.60000038146973
                 }
               }
             },
-            "miterLimit" : 10
+            "endMarkerType" : 0
           },
-          "rotation" : 0,
+          "glyphBounds" : "{{1, 4}, {57, 14}}",
           "frame" : {
             "_class" : "rect",
             "height" : 20,
-            "do_objectID" : "8D65CDD5-4611-4C93-8082-A04D2F314D8A",
             "constrainProportions" : false,
+            "do_objectID" : "8D65CDD5-4611-4C93-8082-A04D2F314D8A",
             "x" : 36,
             "width" : 59,
             "y" : 555
@@ -1554,25 +1550,27 @@
           "do_objectID" : "DC676391-6E5B-4069-9846-3BADC46DC6F3",
           "layerListExpandedType" : 0,
           "exportOptions" : {
-            "exportFormats" : [
-
-            ],
+            "shouldTrim" : false,
             "do_objectID" : "417DD6A0-E6C3-481D-88B0-1553539C5EDC",
             "includedLayerIds" : [
 
             ],
             "_class" : "exportOptions",
             "layerOptions" : 0,
-            "shouldTrim" : false
+            "exportFormats" : [
+
+            ]
           },
-          "glyphBounds" : "{{1, 4}, {57, 14}}",
+          "rotation" : 0,
           "dontSynchroniseWithSymbol" : false,
           "lineSpacingBehaviour" : 2,
           "textBehaviour" : 0,
           "isFlippedVertical" : false,
-          "nameIsFixed" : false,
+          "clippingMaskMode" : 0,
           "name" : "Body text",
           "isVisible" : true,
+          "hasClippingMask" : false,
+          "nameIsFixed" : false,
           "resizingType" : 0,
           "userInfo" : {
             "com.animaapp.stc-sketch-plugin" : {
@@ -1581,18 +1579,22 @@
               }
             }
           },
-          "clippingMaskMode" : 0,
-          "hasClippingMask" : false,
           "isLocked" : false,
           "attributedString" : {
-            "string" : "Body text",
-            "_class" : "attributedString",
             "attributes" : [
               {
                 "length" : 9,
                 "_class" : "stringAttribute",
-                "location" : 0,
                 "attributes" : {
+                  "paragraphStyle" : {
+                    "_class" : "paragraphStyle",
+                    "allowsDefaultTighteningForTruncation" : 0,
+                    "baseWritingDirection" : 0,
+                    "tighteningFactorForTruncation" : 0.050000000000000003,
+                    "alignment" : 0,
+                    "minimumLineHeight" : 19.60000038146973,
+                    "maximumLineHeight" : 19.60000038146973
+                  },
                   "MSAttributedStringColorAttribute" : {
                     "red" : 0,
                     "_class" : "color",
@@ -1606,19 +1608,13 @@
                       "size" : 14
                     },
                     "_class" : "fontDescriptor"
-                  },
-                  "paragraphStyle" : {
-                    "_class" : "paragraphStyle",
-                    "allowsDefaultTighteningForTruncation" : 0,
-                    "tighteningFactorForTruncation" : 0.050000000000000003,
-                    "baseWritingDirection" : 0,
-                    "alignment" : 0,
-                    "minimumLineHeight" : 19.60000038146973,
-                    "maximumLineHeight" : 19.60000038146973
                   }
-                }
+                },
+                "location" : 0
               }
-            ]
+            ],
+            "_class" : "attributedString",
+            "string" : "Body text"
           },
           "shouldBreakMaskChain" : false,
           "isFixedToViewport" : false,
@@ -1632,7 +1628,7 @@
           "sharedStyleID" : "1E0CC962-8660-4618-B7E3-C458B1BC00DF",
           "style" : {
             "_class" : "style",
-            "endMarkerType" : 0,
+            "miterLimit" : 10,
             "do_objectID" : "04457769-0CA1-4E66-B3F3-B6A4022DA237",
             "startMarkerType" : 0,
             "windingRule" : 1,
@@ -1640,12 +1636,21 @@
               "verticalAlignment" : 0,
               "_class" : "textStyle",
               "encodedAttributes" : {
+                "paragraphStyle" : {
+                  "_class" : "paragraphStyle",
+                  "allowsDefaultTighteningForTruncation" : 0,
+                  "baseWritingDirection" : 0,
+                  "tighteningFactorForTruncation" : 0.050000000000000003,
+                  "alignment" : 0,
+                  "minimumLineHeight" : 16.79999923706055,
+                  "maximumLineHeight" : 16.79999923706055
+                },
                 "MSAttributedStringColorAttribute" : {
-                  "red" : 0,
+                  "red" : 0.46274509803921571,
                   "_class" : "color",
                   "alpha" : 1,
-                  "blue" : 0,
-                  "green" : 0
+                  "blue" : 0.61960784313725492,
+                  "green" : 0.50980392156862742
                 },
                 "MSAttributedStringFontAttribute" : {
                   "attributes" : {
@@ -1653,26 +1658,17 @@
                     "size" : 12
                   },
                   "_class" : "fontDescriptor"
-                },
-                "paragraphStyle" : {
-                  "_class" : "paragraphStyle",
-                  "allowsDefaultTighteningForTruncation" : 0,
-                  "tighteningFactorForTruncation" : 0.050000000000000003,
-                  "baseWritingDirection" : 0,
-                  "alignment" : 0,
-                  "minimumLineHeight" : 16.79999923706055,
-                  "maximumLineHeight" : 16.79999923706055
                 }
               }
             },
-            "miterLimit" : 10
+            "endMarkerType" : 0
           },
-          "rotation" : 0,
+          "glyphBounds" : "{{0, 3}, {92, 11}}",
           "frame" : {
             "_class" : "rect",
             "height" : 17,
-            "do_objectID" : "44769E97-7D46-4A88-8BCE-1A99596F2678",
             "constrainProportions" : false,
+            "do_objectID" : "44769E97-7D46-4A88-8BCE-1A99596F2678",
             "x" : 36,
             "width" : 92,
             "y" : 615
@@ -1680,25 +1676,27 @@
           "do_objectID" : "B2A4D44A-191D-4F35-AE2B-FCDF6BB6C21C",
           "layerListExpandedType" : 0,
           "exportOptions" : {
-            "exportFormats" : [
-
-            ],
+            "shouldTrim" : false,
             "do_objectID" : "D7030282-0B6E-4D7D-89B0-F5098B2CD7DB",
             "includedLayerIds" : [
 
             ],
             "_class" : "exportOptions",
             "layerOptions" : 0,
-            "shouldTrim" : false
+            "exportFormats" : [
+
+            ]
           },
-          "glyphBounds" : "{{0, 3}, {92, 11}}",
+          "rotation" : 0,
           "dontSynchroniseWithSymbol" : false,
           "lineSpacingBehaviour" : 2,
           "textBehaviour" : 0,
           "isFlippedVertical" : false,
-          "nameIsFixed" : false,
+          "clippingMaskMode" : 0,
           "name" : "Small \/ Metadata",
           "isVisible" : true,
+          "hasClippingMask" : false,
+          "nameIsFixed" : false,
           "resizingType" : 0,
           "userInfo" : {
             "com.animaapp.stc-sketch-plugin" : {
@@ -1707,24 +1705,28 @@
               }
             }
           },
-          "clippingMaskMode" : 0,
-          "hasClippingMask" : false,
           "isLocked" : false,
           "attributedString" : {
-            "string" : "Small \/ Metadata",
-            "_class" : "attributedString",
             "attributes" : [
               {
                 "length" : 16,
                 "_class" : "stringAttribute",
-                "location" : 0,
                 "attributes" : {
+                  "paragraphStyle" : {
+                    "_class" : "paragraphStyle",
+                    "allowsDefaultTighteningForTruncation" : 0,
+                    "baseWritingDirection" : 0,
+                    "tighteningFactorForTruncation" : 0.050000000000000003,
+                    "alignment" : 0,
+                    "minimumLineHeight" : 16.79999923706055,
+                    "maximumLineHeight" : 16.79999923706055
+                  },
                   "MSAttributedStringColorAttribute" : {
-                    "red" : 0,
+                    "red" : 0.46274509803921571,
                     "_class" : "color",
                     "alpha" : 1,
-                    "blue" : 0,
-                    "green" : 0
+                    "blue" : 0.61960784313725492,
+                    "green" : 0.50980392156862742
                   },
                   "MSAttributedStringFontAttribute" : {
                     "attributes" : {
@@ -1732,19 +1734,13 @@
                       "size" : 12
                     },
                     "_class" : "fontDescriptor"
-                  },
-                  "paragraphStyle" : {
-                    "_class" : "paragraphStyle",
-                    "allowsDefaultTighteningForTruncation" : 0,
-                    "tighteningFactorForTruncation" : 0.050000000000000003,
-                    "baseWritingDirection" : 0,
-                    "alignment" : 0,
-                    "minimumLineHeight" : 16.79999923706055,
-                    "maximumLineHeight" : 16.79999923706055
                   }
-                }
+                },
+                "location" : 0
               }
-            ]
+            ],
+            "_class" : "attributedString",
+            "string" : "Small \/ Metadata"
           },
           "shouldBreakMaskChain" : false,
           "isFixedToViewport" : false,
@@ -1758,7 +1754,7 @@
           "sharedStyleID" : "6EAA7C5B-A4F9-4A9E-BBE6-92DD528564A8",
           "style" : {
             "_class" : "style",
-            "endMarkerType" : 0,
+            "miterLimit" : 10,
             "do_objectID" : "BEF7F06C-4289-4681-93A1-ECE9015D67F8",
             "startMarkerType" : 0,
             "windingRule" : 1,
@@ -1766,6 +1762,15 @@
               "verticalAlignment" : 0,
               "_class" : "textStyle",
               "encodedAttributes" : {
+                "paragraphStyle" : {
+                  "_class" : "paragraphStyle",
+                  "allowsDefaultTighteningForTruncation" : 0,
+                  "baseWritingDirection" : 0,
+                  "tighteningFactorForTruncation" : 0.050000000000000003,
+                  "alignment" : 0,
+                  "minimumLineHeight" : 15.39999961853027,
+                  "maximumLineHeight" : 15.39999961853027
+                },
                 "MSAttributedStringColorAttribute" : {
                   "red" : 0,
                   "_class" : "color",
@@ -1779,26 +1784,17 @@
                     "size" : 11
                   },
                   "_class" : "fontDescriptor"
-                },
-                "paragraphStyle" : {
-                  "_class" : "paragraphStyle",
-                  "allowsDefaultTighteningForTruncation" : 0,
-                  "tighteningFactorForTruncation" : 0.050000000000000003,
-                  "baseWritingDirection" : 0,
-                  "alignment" : 0,
-                  "minimumLineHeight" : 15.39999961853027,
-                  "maximumLineHeight" : 15.39999961853027
                 }
               }
             },
-            "miterLimit" : 10
+            "endMarkerType" : 0
           },
-          "rotation" : 0,
+          "glyphBounds" : "{{0, 3}, {82, 9}}",
           "frame" : {
             "_class" : "rect",
             "height" : 16,
-            "do_objectID" : "97D5D11F-57A8-433D-A27D-1CA8F4BE6DB6",
             "constrainProportions" : false,
+            "do_objectID" : "97D5D11F-57A8-433D-A27D-1CA8F4BE6DB6",
             "x" : 36,
             "width" : 83,
             "y" : 673.39999961853027
@@ -1806,25 +1802,27 @@
           "do_objectID" : "44BB4DA7-4077-47A5-BE71-D524BEAE416F",
           "layerListExpandedType" : 0,
           "exportOptions" : {
-            "exportFormats" : [
-
-            ],
+            "shouldTrim" : false,
             "do_objectID" : "535A45C8-DE45-442B-9015-62853F354E79",
             "includedLayerIds" : [
 
             ],
             "_class" : "exportOptions",
             "layerOptions" : 0,
-            "shouldTrim" : false
+            "exportFormats" : [
+
+            ]
           },
-          "glyphBounds" : "{{0, 3}, {82, 9}}",
+          "rotation" : 0,
           "dontSynchroniseWithSymbol" : false,
           "lineSpacingBehaviour" : 2,
           "textBehaviour" : 0,
           "isFlippedVertical" : false,
-          "nameIsFixed" : false,
+          "clippingMaskMode" : 0,
           "name" : "Chart annotation",
           "isVisible" : true,
+          "hasClippingMask" : false,
+          "nameIsFixed" : false,
           "resizingType" : 0,
           "userInfo" : {
             "com.animaapp.stc-sketch-plugin" : {
@@ -1833,18 +1831,22 @@
               }
             }
           },
-          "clippingMaskMode" : 0,
-          "hasClippingMask" : false,
           "isLocked" : false,
           "attributedString" : {
-            "string" : "Chart annotation",
-            "_class" : "attributedString",
             "attributes" : [
               {
                 "length" : 16,
                 "_class" : "stringAttribute",
-                "location" : 0,
                 "attributes" : {
+                  "paragraphStyle" : {
+                    "_class" : "paragraphStyle",
+                    "allowsDefaultTighteningForTruncation" : 0,
+                    "baseWritingDirection" : 0,
+                    "tighteningFactorForTruncation" : 0.050000000000000003,
+                    "alignment" : 0,
+                    "minimumLineHeight" : 15.39999961853027,
+                    "maximumLineHeight" : 15.39999961853027
+                  },
                   "MSAttributedStringColorAttribute" : {
                     "red" : 0,
                     "_class" : "color",
@@ -1858,19 +1860,13 @@
                       "size" : 11
                     },
                     "_class" : "fontDescriptor"
-                  },
-                  "paragraphStyle" : {
-                    "_class" : "paragraphStyle",
-                    "allowsDefaultTighteningForTruncation" : 0,
-                    "tighteningFactorForTruncation" : 0.050000000000000003,
-                    "baseWritingDirection" : 0,
-                    "alignment" : 0,
-                    "minimumLineHeight" : 15.39999961853027,
-                    "maximumLineHeight" : 15.39999961853027
                   }
-                }
+                },
+                "location" : 0
               }
-            ]
+            ],
+            "_class" : "attributedString",
+            "string" : "Chart annotation"
           },
           "shouldBreakMaskChain" : false,
           "isFixedToViewport" : false,
@@ -1880,51 +1876,27 @@
           "automaticallyDrawOnUnderlyingPath" : false
         }
       ],
+      "nameIsFixed" : true,
+      "resizingType" : 0,
       "isLocked" : false,
-      "shouldBreakMaskChain" : true,
       "isFlowHome" : false,
+      "shouldBreakMaskChain" : true,
       "isFixedToViewport" : false,
       "_class" : "artboard",
       "booleanOperation" : -1,
-      "resizingConstraint" : 63,
-      "includeBackgroundColorInExport" : true
+      "includeBackgroundColorInExport" : true,
+      "resizingConstraint" : 63
     },
     {
       "isFlippedHorizontal" : false,
       "style" : {
-        "endMarkerType" : 0,
-        "do_objectID" : "99262E1C-FA9C-406C-B578-58AD8B898F79",
         "windingRule" : 1,
+        "do_objectID" : "99262E1C-FA9C-406C-B578-58AD8B898F79",
         "_class" : "style",
         "miterLimit" : 10,
-        "startMarkerType" : 0
+        "startMarkerType" : 0,
+        "endMarkerType" : 0
       },
-      "rotation" : 0,
-      "frame" : {
-        "_class" : "rect",
-        "height" : 800,
-        "do_objectID" : "A5979C98-5411-4AC3-B69E-E53BC3EF27F0",
-        "constrainProportions" : false,
-        "x" : 692,
-        "width" : 600,
-        "y" : -59
-      },
-      "do_objectID" : "9A0EE9D1-6554-4334-A33A-BA021EAB29C4",
-      "layerListExpandedType" : 2,
-      "exportOptions" : {
-        "exportFormats" : [
-
-        ],
-        "do_objectID" : "3CB6B450-7810-455B-8AEA-2A7B0872EA21",
-        "includedLayerIds" : [
-
-        ],
-        "_class" : "exportOptions",
-        "layerOptions" : 0,
-        "shouldTrim" : false
-      },
-      "hasClickThrough" : true,
-      "hasBackgroundColor" : false,
       "horizontalRulerData" : {
         "do_objectID" : "54C02876-1818-4992-A485-C61F8BA5F34E",
         "_class" : "rulerData",
@@ -1933,6 +1905,32 @@
 
         ]
       },
+      "frame" : {
+        "_class" : "rect",
+        "height" : 800,
+        "constrainProportions" : false,
+        "do_objectID" : "A5979C98-5411-4AC3-B69E-E53BC3EF27F0",
+        "x" : 692,
+        "width" : 600,
+        "y" : -59
+      },
+      "do_objectID" : "9A0EE9D1-6554-4334-A33A-BA021EAB29C4",
+      "hasClickThrough" : true,
+      "exportOptions" : {
+        "shouldTrim" : false,
+        "do_objectID" : "3CB6B450-7810-455B-8AEA-2A7B0872EA21",
+        "includedLayerIds" : [
+
+        ],
+        "_class" : "exportOptions",
+        "layerOptions" : 0,
+        "exportFormats" : [
+
+        ]
+      },
+      "hasBackgroundColor" : false,
+      "includeInCloudUpload" : true,
+      "layerListExpandedType" : 2,
       "backgroundColor" : {
         "do_objectID" : "5AC56C80-BAFF-41FE-9ED7-63406B43BF83",
         "red" : 1,
@@ -1941,8 +1939,8 @@
         "blue" : 1,
         "green" : 1
       },
-      "includeInCloudUpload" : true,
       "resizesContent" : false,
+      "rotation" : 0,
       "verticalRulerData" : {
         "do_objectID" : "9A79F8B1-5CCA-4A51-B8FC-A55956928B65",
         "_class" : "rulerData",
@@ -1952,11 +1950,9 @@
         ]
       },
       "isFlippedVertical" : false,
-      "nameIsFixed" : true,
+      "clippingMaskMode" : 0,
       "name" : "CN",
       "isVisible" : true,
-      "resizingType" : 0,
-      "clippingMaskMode" : 0,
       "hasClippingMask" : false,
       "layers" : [
         {
@@ -1964,7 +1960,7 @@
           "sharedStyleID" : "7C7CBC04-EA51-4CD9-A09F-F1AFE3815458",
           "style" : {
             "_class" : "style",
-            "endMarkerType" : 0,
+            "miterLimit" : 10,
             "do_objectID" : "F2B540C7-6C99-47C5-9FC3-46B8275278BA",
             "startMarkerType" : 0,
             "windingRule" : 1,
@@ -1972,6 +1968,15 @@
               "verticalAlignment" : 0,
               "_class" : "textStyle",
               "encodedAttributes" : {
+                "paragraphStyle" : {
+                  "_class" : "paragraphStyle",
+                  "allowsDefaultTighteningForTruncation" : 0,
+                  "baseWritingDirection" : 0,
+                  "tighteningFactorForTruncation" : 0.050000000000000003,
+                  "alignment" : 0,
+                  "minimumLineHeight" : 19.60000038146973,
+                  "maximumLineHeight" : 19.60000038146973
+                },
                 "MSAttributedStringColorAttribute" : {
                   "red" : 0,
                   "_class" : "color",
@@ -1985,26 +1990,17 @@
                     "size" : 14
                   },
                   "_class" : "fontDescriptor"
-                },
-                "paragraphStyle" : {
-                  "_class" : "paragraphStyle",
-                  "allowsDefaultTighteningForTruncation" : 0,
-                  "tighteningFactorForTruncation" : 0.050000000000000003,
-                  "baseWritingDirection" : 0,
-                  "alignment" : 0,
-                  "minimumLineHeight" : 19.60000038146973,
-                  "maximumLineHeight" : 19.60000038146973
                 }
               }
             },
-            "miterLimit" : 10
+            "endMarkerType" : 0
           },
-          "rotation" : 0,
+          "glyphBounds" : "{{0, 3}, {80, 15}}",
           "frame" : {
             "_class" : "rect",
             "height" : 20,
-            "do_objectID" : "E71EC6EE-4CC1-4CF5-9AA7-8400B45BC1C5",
             "constrainProportions" : false,
+            "do_objectID" : "E71EC6EE-4CC1-4CF5-9AA7-8400B45BC1C5",
             "x" : 36,
             "width" : 81,
             "y" : 428
@@ -2012,25 +2008,27 @@
           "do_objectID" : "3432689C-2BBC-4D14-B54A-709799FFD7EA",
           "layerListExpandedType" : 0,
           "exportOptions" : {
-            "exportFormats" : [
-
-            ],
+            "shouldTrim" : false,
             "do_objectID" : "8AF1ECEF-951E-49DF-BD30-D325D6AF27BE",
             "includedLayerIds" : [
 
             ],
             "_class" : "exportOptions",
             "layerOptions" : 0,
-            "shouldTrim" : false
+            "exportFormats" : [
+
+            ]
           },
-          "glyphBounds" : "{{0, 3}, {80, 15}}",
+          "rotation" : 0,
           "dontSynchroniseWithSymbol" : false,
           "lineSpacingBehaviour" : 2,
           "textBehaviour" : 0,
           "isFlippedVertical" : false,
-          "nameIsFixed" : false,
+          "clippingMaskMode" : 0,
           "name" : "這是中文 H6",
           "isVisible" : true,
+          "hasClippingMask" : false,
+          "nameIsFixed" : false,
           "resizingType" : 0,
           "userInfo" : {
             "com.animaapp.stc-sketch-plugin" : {
@@ -2039,18 +2037,22 @@
               }
             }
           },
-          "clippingMaskMode" : 0,
-          "hasClippingMask" : false,
           "isLocked" : false,
           "attributedString" : {
-            "string" : "這是中文 H6",
-            "_class" : "attributedString",
             "attributes" : [
               {
                 "length" : 7,
                 "_class" : "stringAttribute",
-                "location" : 0,
                 "attributes" : {
+                  "paragraphStyle" : {
+                    "_class" : "paragraphStyle",
+                    "allowsDefaultTighteningForTruncation" : 0,
+                    "baseWritingDirection" : 0,
+                    "tighteningFactorForTruncation" : 0.050000000000000003,
+                    "alignment" : 0,
+                    "minimumLineHeight" : 19.60000038146973,
+                    "maximumLineHeight" : 19.60000038146973
+                  },
                   "MSAttributedStringColorAttribute" : {
                     "red" : 0,
                     "_class" : "color",
@@ -2064,19 +2066,13 @@
                       "size" : 14
                     },
                     "_class" : "fontDescriptor"
-                  },
-                  "paragraphStyle" : {
-                    "_class" : "paragraphStyle",
-                    "allowsDefaultTighteningForTruncation" : 0,
-                    "tighteningFactorForTruncation" : 0.050000000000000003,
-                    "baseWritingDirection" : 0,
-                    "alignment" : 0,
-                    "minimumLineHeight" : 19.60000038146973,
-                    "maximumLineHeight" : 19.60000038146973
                   }
-                }
+                },
+                "location" : 0
               }
-            ]
+            ],
+            "_class" : "attributedString",
+            "string" : "這是中文 H6"
           },
           "shouldBreakMaskChain" : false,
           "isFixedToViewport" : false,
@@ -2090,7 +2086,7 @@
           "sharedStyleID" : "F9C99FA8-8D08-449D-8B84-288430B335DD",
           "style" : {
             "_class" : "style",
-            "endMarkerType" : 0,
+            "miterLimit" : 10,
             "do_objectID" : "DEBC9E79-F199-4B73-9D79-41E7824F08E6",
             "startMarkerType" : 0,
             "windingRule" : 1,
@@ -2098,6 +2094,15 @@
               "verticalAlignment" : 0,
               "_class" : "textStyle",
               "encodedAttributes" : {
+                "paragraphStyle" : {
+                  "_class" : "paragraphStyle",
+                  "allowsDefaultTighteningForTruncation" : 0,
+                  "baseWritingDirection" : 0,
+                  "tighteningFactorForTruncation" : 0.050000000000000003,
+                  "alignment" : 0,
+                  "minimumLineHeight" : 22.39999961853027,
+                  "maximumLineHeight" : 22.39999961853027
+                },
                 "MSAttributedStringColorAttribute" : {
                   "red" : 0,
                   "_class" : "color",
@@ -2111,26 +2116,17 @@
                     "size" : 16
                   },
                   "_class" : "fontDescriptor"
-                },
-                "paragraphStyle" : {
-                  "_class" : "paragraphStyle",
-                  "allowsDefaultTighteningForTruncation" : 0,
-                  "tighteningFactorForTruncation" : 0.050000000000000003,
-                  "baseWritingDirection" : 0,
-                  "alignment" : 0,
-                  "minimumLineHeight" : 22.39999961853027,
-                  "maximumLineHeight" : 22.39999961853027
                 }
               }
             },
-            "miterLimit" : 10
+            "endMarkerType" : 0
           },
-          "rotation" : 0,
+          "glyphBounds" : "{{0, 3}, {91, 17}}",
           "frame" : {
             "_class" : "rect",
             "height" : 23,
-            "do_objectID" : "A316B2A2-092D-4871-AA7B-0A4047EF3EEB",
             "constrainProportions" : false,
+            "do_objectID" : "A316B2A2-092D-4871-AA7B-0A4047EF3EEB",
             "x" : 36,
             "width" : 92,
             "y" : 408
@@ -2138,25 +2134,27 @@
           "do_objectID" : "F6589477-63C6-4000-89DA-7C79A61D1F3F",
           "layerListExpandedType" : 0,
           "exportOptions" : {
-            "exportFormats" : [
-
-            ],
+            "shouldTrim" : false,
             "do_objectID" : "B05A1115-107E-4F35-A1B2-6F5766CC25EE",
             "includedLayerIds" : [
 
             ],
             "_class" : "exportOptions",
             "layerOptions" : 0,
-            "shouldTrim" : false
+            "exportFormats" : [
+
+            ]
           },
-          "glyphBounds" : "{{0, 3}, {91, 17}}",
+          "rotation" : 0,
           "dontSynchroniseWithSymbol" : false,
           "lineSpacingBehaviour" : 2,
           "textBehaviour" : 0,
           "isFlippedVertical" : false,
-          "nameIsFixed" : false,
+          "clippingMaskMode" : 0,
           "name" : "這是中文 H5",
           "isVisible" : true,
+          "hasClippingMask" : false,
+          "nameIsFixed" : false,
           "resizingType" : 0,
           "userInfo" : {
             "com.animaapp.stc-sketch-plugin" : {
@@ -2165,18 +2163,22 @@
               }
             }
           },
-          "clippingMaskMode" : 0,
-          "hasClippingMask" : false,
           "isLocked" : false,
           "attributedString" : {
-            "string" : "這是中文 H5",
-            "_class" : "attributedString",
             "attributes" : [
               {
                 "length" : 7,
                 "_class" : "stringAttribute",
-                "location" : 0,
                 "attributes" : {
+                  "paragraphStyle" : {
+                    "_class" : "paragraphStyle",
+                    "allowsDefaultTighteningForTruncation" : 0,
+                    "baseWritingDirection" : 0,
+                    "tighteningFactorForTruncation" : 0.050000000000000003,
+                    "alignment" : 0,
+                    "minimumLineHeight" : 22.39999961853027,
+                    "maximumLineHeight" : 22.39999961853027
+                  },
                   "MSAttributedStringColorAttribute" : {
                     "red" : 0,
                     "_class" : "color",
@@ -2190,19 +2192,13 @@
                       "size" : 16
                     },
                     "_class" : "fontDescriptor"
-                  },
-                  "paragraphStyle" : {
-                    "_class" : "paragraphStyle",
-                    "allowsDefaultTighteningForTruncation" : 0,
-                    "tighteningFactorForTruncation" : 0.050000000000000003,
-                    "baseWritingDirection" : 0,
-                    "alignment" : 0,
-                    "minimumLineHeight" : 22.39999961853027,
-                    "maximumLineHeight" : 22.39999961853027
                   }
-                }
+                },
+                "location" : 0
               }
-            ]
+            ],
+            "_class" : "attributedString",
+            "string" : "這是中文 H5"
           },
           "shouldBreakMaskChain" : false,
           "isFixedToViewport" : false,
@@ -2216,7 +2212,7 @@
           "sharedStyleID" : "3BF54101-208A-4864-96ED-07B8B20D3E09",
           "style" : {
             "_class" : "style",
-            "endMarkerType" : 0,
+            "miterLimit" : 10,
             "do_objectID" : "0FDB3E41-3CE1-4656-BE2D-CB6090743270",
             "startMarkerType" : 0,
             "windingRule" : 1,
@@ -2224,6 +2220,15 @@
               "verticalAlignment" : 0,
               "_class" : "textStyle",
               "encodedAttributes" : {
+                "paragraphStyle" : {
+                  "_class" : "paragraphStyle",
+                  "allowsDefaultTighteningForTruncation" : 0,
+                  "baseWritingDirection" : 0,
+                  "tighteningFactorForTruncation" : 0.050000000000000003,
+                  "alignment" : 0,
+                  "minimumLineHeight" : 25.20000076293945,
+                  "maximumLineHeight" : 25.20000076293945
+                },
                 "MSAttributedStringColorAttribute" : {
                   "red" : 0,
                   "_class" : "color",
@@ -2237,26 +2242,17 @@
                     "size" : 18
                   },
                   "_class" : "fontDescriptor"
-                },
-                "paragraphStyle" : {
-                  "_class" : "paragraphStyle",
-                  "allowsDefaultTighteningForTruncation" : 0,
-                  "tighteningFactorForTruncation" : 0.050000000000000003,
-                  "baseWritingDirection" : 0,
-                  "alignment" : 0,
-                  "minimumLineHeight" : 25.20000076293945,
-                  "maximumLineHeight" : 25.20000076293945
                 }
               }
             },
-            "miterLimit" : 10
+            "endMarkerType" : 0
           },
-          "rotation" : 0,
+          "glyphBounds" : "{{0, 5}, {104, 18}}",
           "frame" : {
             "_class" : "rect",
             "height" : 26,
-            "do_objectID" : "6F89FFD5-279A-4CFF-8443-F3CACFAAF87C",
             "constrainProportions" : false,
+            "do_objectID" : "6F89FFD5-279A-4CFF-8443-F3CACFAAF87C",
             "x" : 36,
             "width" : 104,
             "y" : 382
@@ -2264,25 +2260,27 @@
           "do_objectID" : "0DFB3D60-8711-4E39-9043-FE4BEFA0187E",
           "layerListExpandedType" : 0,
           "exportOptions" : {
-            "exportFormats" : [
-
-            ],
+            "shouldTrim" : false,
             "do_objectID" : "BF44D2B4-3637-42F8-B8B3-6E9E32E73954",
             "includedLayerIds" : [
 
             ],
             "_class" : "exportOptions",
             "layerOptions" : 0,
-            "shouldTrim" : false
+            "exportFormats" : [
+
+            ]
           },
-          "glyphBounds" : "{{0, 5}, {104, 18}}",
+          "rotation" : 0,
           "dontSynchroniseWithSymbol" : false,
           "lineSpacingBehaviour" : 2,
           "textBehaviour" : 0,
           "isFlippedVertical" : false,
-          "nameIsFixed" : false,
+          "clippingMaskMode" : 0,
           "name" : "這是中文 H4",
           "isVisible" : true,
+          "hasClippingMask" : false,
+          "nameIsFixed" : false,
           "resizingType" : 0,
           "userInfo" : {
             "com.animaapp.stc-sketch-plugin" : {
@@ -2291,18 +2289,22 @@
               }
             }
           },
-          "clippingMaskMode" : 0,
-          "hasClippingMask" : false,
           "isLocked" : false,
           "attributedString" : {
-            "string" : "這是中文 H4",
-            "_class" : "attributedString",
             "attributes" : [
               {
                 "length" : 7,
                 "_class" : "stringAttribute",
-                "location" : 0,
                 "attributes" : {
+                  "paragraphStyle" : {
+                    "_class" : "paragraphStyle",
+                    "allowsDefaultTighteningForTruncation" : 0,
+                    "baseWritingDirection" : 0,
+                    "tighteningFactorForTruncation" : 0.050000000000000003,
+                    "alignment" : 0,
+                    "minimumLineHeight" : 25.20000076293945,
+                    "maximumLineHeight" : 25.20000076293945
+                  },
                   "MSAttributedStringColorAttribute" : {
                     "red" : 0,
                     "_class" : "color",
@@ -2316,19 +2318,13 @@
                       "size" : 18
                     },
                     "_class" : "fontDescriptor"
-                  },
-                  "paragraphStyle" : {
-                    "_class" : "paragraphStyle",
-                    "allowsDefaultTighteningForTruncation" : 0,
-                    "tighteningFactorForTruncation" : 0.050000000000000003,
-                    "baseWritingDirection" : 0,
-                    "alignment" : 0,
-                    "minimumLineHeight" : 25.20000076293945,
-                    "maximumLineHeight" : 25.20000076293945
                   }
-                }
+                },
+                "location" : 0
               }
-            ]
+            ],
+            "_class" : "attributedString",
+            "string" : "這是中文 H4"
           },
           "shouldBreakMaskChain" : false,
           "isFixedToViewport" : false,
@@ -2342,7 +2338,7 @@
           "sharedStyleID" : "48555E79-BB04-4D3B-84F5-55718EB85233",
           "style" : {
             "_class" : "style",
-            "endMarkerType" : 0,
+            "miterLimit" : 10,
             "do_objectID" : "B4D9D6C0-AD21-47D5-9E26-59FEB9E76527",
             "startMarkerType" : 0,
             "windingRule" : 1,
@@ -2350,6 +2346,15 @@
               "verticalAlignment" : 0,
               "_class" : "textStyle",
               "encodedAttributes" : {
+                "paragraphStyle" : {
+                  "_class" : "paragraphStyle",
+                  "allowsDefaultTighteningForTruncation" : 0,
+                  "baseWritingDirection" : 0,
+                  "tighteningFactorForTruncation" : 0.050000000000000003,
+                  "alignment" : 0,
+                  "minimumLineHeight" : 33.599998474121087,
+                  "maximumLineHeight" : 33.599998474121087
+                },
                 "MSAttributedStringColorAttribute" : {
                   "red" : 0,
                   "_class" : "color",
@@ -2363,26 +2368,17 @@
                     "size" : 24
                   },
                   "_class" : "fontDescriptor"
-                },
-                "paragraphStyle" : {
-                  "_class" : "paragraphStyle",
-                  "allowsDefaultTighteningForTruncation" : 0,
-                  "tighteningFactorForTruncation" : 0.050000000000000003,
-                  "baseWritingDirection" : 0,
-                  "alignment" : 0,
-                  "minimumLineHeight" : 33.599998474121087,
-                  "maximumLineHeight" : 33.599998474121087
                 }
               }
             },
-            "miterLimit" : 10
+            "endMarkerType" : 0
           },
-          "rotation" : 0,
+          "glyphBounds" : "{{0, 6}, {137, 24}}",
           "frame" : {
             "_class" : "rect",
             "height" : 34,
-            "do_objectID" : "32E7BD90-E50B-4C08-8DFD-FC50A0CD9649",
             "constrainProportions" : false,
+            "do_objectID" : "32E7BD90-E50B-4C08-8DFD-FC50A0CD9649",
             "x" : 36,
             "width" : 138,
             "y" : 348
@@ -2390,25 +2386,27 @@
           "do_objectID" : "62F6D269-27C8-45C7-8D12-8B45CDF27460",
           "layerListExpandedType" : 0,
           "exportOptions" : {
-            "exportFormats" : [
-
-            ],
+            "shouldTrim" : false,
             "do_objectID" : "7CFE1B19-685F-43C8-9473-2DB8CE1FB32E",
             "includedLayerIds" : [
 
             ],
             "_class" : "exportOptions",
             "layerOptions" : 0,
-            "shouldTrim" : false
+            "exportFormats" : [
+
+            ]
           },
-          "glyphBounds" : "{{0, 6}, {137, 24}}",
+          "rotation" : 0,
           "dontSynchroniseWithSymbol" : false,
           "lineSpacingBehaviour" : 2,
           "textBehaviour" : 0,
           "isFlippedVertical" : false,
-          "nameIsFixed" : false,
+          "clippingMaskMode" : 0,
           "name" : "這是中文 H3",
           "isVisible" : true,
+          "hasClippingMask" : false,
+          "nameIsFixed" : false,
           "resizingType" : 0,
           "userInfo" : {
             "com.animaapp.stc-sketch-plugin" : {
@@ -2417,18 +2415,22 @@
               }
             }
           },
-          "clippingMaskMode" : 0,
-          "hasClippingMask" : false,
           "isLocked" : false,
           "attributedString" : {
-            "string" : "這是中文 H3",
-            "_class" : "attributedString",
             "attributes" : [
               {
                 "length" : 7,
                 "_class" : "stringAttribute",
-                "location" : 0,
                 "attributes" : {
+                  "paragraphStyle" : {
+                    "_class" : "paragraphStyle",
+                    "allowsDefaultTighteningForTruncation" : 0,
+                    "baseWritingDirection" : 0,
+                    "tighteningFactorForTruncation" : 0.050000000000000003,
+                    "alignment" : 0,
+                    "minimumLineHeight" : 33.599998474121087,
+                    "maximumLineHeight" : 33.599998474121087
+                  },
                   "MSAttributedStringColorAttribute" : {
                     "red" : 0,
                     "_class" : "color",
@@ -2442,19 +2444,13 @@
                       "size" : 24
                     },
                     "_class" : "fontDescriptor"
-                  },
-                  "paragraphStyle" : {
-                    "_class" : "paragraphStyle",
-                    "allowsDefaultTighteningForTruncation" : 0,
-                    "tighteningFactorForTruncation" : 0.050000000000000003,
-                    "baseWritingDirection" : 0,
-                    "alignment" : 0,
-                    "minimumLineHeight" : 33.599998474121087,
-                    "maximumLineHeight" : 33.599998474121087
                   }
-                }
+                },
+                "location" : 0
               }
-            ]
+            ],
+            "_class" : "attributedString",
+            "string" : "這是中文 H3"
           },
           "shouldBreakMaskChain" : false,
           "isFixedToViewport" : false,
@@ -2468,7 +2464,7 @@
           "sharedStyleID" : "19C5838E-51DE-4619-B121-6505A5AA2B13",
           "style" : {
             "_class" : "style",
-            "endMarkerType" : 0,
+            "miterLimit" : 10,
             "do_objectID" : "341F0D3E-08E0-4184-915E-DD669F164D0E",
             "startMarkerType" : 0,
             "windingRule" : 1,
@@ -2476,6 +2472,15 @@
               "verticalAlignment" : 0,
               "_class" : "textStyle",
               "encodedAttributes" : {
+                "paragraphStyle" : {
+                  "_class" : "paragraphStyle",
+                  "allowsDefaultTighteningForTruncation" : 0,
+                  "baseWritingDirection" : 0,
+                  "tighteningFactorForTruncation" : 0.050000000000000003,
+                  "alignment" : 0,
+                  "minimumLineHeight" : 39.200000762939453,
+                  "maximumLineHeight" : 39.200000762939453
+                },
                 "MSAttributedStringColorAttribute" : {
                   "red" : 0,
                   "_class" : "color",
@@ -2489,26 +2494,17 @@
                     "size" : 28
                   },
                   "_class" : "fontDescriptor"
-                },
-                "paragraphStyle" : {
-                  "_class" : "paragraphStyle",
-                  "allowsDefaultTighteningForTruncation" : 0,
-                  "tighteningFactorForTruncation" : 0.050000000000000003,
-                  "baseWritingDirection" : 0,
-                  "alignment" : 0,
-                  "minimumLineHeight" : 39.200000762939453,
-                  "maximumLineHeight" : 39.200000762939453
                 }
               }
             },
-            "miterLimit" : 10
+            "endMarkerType" : 0
           },
-          "rotation" : 0,
+          "glyphBounds" : "{{0, 7}, {159, 29}}",
           "frame" : {
             "_class" : "rect",
             "height" : 40,
-            "do_objectID" : "B737A382-C54A-4AA3-BF10-91D9CE43C9E2",
             "constrainProportions" : false,
+            "do_objectID" : "B737A382-C54A-4AA3-BF10-91D9CE43C9E2",
             "x" : 36,
             "width" : 161,
             "y" : 308
@@ -2516,25 +2512,27 @@
           "do_objectID" : "65B40C02-3FE3-4EFC-A861-43791560EB18",
           "layerListExpandedType" : 0,
           "exportOptions" : {
-            "exportFormats" : [
-
-            ],
+            "shouldTrim" : false,
             "do_objectID" : "1FF92557-042A-43D1-8F38-8C3DD6A1E808",
             "includedLayerIds" : [
 
             ],
             "_class" : "exportOptions",
             "layerOptions" : 0,
-            "shouldTrim" : false
+            "exportFormats" : [
+
+            ]
           },
-          "glyphBounds" : "{{0, 7}, {159, 29}}",
+          "rotation" : 0,
           "dontSynchroniseWithSymbol" : false,
           "lineSpacingBehaviour" : 2,
           "textBehaviour" : 0,
           "isFlippedVertical" : false,
-          "nameIsFixed" : false,
+          "clippingMaskMode" : 0,
           "name" : "這是中文 H2",
           "isVisible" : true,
+          "hasClippingMask" : false,
+          "nameIsFixed" : false,
           "resizingType" : 0,
           "userInfo" : {
             "com.animaapp.stc-sketch-plugin" : {
@@ -2543,18 +2541,22 @@
               }
             }
           },
-          "clippingMaskMode" : 0,
-          "hasClippingMask" : false,
           "isLocked" : false,
           "attributedString" : {
-            "string" : "這是中文 H2",
-            "_class" : "attributedString",
             "attributes" : [
               {
                 "length" : 7,
                 "_class" : "stringAttribute",
-                "location" : 0,
                 "attributes" : {
+                  "paragraphStyle" : {
+                    "_class" : "paragraphStyle",
+                    "allowsDefaultTighteningForTruncation" : 0,
+                    "baseWritingDirection" : 0,
+                    "tighteningFactorForTruncation" : 0.050000000000000003,
+                    "alignment" : 0,
+                    "minimumLineHeight" : 39.200000762939453,
+                    "maximumLineHeight" : 39.200000762939453
+                  },
                   "MSAttributedStringColorAttribute" : {
                     "red" : 0,
                     "_class" : "color",
@@ -2568,19 +2570,13 @@
                       "size" : 28
                     },
                     "_class" : "fontDescriptor"
-                  },
-                  "paragraphStyle" : {
-                    "_class" : "paragraphStyle",
-                    "allowsDefaultTighteningForTruncation" : 0,
-                    "tighteningFactorForTruncation" : 0.050000000000000003,
-                    "baseWritingDirection" : 0,
-                    "alignment" : 0,
-                    "minimumLineHeight" : 39.200000762939453,
-                    "maximumLineHeight" : 39.200000762939453
                   }
-                }
+                },
+                "location" : 0
               }
-            ]
+            ],
+            "_class" : "attributedString",
+            "string" : "這是中文 H2"
           },
           "shouldBreakMaskChain" : false,
           "isFixedToViewport" : false,
@@ -2594,7 +2590,7 @@
           "sharedStyleID" : "7D5938E3-5EE0-4A3C-98CC-49F835516760",
           "style" : {
             "_class" : "style",
-            "endMarkerType" : 0,
+            "miterLimit" : 10,
             "do_objectID" : "551761B4-A78C-4741-8ACC-0C0772A66940",
             "startMarkerType" : 0,
             "windingRule" : 1,
@@ -2602,6 +2598,15 @@
               "verticalAlignment" : 0,
               "_class" : "textStyle",
               "encodedAttributes" : {
+                "paragraphStyle" : {
+                  "_class" : "paragraphStyle",
+                  "allowsDefaultTighteningForTruncation" : 0,
+                  "baseWritingDirection" : 0,
+                  "tighteningFactorForTruncation" : 0.050000000000000003,
+                  "alignment" : 0,
+                  "minimumLineHeight" : 50.400001525878913,
+                  "maximumLineHeight" : 50.400001525878913
+                },
                 "MSAttributedStringColorAttribute" : {
                   "red" : 0,
                   "_class" : "color",
@@ -2615,26 +2620,17 @@
                     "size" : 36
                   },
                   "_class" : "fontDescriptor"
-                },
-                "paragraphStyle" : {
-                  "_class" : "paragraphStyle",
-                  "allowsDefaultTighteningForTruncation" : 0,
-                  "tighteningFactorForTruncation" : 0.050000000000000003,
-                  "baseWritingDirection" : 0,
-                  "alignment" : 0,
-                  "minimumLineHeight" : 50.400001525878913,
-                  "maximumLineHeight" : 50.400001525878913
                 }
               }
             },
-            "miterLimit" : 10
+            "endMarkerType" : 0
           },
-          "rotation" : 0,
+          "glyphBounds" : "{{0, 9}, {200, 36}}",
           "frame" : {
             "_class" : "rect",
             "height" : 51,
-            "do_objectID" : "5A7521CE-926A-49C2-A6C8-9F2F2E1C006C",
             "constrainProportions" : false,
+            "do_objectID" : "5A7521CE-926A-49C2-A6C8-9F2F2E1C006C",
             "x" : 36,
             "width" : 207,
             "y" : 257
@@ -2642,25 +2638,27 @@
           "do_objectID" : "E6C50D16-FA94-4BDA-B2E5-BCC68FE56493",
           "layerListExpandedType" : 0,
           "exportOptions" : {
-            "exportFormats" : [
-
-            ],
+            "shouldTrim" : false,
             "do_objectID" : "FB2AF650-73FB-41F6-BFB1-8A2F2C111D9C",
             "includedLayerIds" : [
 
             ],
             "_class" : "exportOptions",
             "layerOptions" : 0,
-            "shouldTrim" : false
+            "exportFormats" : [
+
+            ]
           },
-          "glyphBounds" : "{{0, 9}, {200, 36}}",
+          "rotation" : 0,
           "dontSynchroniseWithSymbol" : false,
           "lineSpacingBehaviour" : 2,
           "textBehaviour" : 0,
           "isFlippedVertical" : false,
-          "nameIsFixed" : false,
+          "clippingMaskMode" : 0,
           "name" : "這是中文 H1",
           "isVisible" : true,
+          "hasClippingMask" : false,
+          "nameIsFixed" : false,
           "resizingType" : 0,
           "userInfo" : {
             "com.animaapp.stc-sketch-plugin" : {
@@ -2669,18 +2667,22 @@
               }
             }
           },
-          "clippingMaskMode" : 0,
-          "hasClippingMask" : false,
           "isLocked" : false,
           "attributedString" : {
-            "string" : "這是中文 H1",
-            "_class" : "attributedString",
             "attributes" : [
               {
                 "length" : 7,
                 "_class" : "stringAttribute",
-                "location" : 0,
                 "attributes" : {
+                  "paragraphStyle" : {
+                    "_class" : "paragraphStyle",
+                    "allowsDefaultTighteningForTruncation" : 0,
+                    "baseWritingDirection" : 0,
+                    "tighteningFactorForTruncation" : 0.050000000000000003,
+                    "alignment" : 0,
+                    "minimumLineHeight" : 50.400001525878913,
+                    "maximumLineHeight" : 50.400001525878913
+                  },
                   "MSAttributedStringColorAttribute" : {
                     "red" : 0,
                     "_class" : "color",
@@ -2694,19 +2696,13 @@
                       "size" : 36
                     },
                     "_class" : "fontDescriptor"
-                  },
-                  "paragraphStyle" : {
-                    "_class" : "paragraphStyle",
-                    "allowsDefaultTighteningForTruncation" : 0,
-                    "tighteningFactorForTruncation" : 0.050000000000000003,
-                    "baseWritingDirection" : 0,
-                    "alignment" : 0,
-                    "minimumLineHeight" : 50.400001525878913,
-                    "maximumLineHeight" : 50.400001525878913
                   }
-                }
+                },
+                "location" : 0
               }
-            ]
+            ],
+            "_class" : "attributedString",
+            "string" : "這是中文 H1"
           },
           "shouldBreakMaskChain" : false,
           "isFixedToViewport" : false,
@@ -2720,7 +2716,7 @@
           "sharedStyleID" : "CD7B6CB7-3309-4027-B3FC-DEB7271A4F14",
           "style" : {
             "_class" : "style",
-            "endMarkerType" : 0,
+            "miterLimit" : 10,
             "do_objectID" : "E08B27B2-2323-4FFC-B9E0-60B2428485F2",
             "startMarkerType" : 0,
             "windingRule" : 1,
@@ -2728,6 +2724,15 @@
               "verticalAlignment" : 0,
               "_class" : "textStyle",
               "encodedAttributes" : {
+                "paragraphStyle" : {
+                  "_class" : "paragraphStyle",
+                  "allowsDefaultTighteningForTruncation" : 0,
+                  "baseWritingDirection" : 0,
+                  "tighteningFactorForTruncation" : 0.050000000000000003,
+                  "alignment" : 0,
+                  "minimumLineHeight" : 25.20000076293945,
+                  "maximumLineHeight" : 25.20000076293945
+                },
                 "MSAttributedStringColorAttribute" : {
                   "red" : 0,
                   "_class" : "color",
@@ -2741,26 +2746,17 @@
                     "size" : 18
                   },
                   "_class" : "fontDescriptor"
-                },
-                "paragraphStyle" : {
-                  "_class" : "paragraphStyle",
-                  "allowsDefaultTighteningForTruncation" : 0,
-                  "tighteningFactorForTruncation" : 0.050000000000000003,
-                  "baseWritingDirection" : 0,
-                  "alignment" : 0,
-                  "minimumLineHeight" : 25.20000076293945,
-                  "maximumLineHeight" : 25.20000076293945
                 }
               }
             },
-            "miterLimit" : 10
+            "endMarkerType" : 0
           },
-          "rotation" : 0,
+          "glyphBounds" : "{{0, 5}, {99, 18}}",
           "frame" : {
             "_class" : "rect",
             "height" : 26,
-            "do_objectID" : "82B71E45-AADD-4F37-AC22-E9F215F550CD",
             "constrainProportions" : false,
+            "do_objectID" : "82B71E45-AADD-4F37-AC22-E9F215F550CD",
             "x" : 36,
             "width" : 100,
             "y" : 181
@@ -2768,25 +2764,27 @@
           "do_objectID" : "C5264F33-525D-4648-8845-18F65F24D3C6",
           "layerListExpandedType" : 0,
           "exportOptions" : {
-            "exportFormats" : [
-
-            ],
+            "shouldTrim" : false,
             "do_objectID" : "3345FD91-D0B2-42BB-9509-F221D1B664AB",
             "includedLayerIds" : [
 
             ],
             "_class" : "exportOptions",
             "layerOptions" : 0,
-            "shouldTrim" : false
+            "exportFormats" : [
+
+            ]
           },
-          "glyphBounds" : "{{0, 5}, {99, 18}}",
+          "rotation" : 0,
           "dontSynchroniseWithSymbol" : false,
           "lineSpacingBehaviour" : 2,
           "textBehaviour" : 0,
           "isFlippedVertical" : false,
-          "nameIsFixed" : false,
+          "clippingMaskMode" : 0,
           "name" : "這是大字 B4",
           "isVisible" : true,
+          "hasClippingMask" : false,
+          "nameIsFixed" : false,
           "resizingType" : 0,
           "userInfo" : {
             "com.animaapp.stc-sketch-plugin" : {
@@ -2795,18 +2793,22 @@
               }
             }
           },
-          "clippingMaskMode" : 0,
-          "hasClippingMask" : false,
           "isLocked" : false,
           "attributedString" : {
-            "string" : "這是大字 B4",
-            "_class" : "attributedString",
             "attributes" : [
               {
                 "length" : 7,
                 "_class" : "stringAttribute",
-                "location" : 0,
                 "attributes" : {
+                  "paragraphStyle" : {
+                    "_class" : "paragraphStyle",
+                    "allowsDefaultTighteningForTruncation" : 0,
+                    "baseWritingDirection" : 0,
+                    "tighteningFactorForTruncation" : 0.050000000000000003,
+                    "alignment" : 0,
+                    "minimumLineHeight" : 25.20000076293945,
+                    "maximumLineHeight" : 25.20000076293945
+                  },
                   "MSAttributedStringColorAttribute" : {
                     "red" : 0,
                     "_class" : "color",
@@ -2820,19 +2822,13 @@
                       "size" : 18
                     },
                     "_class" : "fontDescriptor"
-                  },
-                  "paragraphStyle" : {
-                    "_class" : "paragraphStyle",
-                    "allowsDefaultTighteningForTruncation" : 0,
-                    "tighteningFactorForTruncation" : 0.050000000000000003,
-                    "baseWritingDirection" : 0,
-                    "alignment" : 0,
-                    "minimumLineHeight" : 25.20000076293945,
-                    "maximumLineHeight" : 25.20000076293945
                   }
-                }
+                },
+                "location" : 0
               }
-            ]
+            ],
+            "_class" : "attributedString",
+            "string" : "這是大字 B4"
           },
           "shouldBreakMaskChain" : false,
           "isFixedToViewport" : false,
@@ -2846,7 +2842,7 @@
           "sharedStyleID" : "CB3F28F7-A3D5-441F-837C-B3F0A159139D",
           "style" : {
             "_class" : "style",
-            "endMarkerType" : 0,
+            "miterLimit" : 10,
             "do_objectID" : "07BA7DD2-4064-4D1B-98CB-D7E14376AC51",
             "startMarkerType" : 0,
             "windingRule" : 1,
@@ -2854,6 +2850,15 @@
               "verticalAlignment" : 0,
               "_class" : "textStyle",
               "encodedAttributes" : {
+                "paragraphStyle" : {
+                  "_class" : "paragraphStyle",
+                  "allowsDefaultTighteningForTruncation" : 0,
+                  "baseWritingDirection" : 0,
+                  "tighteningFactorForTruncation" : 0.050000000000000003,
+                  "alignment" : 0,
+                  "minimumLineHeight" : 33.599998474121087,
+                  "maximumLineHeight" : 33.599998474121087
+                },
                 "MSAttributedStringColorAttribute" : {
                   "red" : 0,
                   "_class" : "color",
@@ -2867,26 +2872,17 @@
                     "size" : 24
                   },
                   "_class" : "fontDescriptor"
-                },
-                "paragraphStyle" : {
-                  "_class" : "paragraphStyle",
-                  "allowsDefaultTighteningForTruncation" : 0,
-                  "tighteningFactorForTruncation" : 0.050000000000000003,
-                  "baseWritingDirection" : 0,
-                  "alignment" : 0,
-                  "minimumLineHeight" : 33.599998474121087,
-                  "maximumLineHeight" : 33.599998474121087
                 }
               }
             },
-            "miterLimit" : 10
+            "endMarkerType" : 0
           },
-          "rotation" : 0,
+          "glyphBounds" : "{{0, 6}, {131, 24}}",
           "frame" : {
             "_class" : "rect",
             "height" : 34,
-            "do_objectID" : "E2791737-4D1E-4F75-ACC0-042028853BB8",
             "constrainProportions" : false,
+            "do_objectID" : "E2791737-4D1E-4F75-ACC0-042028853BB8",
             "x" : 36,
             "width" : 133,
             "y" : 147
@@ -2894,25 +2890,27 @@
           "do_objectID" : "31AEEDF6-2C7B-45F6-8BE7-86A6EB4DE79A",
           "layerListExpandedType" : 0,
           "exportOptions" : {
-            "exportFormats" : [
-
-            ],
+            "shouldTrim" : false,
             "do_objectID" : "598268E6-1ACE-40F6-A303-17A2EE091D28",
             "includedLayerIds" : [
 
             ],
             "_class" : "exportOptions",
             "layerOptions" : 0,
-            "shouldTrim" : false
+            "exportFormats" : [
+
+            ]
           },
-          "glyphBounds" : "{{0, 6}, {131, 24}}",
+          "rotation" : 0,
           "dontSynchroniseWithSymbol" : false,
           "lineSpacingBehaviour" : 2,
           "textBehaviour" : 0,
           "isFlippedVertical" : false,
-          "nameIsFixed" : false,
+          "clippingMaskMode" : 0,
           "name" : "這是大字 B3",
           "isVisible" : true,
+          "hasClippingMask" : false,
+          "nameIsFixed" : false,
           "resizingType" : 0,
           "userInfo" : {
             "com.animaapp.stc-sketch-plugin" : {
@@ -2921,18 +2919,22 @@
               }
             }
           },
-          "clippingMaskMode" : 0,
-          "hasClippingMask" : false,
           "isLocked" : false,
           "attributedString" : {
-            "string" : "這是大字 B3",
-            "_class" : "attributedString",
             "attributes" : [
               {
                 "length" : 7,
                 "_class" : "stringAttribute",
-                "location" : 0,
                 "attributes" : {
+                  "paragraphStyle" : {
+                    "_class" : "paragraphStyle",
+                    "allowsDefaultTighteningForTruncation" : 0,
+                    "baseWritingDirection" : 0,
+                    "tighteningFactorForTruncation" : 0.050000000000000003,
+                    "alignment" : 0,
+                    "minimumLineHeight" : 33.599998474121087,
+                    "maximumLineHeight" : 33.599998474121087
+                  },
                   "MSAttributedStringColorAttribute" : {
                     "red" : 0,
                     "_class" : "color",
@@ -2946,19 +2948,13 @@
                       "size" : 24
                     },
                     "_class" : "fontDescriptor"
-                  },
-                  "paragraphStyle" : {
-                    "_class" : "paragraphStyle",
-                    "allowsDefaultTighteningForTruncation" : 0,
-                    "tighteningFactorForTruncation" : 0.050000000000000003,
-                    "baseWritingDirection" : 0,
-                    "alignment" : 0,
-                    "minimumLineHeight" : 33.599998474121087,
-                    "maximumLineHeight" : 33.599998474121087
                   }
-                }
+                },
+                "location" : 0
               }
-            ]
+            ],
+            "_class" : "attributedString",
+            "string" : "這是大字 B3"
           },
           "shouldBreakMaskChain" : false,
           "isFixedToViewport" : false,
@@ -2972,7 +2968,7 @@
           "sharedStyleID" : "99C9CE2A-CD1D-4C34-9180-C20A31ACE58E",
           "style" : {
             "_class" : "style",
-            "endMarkerType" : 0,
+            "miterLimit" : 10,
             "do_objectID" : "49029EFF-B8EF-43CC-BFB2-0A759C833AB1",
             "startMarkerType" : 0,
             "windingRule" : 1,
@@ -2980,6 +2976,15 @@
               "verticalAlignment" : 0,
               "_class" : "textStyle",
               "encodedAttributes" : {
+                "paragraphStyle" : {
+                  "_class" : "paragraphStyle",
+                  "allowsDefaultTighteningForTruncation" : 0,
+                  "baseWritingDirection" : 0,
+                  "tighteningFactorForTruncation" : 0.050000000000000003,
+                  "alignment" : 0,
+                  "minimumLineHeight" : 50.400001525878913,
+                  "maximumLineHeight" : 50.400001525878913
+                },
                 "MSAttributedStringColorAttribute" : {
                   "red" : 0,
                   "_class" : "color",
@@ -2993,26 +2998,17 @@
                     "size" : 36
                   },
                   "_class" : "fontDescriptor"
-                },
-                "paragraphStyle" : {
-                  "_class" : "paragraphStyle",
-                  "allowsDefaultTighteningForTruncation" : 0,
-                  "tighteningFactorForTruncation" : 0.050000000000000003,
-                  "baseWritingDirection" : 0,
-                  "alignment" : 0,
-                  "minimumLineHeight" : 50.400001525878913,
-                  "maximumLineHeight" : 50.400001525878913
                 }
               }
             },
-            "miterLimit" : 10
+            "endMarkerType" : 0
           },
-          "rotation" : 0,
+          "glyphBounds" : "{{0, 9}, {196, 36}}",
           "frame" : {
             "_class" : "rect",
             "height" : 51,
-            "do_objectID" : "13966AE8-BDFC-47AE-AAC4-1E0D47ABDE83",
             "constrainProportions" : false,
+            "do_objectID" : "13966AE8-BDFC-47AE-AAC4-1E0D47ABDE83",
             "x" : 36,
             "width" : 199,
             "y" : 96
@@ -3020,25 +3016,27 @@
           "do_objectID" : "226CFF94-7AB6-4072-B057-7D0C472D9625",
           "layerListExpandedType" : 0,
           "exportOptions" : {
-            "exportFormats" : [
-
-            ],
+            "shouldTrim" : false,
             "do_objectID" : "95E5997A-5661-4B1C-8933-D5AE080E8DB2",
             "includedLayerIds" : [
 
             ],
             "_class" : "exportOptions",
             "layerOptions" : 0,
-            "shouldTrim" : false
+            "exportFormats" : [
+
+            ]
           },
-          "glyphBounds" : "{{0, 9}, {196, 36}}",
+          "rotation" : 0,
           "dontSynchroniseWithSymbol" : false,
           "lineSpacingBehaviour" : 2,
           "textBehaviour" : 0,
           "isFlippedVertical" : false,
-          "nameIsFixed" : false,
+          "clippingMaskMode" : 0,
           "name" : "這是大字 B2",
           "isVisible" : true,
+          "hasClippingMask" : false,
+          "nameIsFixed" : false,
           "resizingType" : 0,
           "userInfo" : {
             "com.animaapp.stc-sketch-plugin" : {
@@ -3047,18 +3045,22 @@
               }
             }
           },
-          "clippingMaskMode" : 0,
-          "hasClippingMask" : false,
           "isLocked" : false,
           "attributedString" : {
-            "string" : "這是大字 B2",
-            "_class" : "attributedString",
             "attributes" : [
               {
                 "length" : 7,
                 "_class" : "stringAttribute",
-                "location" : 0,
                 "attributes" : {
+                  "paragraphStyle" : {
+                    "_class" : "paragraphStyle",
+                    "allowsDefaultTighteningForTruncation" : 0,
+                    "baseWritingDirection" : 0,
+                    "tighteningFactorForTruncation" : 0.050000000000000003,
+                    "alignment" : 0,
+                    "minimumLineHeight" : 50.400001525878913,
+                    "maximumLineHeight" : 50.400001525878913
+                  },
                   "MSAttributedStringColorAttribute" : {
                     "red" : 0,
                     "_class" : "color",
@@ -3072,19 +3074,13 @@
                       "size" : 36
                     },
                     "_class" : "fontDescriptor"
-                  },
-                  "paragraphStyle" : {
-                    "_class" : "paragraphStyle",
-                    "allowsDefaultTighteningForTruncation" : 0,
-                    "tighteningFactorForTruncation" : 0.050000000000000003,
-                    "baseWritingDirection" : 0,
-                    "alignment" : 0,
-                    "minimumLineHeight" : 50.400001525878913,
-                    "maximumLineHeight" : 50.400001525878913
                   }
-                }
+                },
+                "location" : 0
               }
-            ]
+            ],
+            "_class" : "attributedString",
+            "string" : "這是大字 B2"
           },
           "shouldBreakMaskChain" : false,
           "isFixedToViewport" : false,
@@ -3098,7 +3094,7 @@
           "sharedStyleID" : "5DC887C7-2E47-41A9-941B-C3224197AD0B",
           "style" : {
             "_class" : "style",
-            "endMarkerType" : 0,
+            "miterLimit" : 10,
             "do_objectID" : "F5B99FC3-AC0B-445B-A3EB-D755ED0C8745",
             "startMarkerType" : 0,
             "windingRule" : 1,
@@ -3106,6 +3102,15 @@
               "verticalAlignment" : 0,
               "_class" : "textStyle",
               "encodedAttributes" : {
+                "paragraphStyle" : {
+                  "_class" : "paragraphStyle",
+                  "allowsDefaultTighteningForTruncation" : 0,
+                  "baseWritingDirection" : 0,
+                  "tighteningFactorForTruncation" : 0.050000000000000003,
+                  "alignment" : 0,
+                  "minimumLineHeight" : 67.199996948242188,
+                  "maximumLineHeight" : 67.199996948242188
+                },
                 "MSAttributedStringColorAttribute" : {
                   "red" : 0,
                   "_class" : "color",
@@ -3119,26 +3124,17 @@
                     "size" : 48
                   },
                   "_class" : "fontDescriptor"
-                },
-                "paragraphStyle" : {
-                  "_class" : "paragraphStyle",
-                  "allowsDefaultTighteningForTruncation" : 0,
-                  "tighteningFactorForTruncation" : 0.050000000000000003,
-                  "baseWritingDirection" : 0,
-                  "alignment" : 0,
-                  "minimumLineHeight" : 67.199996948242188,
-                  "maximumLineHeight" : 67.199996948242188
                 }
               }
             },
-            "miterLimit" : 10
+            "endMarkerType" : 0
           },
-          "rotation" : 0,
+          "glyphBounds" : "{{0, 12}, {262, 48}}",
           "frame" : {
             "_class" : "rect",
             "height" : 68,
-            "do_objectID" : "0A7EA2EE-BF2B-4333-A298-B545B1CA193E",
             "constrainProportions" : false,
+            "do_objectID" : "0A7EA2EE-BF2B-4333-A298-B545B1CA193E",
             "x" : 36,
             "width" : 265,
             "y" : 28
@@ -3146,25 +3142,27 @@
           "do_objectID" : "212B9188-14ED-4305-B8E3-A728FA03CD0D",
           "layerListExpandedType" : 0,
           "exportOptions" : {
-            "exportFormats" : [
-
-            ],
+            "shouldTrim" : false,
             "do_objectID" : "88F39D44-BCCA-42D7-B103-92EF9B2D7E46",
             "includedLayerIds" : [
 
             ],
             "_class" : "exportOptions",
             "layerOptions" : 0,
-            "shouldTrim" : false
+            "exportFormats" : [
+
+            ]
           },
-          "glyphBounds" : "{{0, 12}, {262, 48}}",
+          "rotation" : 0,
           "dontSynchroniseWithSymbol" : false,
           "lineSpacingBehaviour" : 2,
           "textBehaviour" : 0,
           "isFlippedVertical" : false,
-          "nameIsFixed" : false,
+          "clippingMaskMode" : 0,
           "name" : "這是大字 B1",
           "isVisible" : true,
+          "hasClippingMask" : false,
+          "nameIsFixed" : false,
           "resizingType" : 0,
           "userInfo" : {
             "com.animaapp.stc-sketch-plugin" : {
@@ -3173,18 +3171,22 @@
               }
             }
           },
-          "clippingMaskMode" : 0,
-          "hasClippingMask" : false,
           "isLocked" : false,
           "attributedString" : {
-            "string" : "這是大字 B1",
-            "_class" : "attributedString",
             "attributes" : [
               {
                 "length" : 7,
                 "_class" : "stringAttribute",
-                "location" : 0,
                 "attributes" : {
+                  "paragraphStyle" : {
+                    "_class" : "paragraphStyle",
+                    "allowsDefaultTighteningForTruncation" : 0,
+                    "baseWritingDirection" : 0,
+                    "tighteningFactorForTruncation" : 0.050000000000000003,
+                    "alignment" : 0,
+                    "minimumLineHeight" : 67.199996948242188,
+                    "maximumLineHeight" : 67.199996948242188
+                  },
                   "MSAttributedStringColorAttribute" : {
                     "red" : 0,
                     "_class" : "color",
@@ -3198,19 +3200,13 @@
                       "size" : 48
                     },
                     "_class" : "fontDescriptor"
-                  },
-                  "paragraphStyle" : {
-                    "_class" : "paragraphStyle",
-                    "allowsDefaultTighteningForTruncation" : 0,
-                    "tighteningFactorForTruncation" : 0.050000000000000003,
-                    "baseWritingDirection" : 0,
-                    "alignment" : 0,
-                    "minimumLineHeight" : 67.199996948242188,
-                    "maximumLineHeight" : 67.199996948242188
                   }
-                }
+                },
+                "location" : 0
               }
-            ]
+            ],
+            "_class" : "attributedString",
+            "string" : "這是大字 B1"
           },
           "shouldBreakMaskChain" : false,
           "isFixedToViewport" : false,
@@ -3220,14 +3216,16 @@
           "automaticallyDrawOnUnderlyingPath" : false
         }
       ],
+      "nameIsFixed" : true,
+      "resizingType" : 0,
       "isLocked" : false,
-      "shouldBreakMaskChain" : true,
       "isFlowHome" : false,
+      "shouldBreakMaskChain" : true,
       "isFixedToViewport" : false,
       "_class" : "artboard",
       "booleanOperation" : -1,
-      "resizingConstraint" : 63,
-      "includeBackgroundColorInExport" : true
+      "includeBackgroundColorInExport" : true,
+      "resizingConstraint" : 63
     }
   ],
   "grid" : {
@@ -3236,6 +3234,8 @@
     "isEnabled" : true,
     "gridSize" : 20
   },
+  "nameIsFixed" : true,
+  "resizingType" : 0,
   "isLocked" : false,
   "shouldBreakMaskChain" : false,
   "isFixedToViewport" : false,
