@@ -1,32 +1,5 @@
 {
   "commit" : "44fbd80fbaed5dccd549e2fcf407dc48b5b4a84e",
-  "build" : 67048,
-  "version" : 112,
-  "fonts" : [
-    "MicrosoftYaHei",
-    "MicrosoftYaHei-Bold",
-    "PingFangHK-Semibold",
-    "Roboto-Bold",
-    "Gotham-Bold",
-    "Roboto-Regular"
-  ],
-  "compatibilityVersion" : 99,
-  "app" : "com.bohemiancoding.sketch3",
-  "autosaved" : 1,
-  "variant" : "NONAPPSTORE",
-  "created" : {
-    "commit" : "44fbd80fbaed5dccd549e2fcf407dc48b5b4a84e",
-    "appVersion" : "52.1",
-    "build" : 67048,
-    "app" : "com.bohemiancoding.sketch3",
-    "compatibilityVersion" : 99,
-    "version" : 112,
-    "variant" : "NONAPPSTORE"
-  },
-  "saveHistory" : [
-    "NONAPPSTORE.67048"
-  ],
-  "appVersion" : "52.1",
   "pagesAndArtboards" : {
     "ECD26649-E44D-4FAF-931E-9C8A38007114" : {
       "name" : "🚀 Icon",
@@ -40,8 +13,8 @@
         "8545D004-D48C-46A2-8A57-FDD14E8999CB" : {
           "name" : "icon\/meta\/like"
         },
-        "46275672-40DE-4369-8C82-062A5B7140C8" : {
-          "name" : "Assets\/icon\/cursor\/pointer"
+        "FF056EDC-CE5E-4AB8-B162-EBF075AF68CE" : {
+          "name" : "icon\/communication\/phone"
         },
         "1471C67F-15F3-48BB-815B-C951FC519875" : {
           "name" : "icon\/reaction\/mono-color\/love"
@@ -49,11 +22,11 @@
         "5313FF5D-A654-4D6A-AECB-ABD91A7AE46D" : {
           "name" : "card\/default"
         },
+        "2778A155-5512-44A5-ABB6-9D35F4C724AE" : {
+          "name" : "icon\/badge\/vip"
+        },
         "426041AF-44EC-4E61-8E14-337946779928" : {
           "name" : "icon\/alert\/success"
-        },
-        "54C6AE0D-3D10-4ECD-8174-2F8845C80AC1" : {
-          "name" : "icon\/reaction\/mono-color\/like"
         },
         "4FA42AE8-47DB-43E4-B7FC-88217CE16023" : {
           "name" : "icon\/caret\/arrow-left"
@@ -61,8 +34,8 @@
         "19F546A8-AD43-4577-99C3-8AC331D06205" : {
           "name" : "icon\/action\/download"
         },
-        "2778A155-5512-44A5-ABB6-9D35F4C724AE" : {
-          "name" : "icon\/badge\/vip"
+        "54C6AE0D-3D10-4ECD-8174-2F8845C80AC1" : {
+          "name" : "icon\/reaction\/mono-color\/like"
         },
         "A98DC158-F201-47B7-BA82-1BB8ABBA7269" : {
           "name" : "icon\/nav\/apps"
@@ -76,11 +49,11 @@
         "41EB3F35-206F-4CE1-83DC-E1027D32CD51" : {
           "name" : "icon\/badge\/youtube-Verified"
         },
-        "537F59FF-0524-46EA-B39B-1E6780F24A17" : {
-          "name" : "icon\/flag\/Taiwan"
-        },
         "1849EBAE-A504-4508-91E9-1483816702B6" : {
           "name" : "icon\/action\/enter"
+        },
+        "537F59FF-0524-46EA-B39B-1E6780F24A17" : {
+          "name" : "icon\/flag\/Taiwan"
         },
         "AF2E58F4-FFFF-4748-B12F-BD89E2EA84B4" : {
           "name" : "icon\/media\/multi-color\/wechat"
@@ -118,20 +91,20 @@
         "78A45142-11E5-4931-B412-C791FBAD4128" : {
           "name" : "icon\/badge\/instagram-Verified"
         },
-        "FEC0043E-C359-4D32-BD5C-80DC48C24E8C" : {
-          "name" : "icon\/loading\/standard"
-        },
         "145FBDEF-C111-4782-87EF-0250E5DF69DF" : {
           "name" : "icon\/action\/entrance"
         },
         "484B1C75-E441-4996-90FA-BB9024DA1ADF" : {
           "name" : "icon\/meta\/comment"
         },
+        "72DA563C-401D-4FEC-AB28-2A1219B0F416" : {
+          "name" : "icon\/badges\/dot"
+        },
         "DF70DA09-42AB-4EE8-A0F1-E528220B74F9" : {
           "name" : "color-palette\/color-container\/circle"
         },
-        "72DA563C-401D-4FEC-AB28-2A1219B0F416" : {
-          "name" : "icon\/badges\/dot"
+        "FEC0043E-C359-4D32-BD5C-80DC48C24E8C" : {
+          "name" : "icon\/loading\/standard"
         },
         "09B49883-2D45-4C55-B4B8-F64246CE4AB5" : {
           "name" : "icon\/caret\/arrow-grow"
@@ -157,14 +130,14 @@
         "A4A99341-23F3-44C7-BD42-C17B32070CAB" : {
           "name" : "icon\/action\/bookmark"
         },
+        "09C40985-FA28-47D9-B9E2-69A00A55D2DF" : {
+          "name" : "icon\/form\/switches-on"
+        },
         "7D03393E-7B4D-425F-9491-C289576B4C75" : {
           "name" : "icon\/reaction\/multi-color\/wow"
         },
         "D4728C58-FB19-44A8-AB2F-104EB50CFDA2" : {
           "name" : "icon\/action\/unlock"
-        },
-        "09C40985-FA28-47D9-B9E2-69A00A55D2DF" : {
-          "name" : "icon\/form\/switches-on"
         },
         "393DD345-4BCC-468F-B932-97D82C69B846" : {
           "name" : "icon\/media\/multi-color\/instagram"
@@ -187,29 +160,29 @@
         "5B8F771D-1D03-403E-8EAA-411610C8FD13" : {
           "name" : "icon\/view\/card-view"
         },
-        "D97E13A2-493D-409C-B72A-3310E9D50A7E" : {
-          "name" : "icon\/caret\/arrow-drop-up"
-        },
         "AF0EBE97-F00E-4959-A343-75672D803D2A" : {
           "name" : "icon\/action\/search"
+        },
+        "D97E13A2-493D-409C-B72A-3310E9D50A7E" : {
+          "name" : "icon\/caret\/arrow-drop-up"
         },
         "2A7A6C28-A119-41A1-B6EA-684B478ABFF8" : {
           "name" : "icon\/action\/image"
         },
-        "CA4CE54F-3E12-41AC-AE38-2568E28484C0" : {
-          "name" : "icon\/caret\/arrow-drop-down"
-        },
         "30C31F4E-41C5-40EE-97C4-357E41E1CBD3" : {
           "name" : "icon\/form\/radio-uncheck"
+        },
+        "CA4CE54F-3E12-41AC-AE38-2568E28484C0" : {
+          "name" : "icon\/caret\/arrow-drop-down"
         },
         "2402862A-6517-477D-A3AC-13868F66A6FB" : {
           "name" : "icon\/media\/multi-color\/youtube"
         },
-        "ED40701B-3B02-48F5-B3D0-72ABFE41D3DA" : {
-          "name" : "icon\/reaction\/mono-color\/angry"
-        },
         "DCF3C323-A6D3-4DA3-A9D0-DA0B9E7A4FC9" : {
           "name" : "icon\/meta\/love"
+        },
+        "ED40701B-3B02-48F5-B3D0-72ABFE41D3DA" : {
+          "name" : "icon\/reaction\/mono-color\/angry"
         },
         "A5BBA0D2-CC7E-47C6-B7B5-E56DC6108683" : {
           "name" : "icon\/reaction\/multi-color\/love"
@@ -217,23 +190,23 @@
         "7C0373AD-C5EC-4A89-9F9B-DE223B9FD3DC" : {
           "name" : "icon\/action\/user"
         },
-        "EBA5CB82-A5C7-4DE6-9A49-592D5933103B" : {
-          "name" : "icon\/reaction\/mono-color\/haha"
-        },
         "EA067EB2-3D71-4BB1-A8EC-CAD4D0B812A8" : {
           "name" : "icon\/action\/language"
         },
         "B66C1FD3-76B3-4A4F-BFF4-8609FE0CC486" : {
           "name" : "icon\/media\/multi-color\/facebook"
         },
-        "F76DC8AD-33EA-4DB0-A21B-44263396D2E7" : {
-          "name" : "icon\/action\/locked"
+        "EBA5CB82-A5C7-4DE6-9A49-592D5933103B" : {
+          "name" : "icon\/reaction\/mono-color\/haha"
+        },
+        "73480D8D-E0E0-4EE9-B491-8EF93C661FBA" : {
+          "name" : "icon\/action\/logout"
         },
         "F27F9468-C7AE-4569-A8F5-85A954902BBF" : {
           "name" : "icon\/media\/multi-color\/weibo"
         },
-        "73480D8D-E0E0-4EE9-B491-8EF93C661FBA" : {
-          "name" : "icon\/action\/logout"
+        "F76DC8AD-33EA-4DB0-A21B-44263396D2E7" : {
+          "name" : "icon\/action\/locked"
         },
         "F89AD71B-71DD-4723-905D-9EEBDF38408B" : {
           "name" : "icon\/media\/mono-color\/wechat"
@@ -262,23 +235,23 @@
         "D1C10020-65CA-4CBB-B0C8-342AD33B0B87" : {
           "name" : "icon\/caret\/arrow-down"
         },
-        "8C0AD6BF-FDDF-4A28-8DC9-66DC936E891C" : {
-          "name" : "icon\/reaction\/mono-color\/wow"
-        },
         "6C011CC2-3161-4FC8-8F91-D6FBEBD30550" : {
           "name" : "icon\/badge\/weibo-VerifiedTalent"
         },
-        "C29613A8-F028-4C03-898F-6EAB2C7234CA" : {
-          "name" : "icon\/action\/archive"
+        "8C0AD6BF-FDDF-4A28-8DC9-66DC936E891C" : {
+          "name" : "icon\/reaction\/mono-color\/wow"
         },
         "7DF8D08F-A7B4-4196-9C5F-A299622344F0" : {
           "name" : "icon\/form\/radio-checked"
         },
-        "95678ECD-70C4-4D00-9EBA-B5DCEC5BE66E" : {
-          "name" : "icon\/reaction\/multi-color\/angry"
+        "C29613A8-F028-4C03-898F-6EAB2C7234CA" : {
+          "name" : "icon\/action\/archive"
         },
         "30C943D5-96D1-4209-9074-F51853414F3F" : {
           "name" : "icon\/action\/calendar"
+        },
+        "95678ECD-70C4-4D00-9EBA-B5DCEC5BE66E" : {
+          "name" : "icon\/reaction\/multi-color\/angry"
         },
         "C369CAFA-01FE-4356-A710-018C20E0134D" : {
           "name" : "icon\/emoji\/smile"
@@ -289,11 +262,11 @@
         "CDFD561B-0AFA-4766-8DAE-5E6959712C93" : {
           "name" : "icon\/media\/mono-color\/instagram"
         },
-        "5BC87BC3-F019-4118-94CA-360E785C2E18" : {
-          "name" : "icon\/caret\/arrow-forward"
-        },
         "16C4A36B-CBA6-492D-ABF3-9583AECD8318" : {
           "name" : "icon\/action\/bookmarked"
+        },
+        "5BC87BC3-F019-4118-94CA-360E785C2E18" : {
+          "name" : "icon\/caret\/arrow-forward"
         },
         "22A4C7FC-4D52-4095-B016-A6727D1496CC" : {
           "name" : "icon\/reaction\/multi-color\/haha"
@@ -301,26 +274,20 @@
         "25A4A4CA-53B6-4B8C-8F5D-FAEDBF6E41C3" : {
           "name" : "icon\/form\/checkbox-uncheck"
         },
-        "EE420F0C-9D8B-4E76-BBB2-96B639A45344" : {
-          "name" : "color-palette\/color-container\/rounded-1px"
+        "63E3986A-975B-42A9-A64B-1875A314E9F2" : {
+          "name" : "icon\/media\/mono-color\/facebook"
         },
         "C025D57E-9535-4CE7-A1B0-BB1F7913B63A" : {
           "name" : "icon\/action\/cart"
         },
-        "63E3986A-975B-42A9-A64B-1875A314E9F2" : {
-          "name" : "icon\/media\/mono-color\/facebook"
+        "EE420F0C-9D8B-4E76-BBB2-96B639A45344" : {
+          "name" : "color-palette\/color-container\/rounded-1px"
         },
         "257A7EAC-BA20-48E2-B664-21B1EFA1B490" : {
           "name" : "icon\/action\/delete"
         },
         "FA9CCB19-6B02-4B55-918D-C79C73936C8E" : {
           "name" : "icon\/meta\/share"
-        },
-        "FF056EDC-CE5E-4AB8-B162-EBF075AF68CE" : {
-          "name" : "icon\/communication\/phone"
-        },
-        "55EDBC48-B052-453E-AE18-4D94A50A5E7A" : {
-          "name" : "icon\/meta\/star"
         },
         "E5EF5526-3FA5-41DA-9683-E45C21B819D3" : {
           "name" : "icon\/reaction\/mono-color\/sad"
@@ -331,8 +298,14 @@
         "2A0CC75D-DE53-44AA-B7AB-AC21D2F881FB" : {
           "name" : "icon\/alert\/error"
         },
+        "55EDBC48-B052-453E-AE18-4D94A50A5E7A" : {
+          "name" : "icon\/meta\/star"
+        },
         "9D61C1CE-8C5B-4D4C-9F3D-034EEB5D8245" : {
           "name" : "icon\/caret\/arrow-drop"
+        },
+        "46275672-40DE-4369-8C82-062A5B7140C8" : {
+          "name" : "Assets\/icon\/cursor\/pointer"
         },
         "C4A8F086-315C-49FC-8CF0-B54C2318B41A" : {
           "name" : "color-palette\/color-container\/square"
@@ -345,11 +318,11 @@
         "E91E198A-8490-4ECB-A449-008DC43AA8DE" : {
           "name" : "components\/Button\/Outlined\/TC\/middle"
         },
-        "610C0C24-187C-46EC-83B1-7529FA30C230" : {
-          "name" : "components\/Button\/Contained\/EN\/large"
-        },
         "4A1FEDC0-3859-43B5-97BD-DD2D0004DBDD" : {
           "name" : "components\/Button\/Toggle\/small"
+        },
+        "610C0C24-187C-46EC-83B1-7529FA30C230" : {
+          "name" : "components\/Button\/Contained\/EN\/large"
         },
         "58DA567A-3C14-4F2D-BF35-3ADA9792EB94" : {
           "name" : "components\/Button\/Contained-with-icon\/EN\/middle"
@@ -360,20 +333,20 @@
         "07A5A622-2502-4A07-9834-A171DCD4E8C8" : {
           "name" : "components\/Button\/Outlined\/EN\/middle"
         },
+        "6BE7910B-F93A-4F98-96A3-82932F0D3525" : {
+          "name" : "components\/Button\/Toggle\/middle"
+        },
+        "80F04982-57D9-4F7F-BF7F-C98AFC111F73" : {
+          "name" : "components\/Button\/Toggle\/large"
+        },
         "8698F443-995B-497B-B15B-59A599CF8DA4" : {
           "name" : "components\/Button\/Contained\/EN\/small"
         },
         "A6F9FA93-51A8-461A-B577-DC53825D74D5" : {
           "name" : "components\/Button\/Contained-with-icon\/TC\/middle"
         },
-        "80F04982-57D9-4F7F-BF7F-C98AFC111F73" : {
-          "name" : "components\/Button\/Toggle\/large"
-        },
         "C91667F8-2137-4CBC-A56B-CB4DAA24CC2A" : {
           "name" : "components\/Button\/Contained\/TC\/middle"
-        },
-        "6BE7910B-F93A-4F98-96A3-82932F0D3525" : {
-          "name" : "components\/Button\/Toggle\/middle"
         }
       }
     },
@@ -433,26 +406,26 @@
         "D79B77DD-6EEE-4C2A-95F9-52B9678A105F" : {
           "name" : "Logo\/Corporation\/Horizontal\/EN-with-tagline-1"
         },
+        "25355A43-838B-476B-BA5E-774192D93907" : {
+          "name" : "Logo\/Product\/Module\/Analytics-2"
+        },
         "6D6ECF99-DE00-4955-8ABD-6CE223D8EFAA" : {
           "name" : "Logo\/Product\/Module\/trackingAnalysis"
-        },
-        "8118B52D-8530-4F88-93B2-121B53FC758F" : {
-          "name" : "Logo\/Corporation\/Vertical\/EN-with-tagline"
         },
         "1C2A91AE-F49F-447D-A215-34EAFA2E0C2D" : {
           "name" : "Logo\/Product\/Module\/highlight"
         },
-        "25355A43-838B-476B-BA5E-774192D93907" : {
-          "name" : "Logo\/Product\/Module\/Analytics-2"
+        "8118B52D-8530-4F88-93B2-121B53FC758F" : {
+          "name" : "Logo\/Corporation\/Vertical\/EN-with-tagline"
         },
         "F2C0046C-A3A3-47C9-B1EC-4E9707532292" : {
           "name" : "Logo\/Product\/Module\/WiseSearch"
         },
-        "368AA4F8-9D9F-426A-BE84-ADC3BD64FAE4" : {
-          "name" : "Logo\/Product\/Module\/WiseSoical"
-        },
         "1C72DD7F-5039-4F90-9E30-C87263171B56" : {
           "name" : "Logo\/Product\/Module\/Intelligence"
+        },
+        "368AA4F8-9D9F-426A-BE84-ADC3BD64FAE4" : {
+          "name" : "Logo\/Product\/Module\/WiseSoical"
         },
         "9432691A-8CB4-4C74-A1C4-574B36408A3C" : {
           "name" : "Logo\/Corporation\/Horizontal\/TC-standard"
@@ -460,11 +433,11 @@
         "536F99FA-3DED-41CA-8785-227EAC7663FB" : {
           "name" : "Logo\/Corporation\/Horizontal\/EN-with-tagline-20th"
         },
-        "942D16F0-3AAC-429B-9AD4-5D6448DCA4ED" : {
-          "name" : "Logo\/Product\/Module\/hotNews"
-        },
         "47F06643-7439-4722-A6B2-A604B659CA18" : {
           "name" : "Logo\/Corporation\/Horizontal\/TC-with-tagline-2"
+        },
+        "942D16F0-3AAC-429B-9AD4-5D6448DCA4ED" : {
+          "name" : "Logo\/Product\/Module\/hotNews"
         },
         "A3A0E037-FA5C-4A9D-A349-C9258330547B" : {
           "name" : "Logo\/Product\/Module\/AI Lab-2"
@@ -472,48 +445,48 @@
         "29D4F094-E098-409F-ABEC-E52A5F7B0BC5" : {
           "name" : "Logo\/Product\/Module\/alertCenter"
         },
-        "8109EADA-212A-4D2B-9706-C4491D588698" : {
-          "name" : "Logo\/Corporation\/Vertical\/EN-standard"
-        },
         "30758908-D111-4D78-8A34-3C876B6488D4" : {
           "name" : "Logo\/Corporation\/Horizontal\/TC-with-tagline-1"
+        },
+        "8109EADA-212A-4D2B-9706-C4491D588698" : {
+          "name" : "Logo\/Corporation\/Vertical\/EN-standard"
         }
       }
     },
     "8437350D-6F78-4280-8CF1-8F97656EC26C" : {
       "name" : "🔤 Text",
       "artboards" : {
-        "6BF113D2-9902-464C-8F17-A7A052E4D39A" : {
-          "name" : "EN"
-        },
         "9A0EE9D1-6554-4334-A33A-BA021EAB29C4" : {
           "name" : "CN"
+        },
+        "6BF113D2-9902-464C-8F17-A7A052E4D39A" : {
+          "name" : "EN"
         }
       }
     },
     "55F53439-41BD-46C2-8D05-4A97FF051670" : {
       "name" : "🎨 Color",
       "artboards" : {
-        "832AE712-E432-4C12-833C-817D72CB73EE" : {
-          "name" : "color-palette\/violet\/violet-2"
-        },
         "6FCE3A20-0A8E-44D4-81F0-2F035C72ACED" : {
           "name" : "color-palette\/cyan\/cyan-7"
         },
+        "832AE712-E432-4C12-833C-817D72CB73EE" : {
+          "name" : "color-palette\/violet\/violet-2"
+        },
+        "17BA4200-4954-442A-B6D4-A0C8E2021691" : {
+          "name" : "color-palette\/pink\/pink-7"
+        },
         "A89A8E16-2A8D-4B48-A5BE-29CB77D56BE1" : {
           "name" : "color-palette\/red\/red-4"
+        },
+        "A9B57B61-B5C8-4943-816D-8DF6722EEF3C" : {
+          "name" : "color-palette\/white"
         },
         "C510C4E9-774D-450D-B601-565361C070F1" : {
           "name" : "color-palette\/pink\/pink-2"
         },
         "E53122B7-00C7-44A8-A2B2-9D9470969CFE" : {
           "name" : "color-palette\/cyan\/cyan-2"
-        },
-        "17BA4200-4954-442A-B6D4-A0C8E2021691" : {
-          "name" : "color-palette\/pink\/pink-7"
-        },
-        "A9B57B61-B5C8-4943-816D-8DF6722EEF3C" : {
-          "name" : "color-palette\/white"
         },
         "C1130F68-5D0C-4EA3-A70E-9340D83BD143" : {
           "name" : "color-palette\/grey\/grey-1"
@@ -524,11 +497,11 @@
         "2CAD0039-253F-442B-A4EB-4241932E0F78" : {
           "name" : "color-palette\/cyan\/cyan-1"
         },
-        "EB0AA101-6D3E-4463-988E-D7727B249D6A" : {
-          "name" : "color-palette\/red\/red-9"
-        },
         "D0C2E357-FDDD-4D3D-AEB0-72A09F9E415F" : {
           "name" : "color-palette\/blue\/blue-8"
+        },
+        "EB0AA101-6D3E-4463-988E-D7727B249D6A" : {
+          "name" : "color-palette\/red\/red-9"
         },
         "7AAA047F-2C5E-4744-8E3A-D0A27ADED50A" : {
           "name" : "color-palette\/red\/red-2"
@@ -539,14 +512,14 @@
         "8BEE2337-03F8-4C83-81F1-D96A04690838" : {
           "name" : "color-palette\/indigo\/indigo-1"
         },
-        "264DEF93-C936-458A-BA74-228A7871FADA" : {
-          "name" : "color-palette\/violet\/violet-4"
-        },
         "0FEF52DA-72DA-405A-8AE7-FD6A24A95085" : {
           "name" : "color-palette\/lime\/lime-9"
         },
         "22A30140-4E5E-4BC6-B56D-3A3483DB56E7" : {
           "name" : "color-palette\/violet\/violet-8"
+        },
+        "264DEF93-C936-458A-BA74-228A7871FADA" : {
+          "name" : "color-palette\/violet\/violet-4"
         },
         "DA867F3B-D2C8-461A-9129-0CA961FF039E" : {
           "name" : "color-palette\/black"
@@ -554,26 +527,26 @@
         "E3D8CC44-19C4-47E0-B597-CBC5F7B903AC" : {
           "name" : "color-palette\/violet\/violet-7"
         },
-        "DF1834C6-C56F-41B8-A47E-6D62D936D024" : {
-          "name" : "color-palette\/pink\/pink-8"
-        },
         "21AF57EB-22D0-4790-94DC-6A3AAFA5C48C" : {
           "name" : "color-palette\/grey\/grey-2"
+        },
+        "DF1834C6-C56F-41B8-A47E-6D62D936D024" : {
+          "name" : "color-palette\/pink\/pink-8"
         },
         "C73ACBBB-ECA9-4635-98B1-AD3762B3740F" : {
           "name" : "color-palette\/orange\/orange-4"
         },
-        "4FB9E947-E64D-4A52-A40A-82902BE5FA14" : {
-          "name" : "color-palette\/cyan\/cyan-5"
-        },
-        "9DAAFF86-220C-48DC-B023-D20B9F823F85" : {
-          "name" : "color-palette\/yellow\/yellow-8"
-        },
         "00759F61-2EEC-437F-BC54-753AD75A185C" : {
           "name" : "color-palette\/pink\/pink-9"
         },
+        "4FB9E947-E64D-4A52-A40A-82902BE5FA14" : {
+          "name" : "color-palette\/cyan\/cyan-5"
+        },
         "592640AD-C975-4D5A-94FC-1E4E2FA0CA23" : {
           "name" : "color-palette\/orange\/orange-7"
+        },
+        "9DAAFF86-220C-48DC-B023-D20B9F823F85" : {
+          "name" : "color-palette\/yellow\/yellow-8"
         },
         "2A9B8F58-A16F-471E-8704-9243D44F203F" : {
           "name" : "color-palette\/violet\/violet-1"
@@ -605,26 +578,26 @@
         "48298ECE-D391-4C1C-8390-0EBCB1AA6C49" : {
           "name" : "color-palette\/green\/green-3"
         },
-        "5C3E3000-FD68-4B80-9A4B-B09985CC3210" : {
-          "name" : "color-palette\/teal\/teal-7"
-        },
         "3054BAC1-A64E-47CE-B926-F930BAA00884" : {
           "name" : "color-palette\/teal\/teal-5"
+        },
+        "5C3E3000-FD68-4B80-9A4B-B09985CC3210" : {
+          "name" : "color-palette\/teal\/teal-7"
         },
         "0A42D61F-1E14-4BE1-AF99-038C8DD9E464" : {
           "name" : "color-palette\/yellow\/yellow-7"
         },
+        "2D52EB75-55F2-4E47-9A83-FB8B14719685" : {
+          "name" : "color-palette\/grey\/grey-6"
+        },
         "A4811D21-8D30-46EE-9122-FA9AA1051E48" : {
           "name" : "color-palette\/green\/green-8"
-        },
-        "C7BE2591-6C59-40AD-8E1A-A81E3B692B25" : {
-          "name" : "color-palette\/blue\/blue-5"
         },
         "12A9BA53-2738-4461-9BC2-89A495C35EC2" : {
           "name" : "color-palette\/yellow\/yellow-9"
         },
-        "2D52EB75-55F2-4E47-9A83-FB8B14719685" : {
-          "name" : "color-palette\/grey\/grey-6"
+        "C7BE2591-6C59-40AD-8E1A-A81E3B692B25" : {
+          "name" : "color-palette\/blue\/blue-5"
         },
         "083C3C72-AA80-49B4-9FF7-0F2F44B9EF3B" : {
           "name" : "color-palette\/orange\/orange-3"
@@ -680,11 +653,11 @@
         "F536988E-1A14-4D89-A81C-E2731158D091" : {
           "name" : "color-palette\/orange\/orange-2"
         },
+        "4065D449-0CCB-4C17-ABFD-A6153645B20C" : {
+          "name" : "color-palette\/grey\/grey-7"
+        },
         "5C8508E8-3565-4BC4-87C5-54B893EB435E" : {
           "name" : "color-palette\/green\/green-2"
-        },
-        "FBD7A3F7-2D72-4C13-81B0-AFB1779CEDCA" : {
-          "name" : "color-palette\/indigo\/indigo-9"
         },
         "CCF8E3CD-8C02-4150-8087-2D9989410880" : {
           "name" : "color-palette\/green\/green-4"
@@ -692,26 +665,26 @@
         "F694EDF4-277F-4565-B957-6864FB252256" : {
           "name" : "color-palette\/teal\/teal-9"
         },
-        "E666120F-2964-4CCC-8667-9C94EEB5AEEF" : {
-          "name" : "color-palette\/pink\/pink-4"
-        },
         "69FB86EA-7559-49A5-B240-4FD9DAA3B831" : {
           "name" : "color-palette\/violet\/violet-5"
+        },
+        "E666120F-2964-4CCC-8667-9C94EEB5AEEF" : {
+          "name" : "color-palette\/pink\/pink-4"
         },
         "889C613D-F3C3-493D-A4F5-DDE1CAE31F25" : {
           "name" : "color-palette\/red\/red-7"
         },
-        "4065D449-0CCB-4C17-ABFD-A6153645B20C" : {
-          "name" : "color-palette\/grey\/grey-7"
+        "FBD7A3F7-2D72-4C13-81B0-AFB1779CEDCA" : {
+          "name" : "color-palette\/indigo\/indigo-9"
         },
-        "8AAFEB81-A253-474F-A91B-C4B153AF4FB1" : {
-          "name" : "color-palette\/orange\/orange-9"
+        "5221A515-E92B-4DE5-A95F-C56DF6BA3385" : {
+          "name" : "color-palette\/indigo\/indigo-3"
         },
         "002746F5-8303-40B3-9A58-6FC580E99150" : {
           "name" : "color-palette\/yellow\/yellow-2"
         },
-        "5221A515-E92B-4DE5-A95F-C56DF6BA3385" : {
-          "name" : "color-palette\/indigo\/indigo-3"
+        "8AAFEB81-A253-474F-A91B-C4B153AF4FB1" : {
+          "name" : "color-palette\/orange\/orange-9"
         },
         "C68675A5-4D98-4B25-9B13-DAC5AF87C06F" : {
           "name" : "color-palette\/indigo\/indigo-7"
@@ -758,11 +731,11 @@
         "E5874CF5-1459-41AC-B366-78C1218B2B6A" : {
           "name" : "color-palette\/blue\/blue-3"
         },
-        "3F4FBD27-0636-4651-ABBC-A98A67A48121" : {
-          "name" : "color-palette\/yellow\/yellow-5"
-        },
         "2861E5BF-5E51-489A-B4EC-5021A64AAD9A" : {
           "name" : "color-palette\/grey\/grey-5"
+        },
+        "3F4FBD27-0636-4651-ABBC-A98A67A48121" : {
+          "name" : "color-palette\/yellow\/yellow-5"
         },
         "83C3AA5A-B185-4556-A9AE-017B9FA6D104" : {
           "name" : "color-palette\/lime\/lime-8"
@@ -776,11 +749,11 @@
         "8BC31F1D-6217-43A9-B6E9-920433930AD0" : {
           "name" : "color-palette\/lime\/lime-7"
         },
-        "C45DDCCB-A5DD-4DC2-9952-76F3FB18C148" : {
-          "name" : "color-palette\/green\/green-6"
-        },
         "2925EF03-FA2B-4FD7-800C-9C3261D5B073" : {
           "name" : "color-palette\/violet\/violet-3"
+        },
+        "C45DDCCB-A5DD-4DC2-9952-76F3FB18C148" : {
+          "name" : "color-palette\/green\/green-6"
         },
         "AA277B8E-11FB-4EA1-AE87-164D367DE0D9" : {
           "name" : "color-palette\/lime\/lime-2"
@@ -806,11 +779,11 @@
         "4731128B-3425-4ECC-9CC2-1FF820464751" : {
           "name" : "color-palette\/orange\/orange-8"
         },
-        "69943EA7-EDE1-4EB8-9A2B-00D13E22C6A2" : {
-          "name" : "color-palette\/red\/red-1"
-        },
         "1FCF74CF-C7FF-476B-BC70-529EDA80119C" : {
           "name" : "color-palette\/teal\/teal-3"
+        },
+        "69943EA7-EDE1-4EB8-9A2B-00D13E22C6A2" : {
+          "name" : "color-palette\/red\/red-1"
         },
         "42D0AF8F-9316-47A7-921D-FC49DBDC4F8E" : {
           "name" : "color-palette\/orange\/orange-1"
@@ -818,13 +791,40 @@
         "3BFC455F-2F8D-459D-81ED-12764692474B" : {
           "name" : "color-palette\/green\/green-7"
         },
-        "7868D32B-3B9E-4CE7-9FBB-477F18541A79" : {
-          "name" : "color-palette\/teal\/teal-4"
-        },
         "6DBDD729-017A-4967-B291-27B894508D32" : {
           "name" : "color-palette\/pink\/pink-6"
+        },
+        "7868D32B-3B9E-4CE7-9FBB-477F18541A79" : {
+          "name" : "color-palette\/teal\/teal-4"
         }
       }
     }
-  }
+  },
+  "version" : 112,
+  "fonts" : [
+    "MicrosoftYaHei",
+    "MicrosoftYaHei-Bold",
+    "PingFangHK-Semibold",
+    "Roboto-Bold",
+    "Gotham-Bold",
+    "Roboto-Regular"
+  ],
+  "compatibilityVersion" : 99,
+  "app" : "com.bohemiancoding.sketch3",
+  "autosaved" : 0,
+  "variant" : "NONAPPSTORE",
+  "created" : {
+    "build" : 67048,
+    "appVersion" : "52.1",
+    "commit" : "44fbd80fbaed5dccd549e2fcf407dc48b5b4a84e",
+    "app" : "com.bohemiancoding.sketch3",
+    "compatibilityVersion" : 99,
+    "version" : 112,
+    "variant" : "NONAPPSTORE"
+  },
+  "saveHistory" : [
+    "NONAPPSTORE.67048"
+  ],
+  "appVersion" : "52.1",
+  "build" : 67048
 }

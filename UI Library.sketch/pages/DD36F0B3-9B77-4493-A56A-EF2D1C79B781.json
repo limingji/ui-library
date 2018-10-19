@@ -7,7 +7,13 @@
     "startMarkerType" : 0,
     "endMarkerType" : 0
   },
-  "rotation" : 0,
+  "horizontalRulerData" : {
+    "base" : 0,
+    "_class" : "rulerData",
+    "guides" : [
+
+    ]
+  },
   "frame" : {
     "x" : 0,
     "y" : 0,
@@ -17,7 +23,7 @@
     "width" : 300
   },
   "do_objectID" : "DD36F0B3-9B77-4493-A56A-EF2D1C79B781",
-  "layerListExpandedType" : 0,
+  "hasClickThrough" : true,
   "exportOptions" : {
     "shouldTrim" : false,
     "includedLayerIds" : [
@@ -29,15 +35,9 @@
 
     ]
   },
-  "hasClickThrough" : true,
-  "horizontalRulerData" : {
-    "base" : 0,
-    "_class" : "rulerData",
-    "guides" : [
-
-    ]
-  },
   "includeInCloudUpload" : true,
+  "layerListExpandedType" : 0,
+  "rotation" : 0,
   "verticalRulerData" : {
     "base" : 0,
     "_class" : "rulerData",
@@ -46,16 +46,9 @@
     ]
   },
   "isFlippedVertical" : false,
-  "nameIsFixed" : true,
+  "clippingMaskMode" : 0,
   "name" : "✏️ Components",
   "isVisible" : true,
-  "resizingType" : 0,
-  "userInfo" : {
-    "com.animaapp.stc-sketch-plugin" : {
-      "com.animaapp.animaPageID" : "CAA97F7D-DBAB-40CC-98DB-5A66EFACFBC4"
-    }
-  },
-  "clippingMaskMode" : 0,
   "hasClippingMask" : false,
   "layers" : [
     {
@@ -89,20 +82,20 @@
             "paragraphStyle" : {
               "alignment" : 0,
               "_class" : "paragraphStyle",
-              "tighteningFactorForTruncation" : 0.050000000000000003,
               "allowsDefaultTighteningForTruncation" : 0,
-              "baseWritingDirection" : 0
+              "baseWritingDirection" : 0,
+              "tighteningFactorForTruncation" : 0.050000000000000003
             }
           }
         },
         "endMarkerType" : 0
       },
-      "rotation" : 0,
+      "glyphBounds" : "{{1, 3}, {202, 42}}",
       "frame" : {
         "_class" : "rect",
         "height" : 46,
-        "do_objectID" : "9EF2971F-9CFF-4C94-B6CA-EBB9BA0B1051",
         "constrainProportions" : false,
+        "do_objectID" : "9EF2971F-9CFF-4C94-B6CA-EBB9BA0B1051",
         "x" : 2831,
         "width" : 205,
         "y" : 1279
@@ -121,14 +114,16 @@
 
         ]
       },
-      "glyphBounds" : "{{1, 3}, {202, 42}}",
+      "rotation" : 0,
       "dontSynchroniseWithSymbol" : false,
       "lineSpacingBehaviour" : 2,
       "textBehaviour" : 0,
       "isFlippedVertical" : false,
-      "nameIsFixed" : false,
+      "clippingMaskMode" : 0,
       "name" : "Tooptips",
       "isVisible" : true,
+      "hasClippingMask" : false,
+      "nameIsFixed" : false,
       "resizingType" : 0,
       "userInfo" : {
         "com.animaapp.stc-sketch-plugin" : {
@@ -137,17 +132,12 @@
           }
         }
       },
-      "clippingMaskMode" : 0,
-      "hasClippingMask" : false,
       "isLocked" : false,
       "attributedString" : {
-        "string" : "Tooptips",
-        "_class" : "attributedString",
         "attributes" : [
           {
             "length" : 8,
             "_class" : "stringAttribute",
-            "location" : 0,
             "attributes" : {
               "MSAttributedStringFontAttribute" : {
                 "attributes" : {
@@ -167,13 +157,16 @@
               "paragraphStyle" : {
                 "alignment" : 0,
                 "_class" : "paragraphStyle",
-                "tighteningFactorForTruncation" : 0.050000000000000003,
                 "allowsDefaultTighteningForTruncation" : 0,
-                "baseWritingDirection" : 0
+                "baseWritingDirection" : 0,
+                "tighteningFactorForTruncation" : 0.050000000000000003
               }
-            }
+            },
+            "location" : 0
           }
-        ]
+        ],
+        "_class" : "attributedString",
+        "string" : "Tooptips"
       },
       "shouldBreakMaskChain" : false,
       "isFixedToViewport" : false,
@@ -213,20 +206,20 @@
             "paragraphStyle" : {
               "alignment" : 0,
               "_class" : "paragraphStyle",
-              "tighteningFactorForTruncation" : 0.050000000000000003,
               "allowsDefaultTighteningForTruncation" : 0,
-              "baseWritingDirection" : 0
+              "baseWritingDirection" : 0,
+              "tighteningFactorForTruncation" : 0.050000000000000003
             }
           }
         },
         "endMarkerType" : 0
       },
-      "rotation" : 0,
+      "glyphBounds" : "{{2, 3}, {106, 35}}",
       "frame" : {
         "_class" : "rect",
         "height" : 46,
-        "do_objectID" : "7FCEF1BA-8F21-4C2C-B0B6-20501AC7A2FD",
         "constrainProportions" : false,
+        "do_objectID" : "7FCEF1BA-8F21-4C2C-B0B6-20501AC7A2FD",
         "x" : 2831,
         "width" : 111,
         "y" : 1943
@@ -245,14 +238,16 @@
 
         ]
       },
-      "glyphBounds" : "{{2, 3}, {106, 35}}",
+      "rotation" : 0,
       "dontSynchroniseWithSymbol" : false,
       "lineSpacingBehaviour" : 2,
       "textBehaviour" : 0,
       "isFlippedVertical" : false,
-      "nameIsFixed" : false,
+      "clippingMaskMode" : 0,
       "name" : "Card",
       "isVisible" : true,
+      "hasClippingMask" : false,
+      "nameIsFixed" : false,
       "resizingType" : 0,
       "userInfo" : {
         "com.animaapp.stc-sketch-plugin" : {
@@ -261,17 +256,12 @@
           }
         }
       },
-      "clippingMaskMode" : 0,
-      "hasClippingMask" : false,
       "isLocked" : false,
       "attributedString" : {
-        "string" : "Card",
-        "_class" : "attributedString",
         "attributes" : [
           {
             "length" : 4,
             "_class" : "stringAttribute",
-            "location" : 0,
             "attributes" : {
               "MSAttributedStringFontAttribute" : {
                 "attributes" : {
@@ -291,13 +281,16 @@
               "paragraphStyle" : {
                 "alignment" : 0,
                 "_class" : "paragraphStyle",
-                "tighteningFactorForTruncation" : 0.050000000000000003,
                 "allowsDefaultTighteningForTruncation" : 0,
-                "baseWritingDirection" : 0
+                "baseWritingDirection" : 0,
+                "tighteningFactorForTruncation" : 0.050000000000000003
               }
-            }
+            },
+            "location" : 0
           }
-        ]
+        ],
+        "_class" : "attributedString",
+        "string" : "Card"
       },
       "shouldBreakMaskChain" : false,
       "isFixedToViewport" : false,
@@ -337,20 +330,20 @@
             "paragraphStyle" : {
               "alignment" : 0,
               "_class" : "paragraphStyle",
-              "tighteningFactorForTruncation" : 0.050000000000000003,
               "allowsDefaultTighteningForTruncation" : 0,
-              "baseWritingDirection" : 0
+              "baseWritingDirection" : 0,
+              "tighteningFactorForTruncation" : 0.050000000000000003
             }
           }
         },
         "endMarkerType" : 0
       },
-      "rotation" : 0,
+      "glyphBounds" : "{{3, 3}, {186, 35}}",
       "frame" : {
         "_class" : "rect",
         "height" : 46,
-        "do_objectID" : "0D768464-9B1F-4208-B1D1-6038E88E5CBB",
         "constrainProportions" : false,
+        "do_objectID" : "0D768464-9B1F-4208-B1D1-6038E88E5CBB",
         "x" : 3420,
         "width" : 190,
         "y" : 1279
@@ -369,14 +362,16 @@
 
         ]
       },
-      "glyphBounds" : "{{3, 3}, {186, 35}}",
+      "rotation" : 0,
       "dontSynchroniseWithSymbol" : false,
       "lineSpacingBehaviour" : 2,
       "textBehaviour" : 0,
       "isFlippedVertical" : false,
-      "nameIsFixed" : false,
+      "clippingMaskMode" : 0,
       "name" : "Pullover",
       "isVisible" : true,
+      "hasClippingMask" : false,
+      "nameIsFixed" : false,
       "resizingType" : 0,
       "userInfo" : {
         "com.animaapp.stc-sketch-plugin" : {
@@ -385,17 +380,12 @@
           }
         }
       },
-      "clippingMaskMode" : 0,
-      "hasClippingMask" : false,
       "isLocked" : false,
       "attributedString" : {
-        "string" : "Pullover",
-        "_class" : "attributedString",
         "attributes" : [
           {
             "length" : 8,
             "_class" : "stringAttribute",
-            "location" : 0,
             "attributes" : {
               "MSAttributedStringFontAttribute" : {
                 "attributes" : {
@@ -415,13 +405,16 @@
               "paragraphStyle" : {
                 "alignment" : 0,
                 "_class" : "paragraphStyle",
-                "tighteningFactorForTruncation" : 0.050000000000000003,
                 "allowsDefaultTighteningForTruncation" : 0,
-                "baseWritingDirection" : 0
+                "baseWritingDirection" : 0,
+                "tighteningFactorForTruncation" : 0.050000000000000003
               }
-            }
+            },
+            "location" : 0
           }
-        ]
+        ],
+        "_class" : "attributedString",
+        "string" : "Pullover"
       },
       "shouldBreakMaskChain" : false,
       "isFixedToViewport" : false,
@@ -461,20 +454,20 @@
             "paragraphStyle" : {
               "alignment" : 0,
               "_class" : "paragraphStyle",
-              "tighteningFactorForTruncation" : 0.050000000000000003,
               "allowsDefaultTighteningForTruncation" : 0,
-              "baseWritingDirection" : 0
+              "baseWritingDirection" : 0,
+              "tighteningFactorForTruncation" : 0.050000000000000003
             }
           }
         },
         "endMarkerType" : 0
       },
-      "rotation" : 0,
+      "glyphBounds" : "{{3, 3}, {165, 35}}",
       "frame" : {
         "_class" : "rect",
         "height" : 46,
-        "do_objectID" : "544C534A-F7D6-44A6-BD57-61FCF3325F3C",
         "constrainProportions" : false,
+        "do_objectID" : "544C534A-F7D6-44A6-BD57-61FCF3325F3C",
         "x" : 3917,
         "width" : 169,
         "y" : 1279
@@ -493,14 +486,16 @@
 
         ]
       },
-      "glyphBounds" : "{{3, 3}, {165, 35}}",
+      "rotation" : 0,
       "dontSynchroniseWithSymbol" : false,
       "lineSpacingBehaviour" : 2,
       "textBehaviour" : 0,
       "isFlippedVertical" : false,
-      "nameIsFixed" : false,
+      "clippingMaskMode" : 0,
       "name" : "Header",
       "isVisible" : true,
+      "hasClippingMask" : false,
+      "nameIsFixed" : false,
       "resizingType" : 0,
       "userInfo" : {
         "com.animaapp.stc-sketch-plugin" : {
@@ -509,17 +504,12 @@
           }
         }
       },
-      "clippingMaskMode" : 0,
-      "hasClippingMask" : false,
       "isLocked" : false,
       "attributedString" : {
-        "string" : "Header",
-        "_class" : "attributedString",
         "attributes" : [
           {
             "length" : 6,
             "_class" : "stringAttribute",
-            "location" : 0,
             "attributes" : {
               "MSAttributedStringFontAttribute" : {
                 "attributes" : {
@@ -539,13 +529,16 @@
               "paragraphStyle" : {
                 "alignment" : 0,
                 "_class" : "paragraphStyle",
-                "tighteningFactorForTruncation" : 0.050000000000000003,
                 "allowsDefaultTighteningForTruncation" : 0,
-                "baseWritingDirection" : 0
+                "baseWritingDirection" : 0,
+                "tighteningFactorForTruncation" : 0.050000000000000003
               }
-            }
+            },
+            "location" : 0
           }
-        ]
+        ],
+        "_class" : "attributedString",
+        "string" : "Header"
       },
       "shouldBreakMaskChain" : false,
       "isFixedToViewport" : false,
@@ -585,20 +578,20 @@
             "paragraphStyle" : {
               "alignment" : 0,
               "_class" : "paragraphStyle",
-              "tighteningFactorForTruncation" : 0.050000000000000003,
               "allowsDefaultTighteningForTruncation" : 0,
-              "baseWritingDirection" : 0
+              "baseWritingDirection" : 0,
+              "tighteningFactorForTruncation" : 0.050000000000000003
             }
           }
         },
         "endMarkerType" : 0
       },
-      "rotation" : 0,
+      "glyphBounds" : "{{3, 5}, {473, 47}}",
       "frame" : {
         "_class" : "rect",
         "height" : 64,
-        "do_objectID" : "C5CB338E-59B2-4781-8534-5B8FBCD1F04A",
         "constrainProportions" : false,
+        "do_objectID" : "C5CB338E-59B2-4781-8534-5B8FBCD1F04A",
         "x" : 2831,
         "width" : 479,
         "y" : 1125
@@ -617,14 +610,16 @@
 
         ]
       },
-      "glyphBounds" : "{{3, 5}, {473, 47}}",
+      "rotation" : 0,
       "dontSynchroniseWithSymbol" : false,
       "lineSpacingBehaviour" : 2,
       "textBehaviour" : 0,
       "isFlippedVertical" : false,
-      "nameIsFixed" : false,
+      "clippingMaskMode" : 0,
       "name" : "COMPONENTS",
       "isVisible" : true,
+      "hasClippingMask" : false,
+      "nameIsFixed" : false,
       "resizingType" : 0,
       "userInfo" : {
         "com.animaapp.stc-sketch-plugin" : {
@@ -633,17 +628,12 @@
           }
         }
       },
-      "clippingMaskMode" : 0,
-      "hasClippingMask" : false,
       "isLocked" : false,
       "attributedString" : {
-        "string" : "COMPONENTS",
-        "_class" : "attributedString",
         "attributes" : [
           {
             "length" : 10,
             "_class" : "stringAttribute",
-            "location" : 0,
             "attributes" : {
               "MSAttributedStringFontAttribute" : {
                 "attributes" : {
@@ -663,13 +653,16 @@
               "paragraphStyle" : {
                 "alignment" : 0,
                 "_class" : "paragraphStyle",
-                "tighteningFactorForTruncation" : 0.050000000000000003,
                 "allowsDefaultTighteningForTruncation" : 0,
-                "baseWritingDirection" : 0
+                "baseWritingDirection" : 0,
+                "tighteningFactorForTruncation" : 0.050000000000000003
               }
-            }
+            },
+            "location" : 0
           }
-        ]
+        ],
+        "_class" : "attributedString",
+        "string" : "COMPONENTS"
       },
       "shouldBreakMaskChain" : false,
       "isFixedToViewport" : false,
@@ -709,20 +702,20 @@
             "paragraphStyle" : {
               "alignment" : 0,
               "_class" : "paragraphStyle",
-              "tighteningFactorForTruncation" : 0.050000000000000003,
               "allowsDefaultTighteningForTruncation" : 0,
-              "baseWritingDirection" : 0
+              "baseWritingDirection" : 0,
+              "tighteningFactorForTruncation" : 0.050000000000000003
             }
           }
         },
         "endMarkerType" : 0
       },
-      "rotation" : 0,
+      "glyphBounds" : "{{2, 1}, {45, 19}}",
       "frame" : {
         "_class" : "rect",
         "height" : 24,
-        "do_objectID" : "EDB259D0-877E-44FC-90FC-04E14036247C",
         "constrainProportions" : false,
+        "do_objectID" : "EDB259D0-877E-44FC-90FC-04E14036247C",
         "x" : 2831,
         "width" : 48,
         "y" : 1375
@@ -741,14 +734,16 @@
 
         ]
       },
-      "glyphBounds" : "{{2, 1}, {45, 19}}",
+      "rotation" : 0,
       "dontSynchroniseWithSymbol" : false,
       "lineSpacingBehaviour" : 2,
       "textBehaviour" : 0,
       "isFlippedVertical" : false,
-      "nameIsFixed" : false,
+      "clippingMaskMode" : 0,
       "name" : "Info",
       "isVisible" : true,
+      "hasClippingMask" : false,
+      "nameIsFixed" : false,
       "resizingType" : 0,
       "userInfo" : {
         "com.animaapp.stc-sketch-plugin" : {
@@ -757,17 +752,12 @@
           }
         }
       },
-      "clippingMaskMode" : 0,
-      "hasClippingMask" : false,
       "isLocked" : false,
       "attributedString" : {
-        "string" : "Info",
-        "_class" : "attributedString",
         "attributes" : [
           {
             "length" : 4,
             "_class" : "stringAttribute",
-            "location" : 0,
             "attributes" : {
               "MSAttributedStringFontAttribute" : {
                 "attributes" : {
@@ -787,13 +777,16 @@
               "paragraphStyle" : {
                 "alignment" : 0,
                 "_class" : "paragraphStyle",
-                "tighteningFactorForTruncation" : 0.050000000000000003,
                 "allowsDefaultTighteningForTruncation" : 0,
-                "baseWritingDirection" : 0
+                "baseWritingDirection" : 0,
+                "tighteningFactorForTruncation" : 0.050000000000000003
               }
-            }
+            },
+            "location" : 0
           }
-        ]
+        ],
+        "_class" : "attributedString",
+        "string" : "Info"
       },
       "shouldBreakMaskChain" : false,
       "isFixedToViewport" : false,
@@ -833,20 +826,20 @@
             "paragraphStyle" : {
               "alignment" : 0,
               "_class" : "paragraphStyle",
-              "tighteningFactorForTruncation" : 0.050000000000000003,
               "allowsDefaultTighteningForTruncation" : 0,
-              "baseWritingDirection" : 0
+              "baseWritingDirection" : 0,
+              "tighteningFactorForTruncation" : 0.050000000000000003
             }
           }
         },
         "endMarkerType" : 0
       },
-      "rotation" : 0,
+      "glyphBounds" : "{{2, 1}, {137, 22}}",
       "frame" : {
         "_class" : "rect",
         "height" : 24,
-        "do_objectID" : "7FBFEB88-AE6B-49E4-B429-96BB64ADD953",
         "constrainProportions" : false,
+        "do_objectID" : "7FBFEB88-AE6B-49E4-B429-96BB64ADD953",
         "x" : 3087,
         "width" : 140,
         "y" : 1375
@@ -865,14 +858,16 @@
 
         ]
       },
-      "glyphBounds" : "{{2, 1}, {137, 22}}",
+      "rotation" : 0,
       "dontSynchroniseWithSymbol" : false,
       "lineSpacingBehaviour" : 2,
       "textBehaviour" : 0,
       "isFlippedVertical" : false,
-      "nameIsFixed" : false,
+      "clippingMaskMode" : 0,
       "name" : "Data-single",
       "isVisible" : true,
+      "hasClippingMask" : false,
+      "nameIsFixed" : false,
       "resizingType" : 0,
       "userInfo" : {
         "com.animaapp.stc-sketch-plugin" : {
@@ -881,17 +876,12 @@
           }
         }
       },
-      "clippingMaskMode" : 0,
-      "hasClippingMask" : false,
       "isLocked" : false,
       "attributedString" : {
-        "string" : "Data-single",
-        "_class" : "attributedString",
         "attributes" : [
           {
             "length" : 11,
             "_class" : "stringAttribute",
-            "location" : 0,
             "attributes" : {
               "MSAttributedStringFontAttribute" : {
                 "attributes" : {
@@ -911,13 +901,16 @@
               "paragraphStyle" : {
                 "alignment" : 0,
                 "_class" : "paragraphStyle",
-                "tighteningFactorForTruncation" : 0.050000000000000003,
                 "allowsDefaultTighteningForTruncation" : 0,
-                "baseWritingDirection" : 0
+                "baseWritingDirection" : 0,
+                "tighteningFactorForTruncation" : 0.050000000000000003
               }
-            }
+            },
+            "location" : 0
           }
-        ]
+        ],
+        "_class" : "attributedString",
+        "string" : "Data-single"
       },
       "shouldBreakMaskChain" : false,
       "isFixedToViewport" : false,
@@ -957,20 +950,20 @@
             "paragraphStyle" : {
               "alignment" : 0,
               "_class" : "paragraphStyle",
-              "tighteningFactorForTruncation" : 0.050000000000000003,
               "allowsDefaultTighteningForTruncation" : 0,
-              "baseWritingDirection" : 0
+              "baseWritingDirection" : 0,
+              "tighteningFactorForTruncation" : 0.050000000000000003
             }
           }
         },
         "endMarkerType" : 0
       },
-      "rotation" : 0,
+      "glyphBounds" : "{{2, 1}, {138, 19}}",
       "frame" : {
         "_class" : "rect",
         "height" : 24,
-        "do_objectID" : "B25A4C64-4489-414A-999F-7EA32AAB8E35",
         "constrainProportions" : false,
+        "do_objectID" : "B25A4C64-4489-414A-999F-7EA32AAB8E35",
         "x" : 3917,
         "width" : 141,
         "y" : 1375
@@ -989,14 +982,16 @@
 
         ]
       },
-      "glyphBounds" : "{{2, 1}, {138, 19}}",
+      "rotation" : 0,
       "dontSynchroniseWithSymbol" : false,
       "lineSpacingBehaviour" : 2,
       "textBehaviour" : 0,
       "isFlippedVertical" : false,
-      "nameIsFixed" : false,
+      "clippingMaskMode" : 0,
       "name" : "Module-bar",
       "isVisible" : true,
+      "hasClippingMask" : false,
+      "nameIsFixed" : false,
       "resizingType" : 0,
       "userInfo" : {
         "com.animaapp.stc-sketch-plugin" : {
@@ -1005,17 +1000,12 @@
           }
         }
       },
-      "clippingMaskMode" : 0,
-      "hasClippingMask" : false,
       "isLocked" : false,
       "attributedString" : {
-        "string" : "Module-bar",
-        "_class" : "attributedString",
         "attributes" : [
           {
             "length" : 10,
             "_class" : "stringAttribute",
-            "location" : 0,
             "attributes" : {
               "MSAttributedStringFontAttribute" : {
                 "attributes" : {
@@ -1035,13 +1025,16 @@
               "paragraphStyle" : {
                 "alignment" : 0,
                 "_class" : "paragraphStyle",
-                "tighteningFactorForTruncation" : 0.050000000000000003,
                 "allowsDefaultTighteningForTruncation" : 0,
-                "baseWritingDirection" : 0
+                "baseWritingDirection" : 0,
+                "tighteningFactorForTruncation" : 0.050000000000000003
               }
-            }
+            },
+            "location" : 0
           }
-        ]
+        ],
+        "_class" : "attributedString",
+        "string" : "Module-bar"
       },
       "shouldBreakMaskChain" : false,
       "isFixedToViewport" : false,
@@ -1051,6 +1044,9 @@
       "automaticallyDrawOnUnderlyingPath" : false
     },
     {
+      "symbolID" : "8CFB5EFD-A03D-41C9-935E-05C656421CB8",
+      "includeInCloudUpload" : true,
+      "rotation" : 0,
       "verticalRulerData" : {
         "do_objectID" : "BC902254-EBA0-423C-9EB5-D7FB3EA7B30D",
         "_class" : "rulerData",
@@ -1059,9 +1055,6 @@
 
         ]
       },
-      "includeInCloudUpload" : true,
-      "rotation" : 0,
-      "symbolID" : "8CFB5EFD-A03D-41C9-935E-05C656421CB8",
       "resizesContent" : true,
       "isFlippedVertical" : false,
       "layers" : [
@@ -1108,8 +1101,8 @@
           "frame" : {
             "_class" : "rect",
             "height" : 56,
-            "do_objectID" : "6D8E8C7D-0302-41EE-843C-570151884649",
             "constrainProportions" : false,
+            "do_objectID" : "6D8E8C7D-0302-41EE-843C-570151884649",
             "x" : 0,
             "width" : 204,
             "y" : 0
@@ -1130,21 +1123,24 @@
           },
           "symbolID" : "7428C80B-002A-4259-A16A-47D951639809",
           "isFlippedVertical" : false,
-          "nameIsFixed" : false,
+          "clippingMaskMode" : 0,
           "name" : "*\/color-palette\/color-container",
           "isVisible" : true,
+          "hasClippingMask" : false,
+          "nameIsFixed" : false,
           "resizingType" : 0,
+          "horizontalSpacing" : 0,
           "userInfo" : {
             "com.animaapp.stc-sketch-plugin" : {
               "kModelPropertiesKey" : {
                 "constraints" : {
                   "width" : {
-                    "model_class" : "ADModelConstraint",
-                    "enabled" : 1,
                     "multiplier" : 0,
-                    "model_version" : 0.10000000000000001,
+                    "enabled" : 1,
                     "constant" : 204,
-                    "modelID" : "constraint_b53893af-6bdc-4a0c-b578-321c59c9edda"
+                    "modelID" : "constraint_b53893af-6bdc-4a0c-b578-321c59c9edda",
+                    "model_class" : "ADModelConstraint",
+                    "model_version" : 0.10000000000000001
                   },
                   "scaleFactor" : 1,
                   "model_version" : 0.10000000000000001,
@@ -1155,16 +1151,12 @@
               }
             }
           },
-          "clippingMaskMode" : 0,
-          "hasClippingMask" : false,
-          "horizontalSpacing" : 0,
           "isLocked" : false,
           "scale" : 1,
           "shouldBreakMaskChain" : false,
           "isFixedToViewport" : false,
           "_class" : "symbolInstance",
           "booleanOperation" : 0,
-          "resizingConstraint" : 63,
           "overrideValues" : [
             {
               "do_objectID" : "CA578FCD-B7C4-46C5-BD30-6859B33D7780",
@@ -1172,7 +1164,8 @@
               "_class" : "overrideValue",
               "value" : "17A98791-8AE0-472D-96C7-F20762400ED8"
             }
-          ]
+          ],
+          "resizingConstraint" : 63
         },
         {
           "isFlippedHorizontal" : false,
@@ -1205,8 +1198,8 @@
                 "paragraphStyle" : {
                   "_class" : "paragraphStyle",
                   "allowsDefaultTighteningForTruncation" : 0,
-                  "tighteningFactorForTruncation" : 0.050000000000000003,
                   "baseWritingDirection" : 0,
+                  "tighteningFactorForTruncation" : 0.050000000000000003,
                   "alignment" : 0,
                   "minimumLineHeight" : 14,
                   "maximumLineHeight" : 14
@@ -1215,12 +1208,12 @@
             },
             "endMarkerType" : 0
           },
-          "rotation" : 0,
+          "glyphBounds" : "{{0, 2}, {172, 40}}",
           "frame" : {
             "_class" : "rect",
             "height" : 42,
-            "do_objectID" : "150EAA79-FF0D-4F3E-8D43-3DB14566C1F6",
             "constrainProportions" : false,
+            "do_objectID" : "150EAA79-FF0D-4F3E-8D43-3DB14566C1F6",
             "x" : 10,
             "width" : 184,
             "y" : 6
@@ -1239,14 +1232,16 @@
 
             ]
           },
-          "glyphBounds" : "{{0, 2}, {172, 40}}",
+          "rotation" : 0,
           "dontSynchroniseWithSymbol" : false,
           "lineSpacingBehaviour" : 2,
           "textBehaviour" : 1,
           "isFlippedVertical" : false,
-          "nameIsFixed" : false,
+          "clippingMaskMode" : 0,
           "name" : "Greyhound divisively",
           "isVisible" : true,
+          "hasClippingMask" : false,
+          "nameIsFixed" : false,
           "resizingType" : 0,
           "userInfo" : {
             "com.animaapp.stc-sketch-plugin" : {
@@ -1255,40 +1250,35 @@
                   "automatic" : 1,
                   "model_class" : "ADModelViewConstraints",
                   "scaleFactor" : 1,
-                  "model_version" : 0.10000000000000001,
-                  "top" : {
-                    "model_class" : "ADModelConstraint",
-                    "enabled" : 1,
-                    "multiplier" : 0,
-                    "model_version" : 0.10000000000000001,
-                    "constant" : 6,
-                    "modelID" : "constraint_73298513-5115-493d-ad9b-d98f82917db1"
-                  },
-                  "modelID" : "viewConstraints_b6fe37c8-b6d2-4e06-ac03-8d1e9bc566aa",
                   "left" : {
-                    "model_class" : "ADModelConstraint",
-                    "enabled" : 1,
                     "multiplier" : 0,
-                    "model_version" : 0.10000000000000001,
+                    "enabled" : 1,
                     "constant" : 10,
-                    "modelID" : "constraint_37ba4619-2c2a-451e-8d10-c0a2cf606b1a"
+                    "modelID" : "constraint_37ba4619-2c2a-451e-8d10-c0a2cf606b1a",
+                    "model_class" : "ADModelConstraint",
+                    "model_version" : 0.10000000000000001
+                  },
+                  "model_version" : 0.10000000000000001,
+                  "modelID" : "viewConstraints_b6fe37c8-b6d2-4e06-ac03-8d1e9bc566aa",
+                  "top" : {
+                    "multiplier" : 0,
+                    "enabled" : 1,
+                    "constant" : 6,
+                    "modelID" : "constraint_73298513-5115-493d-ad9b-d98f82917db1",
+                    "model_class" : "ADModelConstraint",
+                    "model_version" : 0.10000000000000001
                   }
                 },
                 "isAutoWidth" : 0
               }
             }
           },
-          "clippingMaskMode" : 0,
-          "hasClippingMask" : false,
           "isLocked" : false,
           "attributedString" : {
-            "string" : "Greyhound divisively hello coldly wonderfully marginally far upon excluding.",
-            "_class" : "attributedString",
             "attributes" : [
               {
                 "length" : 76,
                 "_class" : "stringAttribute",
-                "location" : 0,
                 "attributes" : {
                   "MSAttributedStringFontAttribute" : {
                     "attributes" : {
@@ -1308,15 +1298,18 @@
                   "paragraphStyle" : {
                     "_class" : "paragraphStyle",
                     "allowsDefaultTighteningForTruncation" : 0,
-                    "tighteningFactorForTruncation" : 0.050000000000000003,
                     "baseWritingDirection" : 0,
+                    "tighteningFactorForTruncation" : 0.050000000000000003,
                     "alignment" : 0,
                     "minimumLineHeight" : 14,
                     "maximumLineHeight" : 14
                   }
-                }
+                },
+                "location" : 0
               }
-            ]
+            ],
+            "_class" : "attributedString",
+            "string" : "Greyhound divisively hello coldly wonderfully marginally far upon excluding."
           },
           "shouldBreakMaskChain" : false,
           "isFixedToViewport" : false,
@@ -1343,9 +1336,9 @@
         "blue" : 1,
         "green" : 1
       },
-      "nameIsFixed" : true,
-      "isFixedToViewport" : false,
       "hasClickThrough" : true,
+      "isFixedToViewport" : false,
+      "nameIsFixed" : true,
       "isVisible" : true,
       "hasClippingMask" : false,
       "style" : {
@@ -1382,15 +1375,15 @@
       "frame" : {
         "_class" : "rect",
         "height" : 56,
-        "do_objectID" : "84444BB1-F59A-4CE3-BF13-D9F5B9040DB0",
         "constrainProportions" : false,
+        "do_objectID" : "84444BB1-F59A-4CE3-BF13-D9F5B9040DB0",
         "x" : 2831,
         "width" : 204,
         "y" : 1429
       },
-      "layerListExpandedType" : 0,
-      "isFlippedHorizontal" : false,
       "includeBackgroundColorInInstance" : false,
+      "isFlippedHorizontal" : false,
+      "layerListExpandedType" : 0,
       "userInfo" : {
         "com.animaapp.stc-sketch-plugin" : {
           "kModelPropertiesKey" : {
@@ -1401,6 +1394,9 @@
       "resizingConstraint" : 63
     },
     {
+      "symbolID" : "65A427A6-460A-4189-88B6-B7CBFD4DBD95",
+      "includeInCloudUpload" : true,
+      "rotation" : 0,
       "verticalRulerData" : {
         "do_objectID" : "A2F7DED3-C012-4FEE-B9A7-E69C869FC771",
         "_class" : "rulerData",
@@ -1409,9 +1405,6 @@
 
         ]
       },
-      "includeInCloudUpload" : true,
-      "rotation" : 0,
-      "symbolID" : "65A427A6-460A-4189-88B6-B7CBFD4DBD95",
       "resizesContent" : false,
       "isFlippedVertical" : false,
       "layers" : [
@@ -1436,8 +1429,8 @@
           "frame" : {
             "_class" : "rect",
             "height" : 26,
-            "do_objectID" : "2A3822E7-3FB8-41B5-A965-5FFF169929A7",
             "constrainProportions" : false,
+            "do_objectID" : "2A3822E7-3FB8-41B5-A965-5FFF169929A7",
             "x" : 0,
             "width" : 150,
             "y" : 0
@@ -1458,10 +1451,13 @@
           },
           "symbolID" : "7428C80B-002A-4259-A16A-47D951639809",
           "isFlippedVertical" : false,
-          "nameIsFixed" : false,
+          "clippingMaskMode" : 0,
           "name" : "*\/color-palette\/color-container",
           "isVisible" : true,
+          "hasClippingMask" : false,
+          "nameIsFixed" : false,
           "resizingType" : 0,
+          "horizontalSpacing" : 0,
           "userInfo" : {
             "com.animaapp.stc-sketch-plugin" : {
               "kModelPropertiesKey" : {
@@ -1469,16 +1465,12 @@
               }
             }
           },
-          "clippingMaskMode" : 0,
-          "hasClippingMask" : false,
-          "horizontalSpacing" : 0,
           "isLocked" : false,
           "scale" : 1,
           "shouldBreakMaskChain" : false,
           "isFixedToViewport" : false,
           "_class" : "symbolInstance",
           "booleanOperation" : 0,
-          "resizingConstraint" : 63,
           "overrideValues" : [
             {
               "do_objectID" : "CA578FCD-B7C4-46C5-BD30-6859B33D7780",
@@ -1486,7 +1478,8 @@
               "_class" : "overrideValue",
               "value" : "17A98791-8AE0-472D-96C7-F20762400ED8"
             }
-          ]
+          ],
+          "resizingConstraint" : 63
         },
         {
           "isFlippedHorizontal" : false,
@@ -1503,8 +1496,8 @@
           "frame" : {
             "_class" : "rect",
             "height" : 12,
-            "do_objectID" : "61475E4A-EE82-4C7D-A1CA-11507A7204AD",
             "constrainProportions" : true,
+            "do_objectID" : "61475E4A-EE82-4C7D-A1CA-11507A7204AD",
             "x" : 116,
             "width" : 12,
             "y" : 7
@@ -1525,73 +1518,72 @@
           },
           "symbolID" : "32B6CC7F-CDE6-421F-AFBD-57FB18BB7712",
           "isFlippedVertical" : false,
-          "nameIsFixed" : false,
+          "clippingMaskMode" : 0,
           "name" : "Assets\/icon\/action\/arrow",
           "isVisible" : true,
+          "hasClippingMask" : false,
+          "nameIsFixed" : false,
           "resizingType" : 0,
+          "horizontalSpacing" : 0,
           "userInfo" : {
             "com.animaapp.stc-sketch-plugin" : {
               "kModelPropertiesKey" : {
                 "constraints" : {
                   "height" : {
-                    "model_class" : "ADModelConstraint",
-                    "enabled" : 1,
                     "multiplier" : 0,
-                    "model_version" : 0.10000000000000001,
+                    "enabled" : 1,
                     "constant" : 12,
-                    "modelID" : "constraint_ffd576ce-b87a-4bd9-9228-e9bed953be07"
+                    "modelID" : "constraint_ffd576ce-b87a-4bd9-9228-e9bed953be07",
+                    "model_class" : "ADModelConstraint",
+                    "model_version" : 0.10000000000000001
                   },
                   "automatic" : 1,
                   "width" : {
-                    "model_class" : "ADModelConstraint",
-                    "enabled" : 1,
                     "multiplier" : 0,
-                    "model_version" : 0.10000000000000001,
+                    "enabled" : 1,
                     "constant" : 12,
-                    "modelID" : "constraint_20904bea-a4c8-4a58-ad07-af1ba6f79288"
+                    "modelID" : "constraint_20904bea-a4c8-4a58-ad07-af1ba6f79288",
+                    "model_class" : "ADModelConstraint",
+                    "model_version" : 0.10000000000000001
                   },
                   "model_class" : "ADModelViewConstraints",
                   "scaleFactor" : 1,
                   "model_version" : 0.10000000000000001,
                   "right" : {
-                    "model_class" : "ADModelConstraint",
-                    "enabled" : 1,
                     "multiplier" : 0,
-                    "model_version" : 0.10000000000000001,
+                    "enabled" : 1,
                     "constant" : 22,
-                    "modelID" : "constraint_54c52988-9cac-4d06-82c5-52c1e9dc9df4"
+                    "modelID" : "constraint_54c52988-9cac-4d06-82c5-52c1e9dc9df4",
+                    "model_class" : "ADModelConstraint",
+                    "model_version" : 0.10000000000000001
                   },
                   "aspectRatio" : {
-                    "model_class" : "ADModelConstraint",
-                    "enabled" : 1,
                     "multiplier" : 18,
-                    "model_version" : 0.10000000000000001,
+                    "enabled" : 1,
                     "constant" : 18,
-                    "modelID" : "constraint_a691be23-0dcd-4d3d-8c1a-e6eadae1b3a9"
+                    "modelID" : "constraint_a691be23-0dcd-4d3d-8c1a-e6eadae1b3a9",
+                    "model_class" : "ADModelConstraint",
+                    "model_version" : 0.10000000000000001
                   },
                   "modelID" : "viewConstraints_107f2507-87f4-4d3b-9d8c-86e8162baf26",
                   "top" : {
-                    "model_class" : "ADModelConstraint",
-                    "enabled" : 1,
                     "multiplier" : 0,
-                    "model_version" : 0.10000000000000001,
+                    "enabled" : 1,
                     "constant" : 7,
-                    "modelID" : "constraint_4bafb36f-2b0d-4ab3-85a6-8a46e3384467"
+                    "modelID" : "constraint_4bafb36f-2b0d-4ab3-85a6-8a46e3384467",
+                    "model_class" : "ADModelConstraint",
+                    "model_version" : 0.10000000000000001
                   }
                 }
               }
             }
           },
-          "clippingMaskMode" : 0,
-          "hasClippingMask" : false,
-          "horizontalSpacing" : 0,
           "isLocked" : false,
           "scale" : 1,
           "shouldBreakMaskChain" : false,
           "isFixedToViewport" : false,
           "_class" : "symbolInstance",
           "booleanOperation" : 0,
-          "resizingConstraint" : 63,
           "overrideValues" : [
             {
               "do_objectID" : "8D4F5610-794B-46AD-8398-9FD8D1D1CF0B",
@@ -1599,7 +1591,8 @@
               "_class" : "overrideValue",
               "value" : "01146287-4EEE-46FE-ADF5-AAC4C045CCC7"
             }
-          ]
+          ],
+          "resizingConstraint" : 63
         },
         {
           "isFlippedHorizontal" : false,
@@ -1632,20 +1625,20 @@
                 "paragraphStyle" : {
                   "alignment" : 0,
                   "_class" : "paragraphStyle",
-                  "tighteningFactorForTruncation" : 0.050000000000000003,
                   "allowsDefaultTighteningForTruncation" : 0,
-                  "baseWritingDirection" : 0
+                  "baseWritingDirection" : 0,
+                  "tighteningFactorForTruncation" : 0.050000000000000003
                 }
               }
             },
             "endMarkerType" : 0
           },
-          "rotation" : 0,
+          "glyphBounds" : "{{0, 2}, {42, 10}}",
           "frame" : {
             "_class" : "rect",
             "height" : 14,
-            "do_objectID" : "E8115801-46C7-4005-BA41-7AA84E85346E",
             "constrainProportions" : false,
+            "do_objectID" : "E8115801-46C7-4005-BA41-7AA84E85346E",
             "x" : 8,
             "width" : 43,
             "y" : 6
@@ -1664,14 +1657,16 @@
 
             ]
           },
-          "glyphBounds" : "{{0, 2}, {42, 10}}",
+          "rotation" : 0,
           "dontSynchroniseWithSymbol" : false,
           "lineSpacingBehaviour" : 2,
           "textBehaviour" : 0,
           "isFlippedVertical" : false,
-          "nameIsFixed" : false,
+          "clippingMaskMode" : 0,
           "name" : "Positive",
           "isVisible" : true,
+          "hasClippingMask" : false,
+          "nameIsFixed" : false,
           "resizingType" : 0,
           "userInfo" : {
             "com.animaapp.stc-sketch-plugin" : {
@@ -1680,40 +1675,35 @@
                   "automatic" : 1,
                   "model_class" : "ADModelViewConstraints",
                   "scaleFactor" : 1,
-                  "model_version" : 0.10000000000000001,
-                  "top" : {
-                    "model_class" : "ADModelConstraint",
-                    "enabled" : 1,
-                    "multiplier" : 0,
-                    "model_version" : 0.10000000000000001,
-                    "constant" : 6,
-                    "modelID" : "constraint_6c729f12-61a2-4f3a-af7d-89bf026f603b"
-                  },
-                  "modelID" : "viewConstraints_2d636257-731e-4b68-abac-8706a4a3f2a1",
                   "left" : {
-                    "model_class" : "ADModelConstraint",
-                    "enabled" : 1,
                     "multiplier" : 0,
-                    "model_version" : 0.10000000000000001,
+                    "enabled" : 1,
                     "constant" : 8,
-                    "modelID" : "constraint_cd7d27e3-3d1d-4a0d-a5a7-b3abdbc52b82"
+                    "modelID" : "constraint_cd7d27e3-3d1d-4a0d-a5a7-b3abdbc52b82",
+                    "model_class" : "ADModelConstraint",
+                    "model_version" : 0.10000000000000001
+                  },
+                  "model_version" : 0.10000000000000001,
+                  "modelID" : "viewConstraints_2d636257-731e-4b68-abac-8706a4a3f2a1",
+                  "top" : {
+                    "multiplier" : 0,
+                    "enabled" : 1,
+                    "constant" : 6,
+                    "modelID" : "constraint_6c729f12-61a2-4f3a-af7d-89bf026f603b",
+                    "model_class" : "ADModelConstraint",
+                    "model_version" : 0.10000000000000001
                   }
                 },
                 "isAutoWidth" : 1
               }
             }
           },
-          "clippingMaskMode" : 0,
-          "hasClippingMask" : false,
           "isLocked" : false,
           "attributedString" : {
-            "string" : "Positive",
-            "_class" : "attributedString",
             "attributes" : [
               {
                 "length" : 8,
                 "_class" : "stringAttribute",
-                "location" : 0,
                 "attributes" : {
                   "MSAttributedStringFontAttribute" : {
                     "attributes" : {
@@ -1733,13 +1723,16 @@
                   "paragraphStyle" : {
                     "alignment" : 0,
                     "_class" : "paragraphStyle",
-                    "tighteningFactorForTruncation" : 0.050000000000000003,
                     "allowsDefaultTighteningForTruncation" : 0,
-                    "baseWritingDirection" : 0
+                    "baseWritingDirection" : 0,
+                    "tighteningFactorForTruncation" : 0.050000000000000003
                   }
-                }
+                },
+                "location" : 0
               }
-            ]
+            ],
+            "_class" : "attributedString",
+            "string" : "Positive"
           },
           "shouldBreakMaskChain" : false,
           "isFixedToViewport" : false,
@@ -1779,20 +1772,20 @@
                 "paragraphStyle" : {
                   "alignment" : 1,
                   "_class" : "paragraphStyle",
-                  "tighteningFactorForTruncation" : 0.050000000000000003,
                   "allowsDefaultTighteningForTruncation" : 0,
-                  "baseWritingDirection" : 0
+                  "baseWritingDirection" : 0,
+                  "tighteningFactorForTruncation" : 0.050000000000000003
                 }
               }
             },
             "endMarkerType" : 0
           },
-          "rotation" : 0,
+          "glyphBounds" : "{{0, 2}, {13, 10}}",
           "frame" : {
             "_class" : "rect",
             "height" : 14,
-            "do_objectID" : "9CEE6C94-ADC1-4F2A-8BDC-B30D8FAA35E8",
             "constrainProportions" : false,
+            "do_objectID" : "9CEE6C94-ADC1-4F2A-8BDC-B30D8FAA35E8",
             "x" : 128,
             "width" : 14,
             "y" : 6
@@ -1811,14 +1804,16 @@
 
             ]
           },
-          "glyphBounds" : "{{0, 2}, {13, 10}}",
+          "rotation" : 0,
           "dontSynchroniseWithSymbol" : false,
           "lineSpacingBehaviour" : 2,
           "textBehaviour" : 0,
           "isFlippedVertical" : false,
-          "nameIsFixed" : false,
+          "clippingMaskMode" : 0,
           "name" : "23",
           "isVisible" : true,
+          "hasClippingMask" : false,
+          "nameIsFixed" : false,
           "resizingType" : 0,
           "userInfo" : {
             "com.animaapp.stc-sketch-plugin" : {
@@ -1828,39 +1823,34 @@
                   "model_class" : "ADModelViewConstraints",
                   "scaleFactor" : 1,
                   "model_version" : 0.10000000000000001,
-                  "top" : {
-                    "model_class" : "ADModelConstraint",
-                    "enabled" : 1,
+                  "right" : {
                     "multiplier" : 0,
-                    "model_version" : 0.10000000000000001,
-                    "constant" : 6,
-                    "modelID" : "constraint_2e5aef3c-2bf8-4241-8841-6b0173e07d47"
+                    "enabled" : 1,
+                    "constant" : 8,
+                    "modelID" : "constraint_d8da799d-d585-40a5-8d37-3b7b5af538bd",
+                    "model_class" : "ADModelConstraint",
+                    "model_version" : 0.10000000000000001
                   },
                   "modelID" : "viewConstraints_c38fc29f-9fd7-4d2b-a7ce-f37f8161e8a7",
-                  "right" : {
-                    "model_class" : "ADModelConstraint",
-                    "enabled" : 1,
+                  "top" : {
                     "multiplier" : 0,
-                    "model_version" : 0.10000000000000001,
-                    "constant" : 8,
-                    "modelID" : "constraint_d8da799d-d585-40a5-8d37-3b7b5af538bd"
+                    "enabled" : 1,
+                    "constant" : 6,
+                    "modelID" : "constraint_2e5aef3c-2bf8-4241-8841-6b0173e07d47",
+                    "model_class" : "ADModelConstraint",
+                    "model_version" : 0.10000000000000001
                   }
                 },
                 "isAutoWidth" : 1
               }
             }
           },
-          "clippingMaskMode" : 0,
-          "hasClippingMask" : false,
           "isLocked" : false,
           "attributedString" : {
-            "string" : "23",
-            "_class" : "attributedString",
             "attributes" : [
               {
                 "length" : 2,
                 "_class" : "stringAttribute",
-                "location" : 0,
                 "attributes" : {
                   "MSAttributedStringFontAttribute" : {
                     "attributes" : {
@@ -1880,13 +1870,16 @@
                   "paragraphStyle" : {
                     "alignment" : 1,
                     "_class" : "paragraphStyle",
-                    "tighteningFactorForTruncation" : 0.050000000000000003,
                     "allowsDefaultTighteningForTruncation" : 0,
-                    "baseWritingDirection" : 0
+                    "baseWritingDirection" : 0,
+                    "tighteningFactorForTruncation" : 0.050000000000000003
                   }
-                }
+                },
+                "location" : 0
               }
-            ]
+            ],
+            "_class" : "attributedString",
+            "string" : "23"
           },
           "shouldBreakMaskChain" : false,
           "isFixedToViewport" : false,
@@ -1926,20 +1919,20 @@
                 "paragraphStyle" : {
                   "alignment" : 1,
                   "_class" : "paragraphStyle",
-                  "tighteningFactorForTruncation" : 0.050000000000000003,
                   "allowsDefaultTighteningForTruncation" : 0,
-                  "baseWritingDirection" : 0
+                  "baseWritingDirection" : 0,
+                  "tighteningFactorForTruncation" : 0.050000000000000003
                 }
               }
             },
             "endMarkerType" : 0
           },
-          "rotation" : 0,
+          "glyphBounds" : "{{0, 2}, {37, 12}}",
           "frame" : {
             "_class" : "rect",
             "height" : 14,
-            "do_objectID" : "3F86303B-4A7D-4CD6-87EC-7128C2C8D647",
             "constrainProportions" : false,
+            "do_objectID" : "3F86303B-4A7D-4CD6-87EC-7128C2C8D647",
             "x" : 73,
             "width" : 38,
             "y" : 6
@@ -1958,14 +1951,16 @@
 
             ]
           },
-          "glyphBounds" : "{{0, 2}, {37, 12}}",
+          "rotation" : 0,
           "dontSynchroniseWithSymbol" : false,
           "lineSpacingBehaviour" : 2,
           "textBehaviour" : 0,
           "isFlippedVertical" : false,
-          "nameIsFixed" : false,
+          "clippingMaskMode" : 0,
           "name" : "20,567",
           "isVisible" : true,
+          "hasClippingMask" : false,
+          "nameIsFixed" : false,
           "resizingType" : 0,
           "userInfo" : {
             "com.animaapp.stc-sketch-plugin" : {
@@ -1975,39 +1970,34 @@
                   "model_class" : "ADModelViewConstraints",
                   "scaleFactor" : 1,
                   "model_version" : 0.10000000000000001,
-                  "top" : {
-                    "model_class" : "ADModelConstraint",
-                    "enabled" : 1,
+                  "right" : {
                     "multiplier" : 0,
-                    "model_version" : 0.10000000000000001,
-                    "constant" : 6,
-                    "modelID" : "constraint_2ee6140a-729b-4280-aae7-96ed77bce0fb"
+                    "enabled" : 1,
+                    "constant" : 39,
+                    "modelID" : "constraint_3c4a4c54-923e-41ca-b0a6-3022c125ca30",
+                    "model_class" : "ADModelConstraint",
+                    "model_version" : 0.10000000000000001
                   },
                   "modelID" : "viewConstraints_2cb2e3c6-0a3b-42e1-afba-f12a5b76ce19",
-                  "right" : {
-                    "model_class" : "ADModelConstraint",
-                    "enabled" : 1,
+                  "top" : {
                     "multiplier" : 0,
-                    "model_version" : 0.10000000000000001,
-                    "constant" : 39,
-                    "modelID" : "constraint_3c4a4c54-923e-41ca-b0a6-3022c125ca30"
+                    "enabled" : 1,
+                    "constant" : 6,
+                    "modelID" : "constraint_2ee6140a-729b-4280-aae7-96ed77bce0fb",
+                    "model_class" : "ADModelConstraint",
+                    "model_version" : 0.10000000000000001
                   }
                 },
                 "isAutoWidth" : 1
               }
             }
           },
-          "clippingMaskMode" : 0,
-          "hasClippingMask" : false,
           "isLocked" : false,
           "attributedString" : {
-            "string" : "20,567",
-            "_class" : "attributedString",
             "attributes" : [
               {
                 "length" : 6,
                 "_class" : "stringAttribute",
-                "location" : 0,
                 "attributes" : {
                   "MSAttributedStringFontAttribute" : {
                     "attributes" : {
@@ -2027,13 +2017,16 @@
                   "paragraphStyle" : {
                     "alignment" : 1,
                     "_class" : "paragraphStyle",
-                    "tighteningFactorForTruncation" : 0.050000000000000003,
                     "allowsDefaultTighteningForTruncation" : 0,
-                    "baseWritingDirection" : 0
+                    "baseWritingDirection" : 0,
+                    "tighteningFactorForTruncation" : 0.050000000000000003
                   }
-                }
+                },
+                "location" : 0
               }
-            ]
+            ],
+            "_class" : "attributedString",
+            "string" : "20,567"
           },
           "shouldBreakMaskChain" : false,
           "isFixedToViewport" : false,
@@ -2060,9 +2053,9 @@
         "blue" : 1,
         "green" : 1
       },
-      "nameIsFixed" : true,
-      "isFixedToViewport" : false,
       "hasClickThrough" : true,
+      "isFixedToViewport" : false,
+      "nameIsFixed" : true,
       "isVisible" : true,
       "hasClippingMask" : false,
       "style" : {
@@ -2099,15 +2092,15 @@
       "frame" : {
         "_class" : "rect",
         "height" : 26,
-        "do_objectID" : "F15AC05F-A21C-4D91-8DB1-EA38566C54E7",
         "constrainProportions" : false,
+        "do_objectID" : "F15AC05F-A21C-4D91-8DB1-EA38566C54E7",
         "x" : 3087,
         "width" : 150,
         "y" : 1429
       },
-      "layerListExpandedType" : 0,
-      "isFlippedHorizontal" : false,
       "includeBackgroundColorInInstance" : false,
+      "isFlippedHorizontal" : false,
+      "layerListExpandedType" : 0,
       "userInfo" : {
         "com.animaapp.stc-sketch-plugin" : {
           "kModelPropertiesKey" : {
@@ -2118,6 +2111,9 @@
       "resizingConstraint" : 63
     },
     {
+      "symbolID" : "4E74EACE-BF53-47CF-B89A-D23353CF2B8A",
+      "includeInCloudUpload" : true,
+      "rotation" : 0,
       "verticalRulerData" : {
         "do_objectID" : "B61B1478-CE51-4C55-BDD7-ED771C5FF237",
         "_class" : "rulerData",
@@ -2126,15 +2122,38 @@
 
         ]
       },
-      "includeInCloudUpload" : true,
-      "rotation" : 0,
-      "symbolID" : "4E74EACE-BF53-47CF-B89A-D23353CF2B8A",
       "resizesContent" : true,
       "isFlippedVertical" : false,
       "layers" : [
         {
           "isFlippedHorizontal" : false,
           "sharedStyleID" : "2F99D17B-B494-4271-8856-115FC0F96235",
+          "hasConvertedToNewRoundCorners" : true,
+          "rotation" : 0,
+          "frame" : {
+            "_class" : "rect",
+            "height" : 55,
+            "constrainProportions" : false,
+            "do_objectID" : "30B3E663-95EC-4261-B24B-683D5D9D262F",
+            "x" : 0,
+            "width" : 1336,
+            "y" : 0
+          },
+          "do_objectID" : "777A17BB-CDD3-469B-A52D-892D9106A5BB",
+          "layerListExpandedType" : 0,
+          "exportOptions" : {
+            "shouldTrim" : false,
+            "do_objectID" : "66EE2FA2-D9BA-4B8B-9224-3EF67A486917",
+            "includedLayerIds" : [
+
+            ],
+            "_class" : "exportOptions",
+            "layerOptions" : 0,
+            "exportFormats" : [
+
+            ]
+          },
+          "edited" : false,
           "style" : {
             "_class" : "style",
             "borders" : [
@@ -2177,37 +2196,14 @@
             "windingRule" : 1,
             "endMarkerType" : 0
           },
-          "rotation" : 0,
-          "frame" : {
-            "_class" : "rect",
-            "height" : 55,
-            "do_objectID" : "30B3E663-95EC-4261-B24B-683D5D9D262F",
-            "constrainProportions" : false,
-            "x" : 0,
-            "width" : 1336,
-            "y" : 0
-          },
-          "do_objectID" : "777A17BB-CDD3-469B-A52D-892D9106A5BB",
-          "layerListExpandedType" : 0,
-          "exportOptions" : {
-            "shouldTrim" : false,
-            "do_objectID" : "66EE2FA2-D9BA-4B8B-9224-3EF67A486917",
-            "includedLayerIds" : [
-
-            ],
-            "_class" : "exportOptions",
-            "layerOptions" : 0,
-            "exportFormats" : [
-
-            ]
-          },
-          "edited" : false,
-          "hasConvertedToNewRoundCorners" : true,
           "isFlippedVertical" : false,
-          "nameIsFixed" : true,
+          "clippingMaskMode" : 0,
           "name" : "top-bg",
           "isVisible" : true,
+          "hasClippingMask" : false,
+          "nameIsFixed" : true,
           "resizingType" : 0,
+          "isClosed" : true,
           "userInfo" : {
             "com.animaapp.stc-sketch-plugin" : {
               "kModelPropertiesKey" : {
@@ -2215,9 +2211,6 @@
               }
             }
           },
-          "clippingMaskMode" : 0,
-          "hasClippingMask" : false,
-          "isClosed" : true,
           "isLocked" : false,
           "points" : [
             {
@@ -2261,10 +2254,10 @@
               "hasCurveFrom" : false
             }
           ],
-          "shouldBreakMaskChain" : false,
+          "fixedRadius" : 0,
           "pointRadiusBehaviour" : 1,
           "isFixedToViewport" : false,
-          "fixedRadius" : 0,
+          "shouldBreakMaskChain" : false,
           "_class" : "rectangle",
           "booleanOperation" : -1,
           "resizingConstraint" : 18
@@ -2284,8 +2277,8 @@
           "frame" : {
             "_class" : "rect",
             "height" : 55,
-            "do_objectID" : "D7950D7B-DEBF-48C7-8904-D48FE4EB7689",
             "constrainProportions" : false,
+            "do_objectID" : "D7950D7B-DEBF-48C7-8904-D48FE4EB7689",
             "x" : 1106,
             "width" : 55,
             "y" : 0
@@ -2306,10 +2299,13 @@
           },
           "symbolID" : "D9B4B53B-D84B-4181-8EA9-5B3A9C41347D",
           "isFlippedVertical" : false,
-          "nameIsFixed" : false,
+          "clippingMaskMode" : 0,
           "name" : "components\/Button\/Toggle\/middle",
           "isVisible" : true,
+          "hasClippingMask" : false,
+          "nameIsFixed" : false,
           "resizingType" : 0,
+          "horizontalSpacing" : 0,
           "userInfo" : {
             "com.animaapp.stc-sketch-plugin" : {
               "kModelPropertiesKey" : {
@@ -2317,16 +2313,12 @@
               }
             }
           },
-          "clippingMaskMode" : 0,
-          "hasClippingMask" : false,
-          "horizontalSpacing" : 0,
           "isLocked" : false,
           "scale" : 1,
           "shouldBreakMaskChain" : false,
           "isFixedToViewport" : false,
           "_class" : "symbolInstance",
           "booleanOperation" : -1,
-          "resizingConstraint" : 63,
           "overrideValues" : [
             {
               "do_objectID" : "52CB6276-DEEF-43B9-91DF-41F6C7D3F217",
@@ -2346,7 +2338,8 @@
               "_class" : "overrideValue",
               "value" : "2F99D17B-B494-4271-8856-115FC0F96235"
             }
-          ]
+          ],
+          "resizingConstraint" : 63
         },
         {
           "isFlippedHorizontal" : false,
@@ -2363,8 +2356,8 @@
           "frame" : {
             "_class" : "rect",
             "height" : 55,
-            "do_objectID" : "0F4A08EC-C68D-4DF5-B769-C2056C4AB0FB",
             "constrainProportions" : false,
+            "do_objectID" : "0F4A08EC-C68D-4DF5-B769-C2056C4AB0FB",
             "x" : 1161,
             "width" : 55,
             "y" : 0
@@ -2385,10 +2378,13 @@
           },
           "symbolID" : "D9B4B53B-D84B-4181-8EA9-5B3A9C41347D",
           "isFlippedVertical" : false,
-          "nameIsFixed" : false,
+          "clippingMaskMode" : 0,
           "name" : "components\/Button\/Toggle\/middle Copy",
           "isVisible" : true,
+          "hasClippingMask" : false,
+          "nameIsFixed" : false,
           "resizingType" : 0,
+          "horizontalSpacing" : 0,
           "userInfo" : {
             "com.animaapp.stc-sketch-plugin" : {
               "kModelPropertiesKey" : {
@@ -2396,16 +2392,12 @@
               }
             }
           },
-          "clippingMaskMode" : 0,
-          "hasClippingMask" : false,
-          "horizontalSpacing" : 0,
           "isLocked" : false,
           "scale" : 1,
           "shouldBreakMaskChain" : false,
           "isFixedToViewport" : false,
           "_class" : "symbolInstance",
           "booleanOperation" : -1,
-          "resizingConstraint" : 63,
           "overrideValues" : [
             {
               "do_objectID" : "52CB6276-DEEF-43B9-91DF-41F6C7D3F217",
@@ -2431,7 +2423,8 @@
               "_class" : "overrideValue",
               "value" : "3F895B12-53B0-4921-8801-FC9163E1DB86"
             }
-          ]
+          ],
+          "resizingConstraint" : 63
         },
         {
           "isFlippedHorizontal" : false,
@@ -2448,8 +2441,8 @@
           "frame" : {
             "_class" : "rect",
             "height" : 55,
-            "do_objectID" : "6683E31D-7AE9-4030-BEBA-FF624E54B667",
             "constrainProportions" : false,
+            "do_objectID" : "6683E31D-7AE9-4030-BEBA-FF624E54B667",
             "x" : 1216,
             "width" : 55,
             "y" : 0
@@ -2470,10 +2463,13 @@
           },
           "symbolID" : "D9B4B53B-D84B-4181-8EA9-5B3A9C41347D",
           "isFlippedVertical" : false,
-          "nameIsFixed" : false,
+          "clippingMaskMode" : 0,
           "name" : "components\/Button\/Toggle\/middle Copy 2",
           "isVisible" : true,
+          "hasClippingMask" : false,
+          "nameIsFixed" : false,
           "resizingType" : 0,
+          "horizontalSpacing" : 0,
           "userInfo" : {
             "com.animaapp.stc-sketch-plugin" : {
               "kModelPropertiesKey" : {
@@ -2481,16 +2477,12 @@
               }
             }
           },
-          "clippingMaskMode" : 0,
-          "hasClippingMask" : false,
-          "horizontalSpacing" : 0,
           "isLocked" : false,
           "scale" : 1,
           "shouldBreakMaskChain" : false,
           "isFixedToViewport" : false,
           "_class" : "symbolInstance",
           "booleanOperation" : -1,
-          "resizingConstraint" : 63,
           "overrideValues" : [
             {
               "value" : "7E98D670-6CF8-4E27-8DC8-42FC85D40C72",
@@ -2514,8 +2506,15 @@
               "overrideName" : "DDBD1C68-FAB8-4297-82EF-03D3AA4809E7\/76BE0F51-CD47-4094-B4D3-88F4C156EB50_layerStyle",
               "_class" : "overrideValue",
               "value" : "3F895B12-53B0-4921-8801-FC9163E1DB86"
+            },
+            {
+              "do_objectID" : "7DBC6420-BB48-4581-B615-F2044F4D49F8",
+              "overrideName" : "DDBD1C68-FAB8-4297-82EF-03D3AA4809E7\/1B20BA27-4A7A-477D-88B7-FB9909F01B41_layerStyle",
+              "_class" : "overrideValue",
+              "value" : "3F895B12-53B0-4921-8801-FC9163E1DB86"
             }
-          ]
+          ],
+          "resizingConstraint" : 63
         },
         {
           "isFlippedHorizontal" : false,
@@ -2532,8 +2531,8 @@
           "frame" : {
             "_class" : "rect",
             "height" : 55,
-            "do_objectID" : "0D065015-178B-454C-B6AC-BBC6D171588D",
             "constrainProportions" : false,
+            "do_objectID" : "0D065015-178B-454C-B6AC-BBC6D171588D",
             "x" : 1271,
             "width" : 55,
             "y" : 0
@@ -2554,10 +2553,13 @@
           },
           "symbolID" : "D9B4B53B-D84B-4181-8EA9-5B3A9C41347D",
           "isFlippedVertical" : false,
-          "nameIsFixed" : false,
+          "clippingMaskMode" : 0,
           "name" : "components\/Button\/Toggle\/middle Copy 3",
           "isVisible" : true,
+          "hasClippingMask" : false,
+          "nameIsFixed" : false,
           "resizingType" : 0,
+          "horizontalSpacing" : 0,
           "userInfo" : {
             "com.animaapp.stc-sketch-plugin" : {
               "kModelPropertiesKey" : {
@@ -2565,16 +2567,12 @@
               }
             }
           },
-          "clippingMaskMode" : 0,
-          "hasClippingMask" : false,
-          "horizontalSpacing" : 0,
           "isLocked" : false,
           "scale" : 1,
           "shouldBreakMaskChain" : false,
           "isFixedToViewport" : false,
           "_class" : "symbolInstance",
           "booleanOperation" : -1,
-          "resizingConstraint" : 63,
           "overrideValues" : [
             {
               "value" : "D58931AC-928E-4D70-9C0A-51BCCE3F11E0",
@@ -2593,7 +2591,8 @@
               "_class" : "overrideValue",
               "value" : "3F895B12-53B0-4921-8801-FC9163E1DB86"
             }
-          ]
+          ],
+          "resizingConstraint" : 63
         },
         {
           "isFlippedHorizontal" : false,
@@ -2650,7 +2649,7 @@
             "width" : 67.5849609375
           },
           "do_objectID" : "CB51E3BE-043A-4F3A-A2C2-71FBE5E6CC8F",
-          "layerListExpandedType" : 1,
+          "hasClickThrough" : false,
           "exportOptions" : {
             "shouldTrim" : false,
             "includedLayerIds" : [
@@ -2662,21 +2661,12 @@
 
             ]
           },
-          "hasClickThrough" : false,
+          "layerListExpandedType" : 1,
           "windingRule" : 1,
           "isFlippedVertical" : false,
-          "nameIsFixed" : false,
+          "clippingMaskMode" : 0,
           "name" : "Combined Shape",
           "isVisible" : true,
-          "resizingType" : 0,
-          "userInfo" : {
-            "com.animaapp.stc-sketch-plugin" : {
-              "kModelPropertiesKey" : {
-
-              }
-            }
-          },
-          "clippingMaskMode" : 0,
           "hasClippingMask" : false,
           "layers" : [
             {
@@ -2711,20 +2701,20 @@
                     "paragraphStyle" : {
                       "alignment" : 0,
                       "_class" : "paragraphStyle",
-                      "tighteningFactorForTruncation" : 0.050000000000000003,
                       "allowsDefaultTighteningForTruncation" : 0,
-                      "baseWritingDirection" : 0
+                      "baseWritingDirection" : 0,
+                      "tighteningFactorForTruncation" : 0.050000000000000003
                     }
                   }
                 },
                 "endMarkerType" : 0
               },
-              "rotation" : 0,
+              "glyphBounds" : "{{0, 3}, {68, 18}}",
               "frame" : {
                 "_class" : "rect",
                 "height" : 22,
-                "do_objectID" : "979A0BDE-198E-4CBB-A17F-B9EB93E3A8F4",
                 "constrainProportions" : false,
+                "do_objectID" : "979A0BDE-198E-4CBB-A17F-B9EB93E3A8F4",
                 "x" : -0.2158203125,
                 "width" : 68,
                 "y" : -3.76416015625
@@ -2743,14 +2733,16 @@
 
                 ]
               },
-              "glyphBounds" : "{{0, 3}, {68, 18}}",
+              "rotation" : 0,
               "dontSynchroniseWithSymbol" : false,
               "lineSpacingBehaviour" : 2,
               "textBehaviour" : 0,
               "isFlippedVertical" : false,
-              "nameIsFixed" : false,
+              "clippingMaskMode" : 0,
               "name" : "數據中心",
               "isVisible" : true,
+              "hasClippingMask" : false,
+              "nameIsFixed" : false,
               "resizingType" : 3,
               "userInfo" : {
                 "com.animaapp.stc-sketch-plugin" : {
@@ -2759,17 +2751,12 @@
                   }
                 }
               },
-              "clippingMaskMode" : 0,
-              "hasClippingMask" : false,
               "isLocked" : false,
               "attributedString" : {
-                "string" : "數據中心",
-                "_class" : "attributedString",
                 "attributes" : [
                   {
                     "length" : 4,
                     "_class" : "stringAttribute",
-                    "location" : 0,
                     "attributes" : {
                       "MSAttributedStringFontAttribute" : {
                         "attributes" : {
@@ -2789,13 +2776,16 @@
                       "paragraphStyle" : {
                         "alignment" : 0,
                         "_class" : "paragraphStyle",
-                        "tighteningFactorForTruncation" : 0.050000000000000003,
                         "allowsDefaultTighteningForTruncation" : 0,
-                        "baseWritingDirection" : 0
+                        "baseWritingDirection" : 0,
+                        "tighteningFactorForTruncation" : 0.050000000000000003
                       }
-                    }
+                    },
+                    "location" : 0
                   }
-                ]
+                ],
+                "_class" : "attributedString",
+                "string" : "數據中心"
               },
               "shouldBreakMaskChain" : false,
               "isFixedToViewport" : false,
@@ -2806,6 +2796,30 @@
             },
             {
               "isFlippedHorizontal" : false,
+              "hasConvertedToNewRoundCorners" : true,
+              "rotation" : 0,
+              "frame" : {
+                "x" : -22.2158203125,
+                "y" : -19.76416015625,
+                "_class" : "rect",
+                "constrainProportions" : false,
+                "height" : 55,
+                "width" : 143
+              },
+              "do_objectID" : "410BC3F9-81F4-4B27-BC94-D8154DEBE83A",
+              "layerListExpandedType" : 0,
+              "exportOptions" : {
+                "shouldTrim" : false,
+                "includedLayerIds" : [
+
+                ],
+                "layerOptions" : 0,
+                "_class" : "exportOptions",
+                "exportFormats" : [
+
+                ]
+              },
+              "edited" : false,
               "style" : {
                 "_class" : "style",
                 "borders" : [
@@ -2847,35 +2861,14 @@
                 "windingRule" : 0,
                 "endMarkerType" : 0
               },
-              "rotation" : 0,
-              "frame" : {
-                "x" : -22.2158203125,
-                "y" : -19.76416015625,
-                "_class" : "rect",
-                "constrainProportions" : false,
-                "height" : 55,
-                "width" : 143
-              },
-              "do_objectID" : "410BC3F9-81F4-4B27-BC94-D8154DEBE83A",
-              "layerListExpandedType" : 0,
-              "exportOptions" : {
-                "shouldTrim" : false,
-                "includedLayerIds" : [
-
-                ],
-                "layerOptions" : 0,
-                "_class" : "exportOptions",
-                "exportFormats" : [
-
-                ]
-              },
-              "edited" : false,
-              "hasConvertedToNewRoundCorners" : true,
               "isFlippedVertical" : false,
-              "nameIsFixed" : false,
+              "clippingMaskMode" : 0,
               "name" : "Rectangle",
               "isVisible" : true,
+              "hasClippingMask" : false,
+              "nameIsFixed" : false,
               "resizingType" : 0,
+              "isClosed" : true,
               "userInfo" : {
                 "com.animaapp.stc-sketch-plugin" : {
                   "kModelPropertiesKey" : {
@@ -2883,9 +2876,6 @@
                   }
                 }
               },
-              "clippingMaskMode" : 0,
-              "hasClippingMask" : false,
-              "isClosed" : true,
               "isLocked" : false,
               "points" : [
                 {
@@ -2929,15 +2919,24 @@
                   "hasCurveFrom" : false
                 }
               ],
-              "shouldBreakMaskChain" : false,
+              "fixedRadius" : 0,
               "pointRadiusBehaviour" : 1,
               "isFixedToViewport" : false,
-              "fixedRadius" : 0,
+              "shouldBreakMaskChain" : false,
               "_class" : "rectangle",
               "booleanOperation" : 2,
               "resizingConstraint" : 63
             }
           ],
+          "nameIsFixed" : false,
+          "resizingType" : 0,
+          "userInfo" : {
+            "com.animaapp.stc-sketch-plugin" : {
+              "kModelPropertiesKey" : {
+
+              }
+            }
+          },
           "isLocked" : false,
           "shouldBreakMaskChain" : false,
           "isFixedToViewport" : false,
@@ -2960,8 +2959,8 @@
           "frame" : {
             "_class" : "rect",
             "height" : 55,
-            "do_objectID" : "619EEE4A-F997-4C5B-9003-7EE20FA7EBFA",
             "constrainProportions" : false,
+            "do_objectID" : "619EEE4A-F997-4C5B-9003-7EE20FA7EBFA",
             "x" : 0,
             "width" : 55,
             "y" : 0
@@ -2982,10 +2981,13 @@
           },
           "symbolID" : "D9B4B53B-D84B-4181-8EA9-5B3A9C41347D",
           "isFlippedVertical" : false,
-          "nameIsFixed" : false,
+          "clippingMaskMode" : 0,
           "name" : "components\/Button\/Toggle\/middle",
           "isVisible" : true,
+          "hasClippingMask" : false,
+          "nameIsFixed" : false,
           "resizingType" : 0,
+          "horizontalSpacing" : 0,
           "userInfo" : {
             "com.animaapp.stc-sketch-plugin" : {
               "kModelPropertiesKey" : {
@@ -2993,16 +2995,12 @@
               }
             }
           },
-          "clippingMaskMode" : 0,
-          "hasClippingMask" : false,
-          "horizontalSpacing" : 0,
           "isLocked" : false,
           "scale" : 1,
           "shouldBreakMaskChain" : false,
           "isFixedToViewport" : false,
           "_class" : "symbolInstance",
           "booleanOperation" : -1,
-          "resizingConstraint" : 63,
           "overrideValues" : [
             {
               "do_objectID" : "4ACCA3E6-66A1-449D-B699-C50A28B527FB",
@@ -3022,11 +3020,12 @@
               "_class" : "overrideValue",
               "value" : "66189CA1-8EAD-4817-974E-6450407C66BA"
             }
-          ]
+          ],
+          "resizingConstraint" : 63
         }
       ],
       "shouldBreakMaskChain" : true,
-      "changeIdentifier" : 10353,
+      "changeIdentifier" : 10354,
       "booleanOperation" : 0,
       "includeBackgroundColorInExport" : true,
       "_class" : "symbolMaster",
@@ -3042,9 +3041,9 @@
         "blue" : 1,
         "green" : 1
       },
-      "nameIsFixed" : true,
-      "isFixedToViewport" : false,
       "hasClickThrough" : true,
+      "isFixedToViewport" : false,
+      "nameIsFixed" : true,
       "originalObjectID" : "C6F0A011-9900-4A26-B1D8-903F22B55D26",
       "isVisible" : true,
       "hasClippingMask" : false,
@@ -3082,15 +3081,15 @@
       "frame" : {
         "_class" : "rect",
         "height" : 55,
-        "do_objectID" : "5BB9BFF9-D35D-4536-88E2-079B100C1D9F",
         "constrainProportions" : false,
+        "do_objectID" : "5BB9BFF9-D35D-4536-88E2-079B100C1D9F",
         "x" : 3917,
         "width" : 1336,
         "y" : 1429
       },
-      "layerListExpandedType" : 2,
-      "isFlippedHorizontal" : false,
       "includeBackgroundColorInInstance" : false,
+      "isFlippedHorizontal" : false,
+      "layerListExpandedType" : 2,
       "userInfo" : {
         "com.animaapp.stc-sketch-plugin" : {
           "kModelPropertiesKey" : {
@@ -3101,6 +3100,9 @@
       "resizingConstraint" : 63
     },
     {
+      "symbolID" : "EE8E46B7-5513-4BF2-859F-B65F578438A9",
+      "includeInCloudUpload" : true,
+      "rotation" : 0,
       "verticalRulerData" : {
         "do_objectID" : "581B192F-10C2-480A-8D53-D9D1958657C6",
         "_class" : "rulerData",
@@ -3109,15 +3111,38 @@
 
         ]
       },
-      "includeInCloudUpload" : true,
-      "rotation" : 0,
-      "symbolID" : "EE8E46B7-5513-4BF2-859F-B65F578438A9",
       "resizesContent" : true,
       "isFlippedVertical" : false,
       "layers" : [
         {
           "isFlippedHorizontal" : false,
           "sharedStyleID" : "3F895B12-53B0-4921-8801-FC9163E1DB86",
+          "hasConvertedToNewRoundCorners" : true,
+          "rotation" : 0,
+          "frame" : {
+            "_class" : "rect",
+            "height" : 55,
+            "constrainProportions" : false,
+            "do_objectID" : "77E1EC99-C37B-4955-87F1-C7D94C6110EF",
+            "x" : 0,
+            "width" : 1336,
+            "y" : 0
+          },
+          "do_objectID" : "F1DBE7F0-AF2C-43D3-BFBE-52D6A7CECADF",
+          "layerListExpandedType" : 0,
+          "exportOptions" : {
+            "shouldTrim" : false,
+            "do_objectID" : "6B717743-BBEE-4D2C-965A-20AA24DC5BBE",
+            "includedLayerIds" : [
+
+            ],
+            "_class" : "exportOptions",
+            "layerOptions" : 0,
+            "exportFormats" : [
+
+            ]
+          },
+          "edited" : false,
           "style" : {
             "_class" : "style",
             "borders" : [
@@ -3160,37 +3185,14 @@
             "windingRule" : 1,
             "endMarkerType" : 0
           },
-          "rotation" : 0,
-          "frame" : {
-            "_class" : "rect",
-            "height" : 55,
-            "do_objectID" : "77E1EC99-C37B-4955-87F1-C7D94C6110EF",
-            "constrainProportions" : false,
-            "x" : 0,
-            "width" : 1336,
-            "y" : 0
-          },
-          "do_objectID" : "F1DBE7F0-AF2C-43D3-BFBE-52D6A7CECADF",
-          "layerListExpandedType" : 0,
-          "exportOptions" : {
-            "shouldTrim" : false,
-            "do_objectID" : "6B717743-BBEE-4D2C-965A-20AA24DC5BBE",
-            "includedLayerIds" : [
-
-            ],
-            "_class" : "exportOptions",
-            "layerOptions" : 0,
-            "exportFormats" : [
-
-            ]
-          },
-          "edited" : false,
-          "hasConvertedToNewRoundCorners" : true,
           "isFlippedVertical" : false,
-          "nameIsFixed" : true,
+          "clippingMaskMode" : 0,
           "name" : "top-bg",
           "isVisible" : true,
+          "hasClippingMask" : false,
+          "nameIsFixed" : true,
           "resizingType" : 0,
+          "isClosed" : true,
           "userInfo" : {
             "com.animaapp.stc-sketch-plugin" : {
               "kModelPropertiesKey" : {
@@ -3198,9 +3200,6 @@
               }
             }
           },
-          "clippingMaskMode" : 0,
-          "hasClippingMask" : false,
-          "isClosed" : true,
           "isLocked" : false,
           "points" : [
             {
@@ -3244,10 +3243,10 @@
               "hasCurveFrom" : false
             }
           ],
-          "shouldBreakMaskChain" : false,
+          "fixedRadius" : 0,
           "pointRadiusBehaviour" : 1,
           "isFixedToViewport" : false,
-          "fixedRadius" : 0,
+          "shouldBreakMaskChain" : false,
           "_class" : "rectangle",
           "booleanOperation" : -1,
           "resizingConstraint" : 18
@@ -3284,20 +3283,20 @@
                 "paragraphStyle" : {
                   "alignment" : 0,
                   "_class" : "paragraphStyle",
-                  "tighteningFactorForTruncation" : 0.050000000000000003,
                   "allowsDefaultTighteningForTruncation" : 0,
-                  "baseWritingDirection" : 0
+                  "baseWritingDirection" : 0,
+                  "tighteningFactorForTruncation" : 0.050000000000000003
                 }
               }
             },
             "endMarkerType" : 0
           },
-          "rotation" : 0,
+          "glyphBounds" : "{{0, 1}, {106, 16}}",
           "frame" : {
             "_class" : "rect",
             "height" : 20,
-            "do_objectID" : "EAAFE51B-3174-4C2A-89D0-9948F8E8AC55",
             "constrainProportions" : false,
+            "do_objectID" : "EAAFE51B-3174-4C2A-89D0-9948F8E8AC55",
             "x" : 614,
             "width" : 107,
             "y" : 18
@@ -3316,14 +3315,16 @@
 
             ]
           },
-          "glyphBounds" : "{{0, 1}, {106, 16}}",
+          "rotation" : 0,
           "dontSynchroniseWithSymbol" : false,
           "lineSpacingBehaviour" : 2,
           "textBehaviour" : 0,
           "isFlippedVertical" : false,
-          "nameIsFixed" : true,
+          "clippingMaskMode" : 0,
           "name" : "ProductName",
           "isVisible" : true,
+          "hasClippingMask" : false,
+          "nameIsFixed" : true,
           "resizingType" : 0,
           "userInfo" : {
             "com.animaapp.stc-sketch-plugin" : {
@@ -3331,41 +3332,36 @@
                 "constraints" : {
                   "automatic" : 1,
                   "width" : {
-                    "model_class" : "ADModelConstraint",
-                    "enabled" : 1,
                     "multiplier" : 0,
-                    "model_version" : 0.10000000000000001,
+                    "enabled" : 1,
                     "constant" : 107,
-                    "modelID" : "constraint_5bf2c193-2eff-4341-af4b-d6fe769596a4"
+                    "modelID" : "constraint_5bf2c193-2eff-4341-af4b-d6fe769596a4",
+                    "model_class" : "ADModelConstraint",
+                    "model_version" : 0.10000000000000001
                   },
                   "model_class" : "ADModelViewConstraints",
                   "scaleFactor" : 1,
                   "model_version" : 0.10000000000000001,
                   "modelID" : "viewConstraints_f49c4f9c-90c6-476a-b1b7-42f5c8f2e3fa",
                   "centerHorizontally" : {
-                    "model_class" : "ADModelConstraint",
-                    "enabled" : 1,
                     "multiplier" : 0,
-                    "model_version" : 0.10000000000000001,
+                    "enabled" : 1,
                     "constant" : 0,
-                    "modelID" : "constraint_4d4e325d-83f7-4275-87d8-1f42217137f8"
+                    "modelID" : "constraint_4d4e325d-83f7-4275-87d8-1f42217137f8",
+                    "model_class" : "ADModelConstraint",
+                    "model_version" : 0.10000000000000001
                   }
                 },
                 "isAutoWidth" : 1
               }
             }
           },
-          "clippingMaskMode" : 0,
-          "hasClippingMask" : false,
           "isLocked" : false,
           "attributedString" : {
-            "string" : "WisersOne",
-            "_class" : "attributedString",
             "attributes" : [
               {
                 "length" : 8,
                 "_class" : "stringAttribute",
-                "location" : 0,
                 "attributes" : {
                   "MSAttributedStringFontAttribute" : {
                     "attributes" : {
@@ -3385,16 +3381,16 @@
                   "paragraphStyle" : {
                     "alignment" : 0,
                     "_class" : "paragraphStyle",
-                    "tighteningFactorForTruncation" : 0.050000000000000003,
                     "allowsDefaultTighteningForTruncation" : 0,
-                    "baseWritingDirection" : 0
+                    "baseWritingDirection" : 0,
+                    "tighteningFactorForTruncation" : 0.050000000000000003
                   }
-                }
+                },
+                "location" : 0
               },
               {
                 "length" : 1,
                 "_class" : "stringAttribute",
-                "location" : 8,
                 "attributes" : {
                   "MSAttributedStringFontAttribute" : {
                     "attributes" : {
@@ -3414,13 +3410,16 @@
                   "paragraphStyle" : {
                     "alignment" : 0,
                     "_class" : "paragraphStyle",
-                    "tighteningFactorForTruncation" : 0.050000000000000003,
                     "allowsDefaultTighteningForTruncation" : 0,
-                    "baseWritingDirection" : 0
+                    "baseWritingDirection" : 0,
+                    "tighteningFactorForTruncation" : 0.050000000000000003
                   }
-                }
+                },
+                "location" : 8
               }
-            ]
+            ],
+            "_class" : "attributedString",
+            "string" : "WisersOne"
           },
           "shouldBreakMaskChain" : false,
           "isFixedToViewport" : false,
@@ -3463,10 +3462,13 @@
           },
           "symbolID" : "D9B4B53B-D84B-4181-8EA9-5B3A9C41347D",
           "isFlippedVertical" : false,
-          "nameIsFixed" : false,
+          "clippingMaskMode" : 0,
           "name" : "components\/Button\/Toggle\/middle",
           "isVisible" : true,
+          "hasClippingMask" : false,
+          "nameIsFixed" : false,
           "resizingType" : 0,
+          "horizontalSpacing" : 0,
           "userInfo" : {
             "com.animaapp.stc-sketch-plugin" : {
               "kModelPropertiesKey" : {
@@ -3474,16 +3476,12 @@
               }
             }
           },
-          "clippingMaskMode" : 0,
-          "hasClippingMask" : false,
-          "horizontalSpacing" : 0,
           "isLocked" : false,
           "scale" : 1,
           "shouldBreakMaskChain" : false,
           "isFixedToViewport" : false,
           "_class" : "symbolInstance",
           "booleanOperation" : -1,
-          "resizingConstraint" : 63,
           "overrideValues" : [
             {
               "do_objectID" : "52CB6276-DEEF-43B9-91DF-41F6C7D3F217",
@@ -3497,7 +3495,8 @@
               "_class" : "overrideValue",
               "value" : "E5EDA150-0243-4DD7-9447-3E237FDAD3FF"
             }
-          ]
+          ],
+          "resizingConstraint" : 63
         },
         {
           "isFlippedHorizontal" : false,
@@ -3514,8 +3513,8 @@
           "frame" : {
             "_class" : "rect",
             "height" : 55,
-            "do_objectID" : "51CBE46D-2F74-47B6-B597-550AC0FF1EA0",
             "constrainProportions" : false,
+            "do_objectID" : "51CBE46D-2F74-47B6-B597-550AC0FF1EA0",
             "x" : 1161,
             "width" : 55,
             "y" : 0
@@ -3536,10 +3535,13 @@
           },
           "symbolID" : "D9B4B53B-D84B-4181-8EA9-5B3A9C41347D",
           "isFlippedVertical" : false,
-          "nameIsFixed" : false,
+          "clippingMaskMode" : 0,
           "name" : "components\/Button\/Toggle\/middle Copy",
           "isVisible" : true,
+          "hasClippingMask" : false,
+          "nameIsFixed" : false,
           "resizingType" : 0,
+          "horizontalSpacing" : 0,
           "userInfo" : {
             "com.animaapp.stc-sketch-plugin" : {
               "kModelPropertiesKey" : {
@@ -3547,16 +3549,12 @@
               }
             }
           },
-          "clippingMaskMode" : 0,
-          "hasClippingMask" : false,
-          "horizontalSpacing" : 0,
           "isLocked" : false,
           "scale" : 1,
           "shouldBreakMaskChain" : false,
           "isFixedToViewport" : false,
           "_class" : "symbolInstance",
           "booleanOperation" : -1,
-          "resizingConstraint" : 63,
           "overrideValues" : [
             {
               "do_objectID" : "52CB6276-DEEF-43B9-91DF-41F6C7D3F217",
@@ -3570,7 +3568,8 @@
               "_class" : "overrideValue",
               "value" : "E5EDA150-0243-4DD7-9447-3E237FDAD3FF"
             }
-          ]
+          ],
+          "resizingConstraint" : 63
         },
         {
           "isFlippedHorizontal" : false,
@@ -3606,10 +3605,13 @@
           },
           "symbolID" : "D9B4B53B-D84B-4181-8EA9-5B3A9C41347D",
           "isFlippedVertical" : false,
-          "nameIsFixed" : false,
+          "clippingMaskMode" : 0,
           "name" : "components\/Button\/Toggle\/middle Copy 2",
           "isVisible" : true,
+          "hasClippingMask" : false,
+          "nameIsFixed" : false,
           "resizingType" : 0,
+          "horizontalSpacing" : 0,
           "userInfo" : {
             "com.animaapp.stc-sketch-plugin" : {
               "kModelPropertiesKey" : {
@@ -3617,16 +3619,12 @@
               }
             }
           },
-          "clippingMaskMode" : 0,
-          "hasClippingMask" : false,
-          "horizontalSpacing" : 0,
           "isLocked" : false,
           "scale" : 1,
           "shouldBreakMaskChain" : false,
           "isFixedToViewport" : false,
           "_class" : "symbolInstance",
           "booleanOperation" : -1,
-          "resizingConstraint" : 63,
           "overrideValues" : [
             {
               "value" : "53C41322-9F4B-4D48-8B8A-C58F48AB85B6",
@@ -3639,7 +3637,8 @@
               "_class" : "overrideValue",
               "value" : "E5EDA150-0243-4DD7-9447-3E237FDAD3FF"
             }
-          ]
+          ],
+          "resizingConstraint" : 63
         },
         {
           "isFlippedHorizontal" : false,
@@ -3675,10 +3674,13 @@
           },
           "symbolID" : "D9B4B53B-D84B-4181-8EA9-5B3A9C41347D",
           "isFlippedVertical" : false,
-          "nameIsFixed" : false,
+          "clippingMaskMode" : 0,
           "name" : "components\/Button\/Toggle\/middle Copy 3",
           "isVisible" : true,
+          "hasClippingMask" : false,
+          "nameIsFixed" : false,
           "resizingType" : 0,
+          "horizontalSpacing" : 0,
           "userInfo" : {
             "com.animaapp.stc-sketch-plugin" : {
               "kModelPropertiesKey" : {
@@ -3686,16 +3688,12 @@
               }
             }
           },
-          "clippingMaskMode" : 0,
-          "hasClippingMask" : false,
-          "horizontalSpacing" : 0,
           "isLocked" : false,
           "scale" : 1,
           "shouldBreakMaskChain" : false,
           "isFixedToViewport" : false,
           "_class" : "symbolInstance",
           "booleanOperation" : -1,
-          "resizingConstraint" : 63,
           "overrideValues" : [
             {
               "value" : "2F8E0CA5-3038-4C02-9986-A4CF920176F8",
@@ -3708,7 +3706,8 @@
               "_class" : "overrideValue",
               "value" : "E5EDA150-0243-4DD7-9447-3E237FDAD3FF"
             }
-          ]
+          ],
+          "resizingConstraint" : 63
         },
         {
           "isFlippedHorizontal" : false,
@@ -3744,10 +3743,13 @@
           },
           "symbolID" : "D9B4B53B-D84B-4181-8EA9-5B3A9C41347D",
           "isFlippedVertical" : false,
-          "nameIsFixed" : false,
+          "clippingMaskMode" : 0,
           "name" : "components\/Button\/Toggle\/middle",
           "isVisible" : true,
+          "hasClippingMask" : false,
+          "nameIsFixed" : false,
           "resizingType" : 0,
+          "horizontalSpacing" : 0,
           "userInfo" : {
             "com.animaapp.stc-sketch-plugin" : {
               "kModelPropertiesKey" : {
@@ -3755,16 +3757,12 @@
               }
             }
           },
-          "clippingMaskMode" : 0,
-          "hasClippingMask" : false,
-          "horizontalSpacing" : 0,
           "isLocked" : false,
           "scale" : 1,
           "shouldBreakMaskChain" : false,
           "isFixedToViewport" : false,
           "_class" : "symbolInstance",
           "booleanOperation" : -1,
-          "resizingConstraint" : 63,
           "overrideValues" : [
             {
               "do_objectID" : "4ACCA3E6-66A1-449D-B699-C50A28B527FB",
@@ -3778,7 +3776,8 @@
               "_class" : "overrideValue",
               "value" : "2F99D17B-B494-4271-8856-115FC0F96235"
             }
-          ]
+          ],
+          "resizingConstraint" : 63
         }
       ],
       "shouldBreakMaskChain" : true,
@@ -3798,9 +3797,9 @@
         "blue" : 1,
         "green" : 1
       },
-      "nameIsFixed" : true,
-      "isFixedToViewport" : false,
       "hasClickThrough" : true,
+      "isFixedToViewport" : false,
+      "nameIsFixed" : true,
       "originalObjectID" : "6104262E-0939-4CD3-94DF-F5AC8F565618",
       "isVisible" : true,
       "hasClippingMask" : false,
@@ -3838,15 +3837,15 @@
       "frame" : {
         "_class" : "rect",
         "height" : 55,
-        "do_objectID" : "FEC65287-03EB-4BF6-944B-3AAB30492F85",
         "constrainProportions" : false,
+        "do_objectID" : "FEC65287-03EB-4BF6-944B-3AAB30492F85",
         "x" : 3917,
         "width" : 1336,
         "y" : 1584
       },
-      "layerListExpandedType" : 2,
-      "isFlippedHorizontal" : false,
       "includeBackgroundColorInInstance" : false,
+      "isFlippedHorizontal" : false,
+      "layerListExpandedType" : 2,
       "userInfo" : {
         "com.animaapp.stc-sketch-plugin" : {
           "kModelPropertiesKey" : {
@@ -3857,6 +3856,9 @@
       "resizingConstraint" : 63
     },
     {
+      "symbolID" : "77D5F558-0FA3-4154-BBD3-F353FE335AA8",
+      "includeInCloudUpload" : true,
+      "rotation" : 0,
       "verticalRulerData" : {
         "do_objectID" : "F6F396E5-0189-495E-9C61-6012328D2519",
         "_class" : "rulerData",
@@ -3865,9 +3867,6 @@
 
         ]
       },
-      "includeInCloudUpload" : true,
-      "rotation" : 0,
-      "symbolID" : "77D5F558-0FA3-4154-BBD3-F353FE335AA8",
       "resizesContent" : true,
       "isFlippedVertical" : false,
       "layers" : [
@@ -3886,8 +3885,8 @@
           "frame" : {
             "_class" : "rect",
             "height" : 150,
-            "do_objectID" : "99E6DCA0-8E9E-45BA-94C5-16905B23101F",
             "constrainProportions" : false,
+            "do_objectID" : "99E6DCA0-8E9E-45BA-94C5-16905B23101F",
             "x" : 0,
             "width" : 300,
             "y" : 0
@@ -3908,10 +3907,13 @@
           },
           "symbolID" : "DE55FFB9-C5FE-48DF-A466-BAA07BA43903",
           "isFlippedVertical" : false,
-          "nameIsFixed" : false,
+          "clippingMaskMode" : 0,
           "name" : "card\/default",
           "isVisible" : true,
+          "hasClippingMask" : false,
+          "nameIsFixed" : false,
           "resizingType" : 0,
+          "horizontalSpacing" : 0,
           "userInfo" : {
             "com.animaapp.stc-sketch-plugin" : {
               "kModelPropertiesKey" : {
@@ -3919,19 +3921,16 @@
               }
             }
           },
-          "clippingMaskMode" : 0,
-          "hasClippingMask" : false,
-          "horizontalSpacing" : 0,
           "isLocked" : false,
           "scale" : 1,
           "shouldBreakMaskChain" : false,
           "isFixedToViewport" : false,
           "_class" : "symbolInstance",
           "booleanOperation" : 0,
-          "resizingConstraint" : 63,
           "overrideValues" : [
 
-          ]
+          ],
+          "resizingConstraint" : 63
         },
         {
           "isFlippedHorizontal" : false,
@@ -3948,8 +3947,8 @@
           "frame" : {
             "_class" : "rect",
             "height" : 7,
-            "do_objectID" : "E363982E-F4DC-4C87-B6A5-C5EF9C61C622",
             "constrainProportions" : false,
+            "do_objectID" : "E363982E-F4DC-4C87-B6A5-C5EF9C61C622",
             "x" : 296,
             "width" : 7,
             "y" : -3
@@ -3970,65 +3969,64 @@
           },
           "symbolID" : "A123C8C9-A4EC-408B-8831-748DF463457F",
           "isFlippedVertical" : false,
-          "nameIsFixed" : false,
+          "clippingMaskMode" : 0,
           "name" : "icon\/badges\/bot",
           "isVisible" : true,
+          "hasClippingMask" : false,
+          "nameIsFixed" : false,
           "resizingType" : 0,
+          "horizontalSpacing" : 0,
           "userInfo" : {
             "com.animaapp.stc-sketch-plugin" : {
               "kModelPropertiesKey" : {
                 "constraints" : {
                   "height" : {
-                    "model_class" : "ADModelConstraint",
-                    "enabled" : 1,
                     "multiplier" : 0,
-                    "model_version" : 0.10000000000000001,
+                    "enabled" : 1,
                     "constant" : 7,
-                    "modelID" : "constraint_ff719a6c-e7c2-4d04-8407-2f21940acf46"
+                    "modelID" : "constraint_ff719a6c-e7c2-4d04-8407-2f21940acf46",
+                    "model_class" : "ADModelConstraint",
+                    "model_version" : 0.10000000000000001
                   },
                   "automatic" : 1,
                   "width" : {
-                    "model_class" : "ADModelConstraint",
-                    "enabled" : 1,
                     "multiplier" : 0.003333333,
-                    "model_version" : 0.10000000000000001,
+                    "enabled" : 1,
                     "constant" : 6,
-                    "modelID" : "constraint_5003bf4c-fac7-4447-8bd6-327fe56599b3"
+                    "modelID" : "constraint_5003bf4c-fac7-4447-8bd6-327fe56599b3",
+                    "model_class" : "ADModelConstraint",
+                    "model_version" : 0.10000000000000001
                   },
                   "model_class" : "ADModelViewConstraints",
                   "scaleFactor" : 1,
                   "model_version" : 0.10000000000000001,
                   "right" : {
-                    "model_class" : "ADModelConstraint",
-                    "enabled" : 1,
                     "multiplier" : 0,
-                    "model_version" : 0.10000000000000001,
+                    "enabled" : 1,
                     "constant" : -3,
-                    "modelID" : "constraint_a8041f6e-9136-4dac-bcba-2d94752299ff"
+                    "modelID" : "constraint_a8041f6e-9136-4dac-bcba-2d94752299ff",
+                    "model_class" : "ADModelConstraint",
+                    "model_version" : 0.10000000000000001
                   },
                   "modelID" : "viewConstraints_3254525a-c8f2-4210-83b2-9cdf2dbb1899",
                   "top" : {
-                    "model_class" : "ADModelConstraint",
-                    "enabled" : 1,
                     "multiplier" : 0,
-                    "model_version" : 0.10000000000000001,
+                    "enabled" : 1,
                     "constant" : -3,
-                    "modelID" : "constraint_7c44c2e8-3a2f-4579-ba52-b33cd5c2cbad"
+                    "modelID" : "constraint_7c44c2e8-3a2f-4579-ba52-b33cd5c2cbad",
+                    "model_class" : "ADModelConstraint",
+                    "model_version" : 0.10000000000000001
                   }
                 }
               }
             }
           },
-          "clippingMaskMode" : 0,
-          "hasClippingMask" : false,
-          "horizontalSpacing" : 0,
           "isLocked" : false,
           "scale" : 1,
           "shouldBreakMaskChain" : false,
           "isFixedToViewport" : false,
           "_class" : "symbolInstance",
           "booleanOperation" : 0,
-          "resizingConstraint" : 63,
           "overrideValues" : [
             {
               "do_objectID" : "B7D28233-7629-420E-A932-0DC0039566E3",
@@ -4036,10 +4034,35 @@
               "_class" : "overrideValue",
               "value" : " "
             }
-          ]
+          ],
+          "resizingConstraint" : 63
         },
         {
           "isFlippedHorizontal" : false,
+          "hasConvertedToNewRoundCorners" : true,
+          "rotation" : 0,
+          "frame" : {
+            "x" : 210,
+            "y" : 61,
+            "_class" : "rect",
+            "constrainProportions" : false,
+            "height" : 80,
+            "width" : 80
+          },
+          "do_objectID" : "04504E66-F4B3-4B29-86E2-EDD775E804D6",
+          "layerListExpandedType" : 0,
+          "exportOptions" : {
+            "shouldTrim" : false,
+            "includedLayerIds" : [
+
+            ],
+            "layerOptions" : 0,
+            "_class" : "exportOptions",
+            "exportFormats" : [
+
+            ]
+          },
+          "edited" : false,
           "style" : {
             "_class" : "style",
             "borders" : [
@@ -4086,35 +4109,14 @@
             "windingRule" : 0,
             "endMarkerType" : 0
           },
-          "rotation" : 0,
-          "frame" : {
-            "x" : 210,
-            "y" : 61,
-            "_class" : "rect",
-            "constrainProportions" : false,
-            "height" : 80,
-            "width" : 80
-          },
-          "do_objectID" : "04504E66-F4B3-4B29-86E2-EDD775E804D6",
-          "layerListExpandedType" : 0,
-          "exportOptions" : {
-            "shouldTrim" : false,
-            "includedLayerIds" : [
-
-            ],
-            "layerOptions" : 0,
-            "_class" : "exportOptions",
-            "exportFormats" : [
-
-            ]
-          },
-          "edited" : false,
-          "hasConvertedToNewRoundCorners" : true,
           "isFlippedVertical" : false,
-          "nameIsFixed" : false,
+          "clippingMaskMode" : 0,
           "name" : "Rectangle",
           "isVisible" : true,
+          "hasClippingMask" : false,
+          "nameIsFixed" : false,
           "resizingType" : 0,
+          "isClosed" : true,
           "userInfo" : {
             "com.animaapp.stc-sketch-plugin" : {
               "kModelPropertiesKey" : {
@@ -4123,9 +4125,6 @@
             },
             "datasupplier.key" : "~\/Desktop\/Brand-logo"
           },
-          "clippingMaskMode" : 0,
-          "hasClippingMask" : false,
-          "isClosed" : true,
           "isLocked" : false,
           "points" : [
             {
@@ -4169,10 +4168,10 @@
               "hasCurveFrom" : false
             }
           ],
-          "shouldBreakMaskChain" : false,
+          "fixedRadius" : 0,
           "pointRadiusBehaviour" : 1,
           "isFixedToViewport" : false,
-          "fixedRadius" : 0,
+          "shouldBreakMaskChain" : false,
           "_class" : "rectangle",
           "booleanOperation" : -1,
           "resizingConstraint" : 54
@@ -4191,14 +4190,14 @@
           "frame" : {
             "_class" : "rect",
             "height" : 30,
-            "do_objectID" : "A84805EB-81AC-4761-8398-FC47648D12E9",
             "constrainProportions" : false,
+            "do_objectID" : "A84805EB-81AC-4761-8398-FC47648D12E9",
             "x" : 260,
             "width" : 30,
             "y" : 135
           },
           "do_objectID" : "6FC0E913-5A51-4EFC-B635-CE4D5415B0BF",
-          "layerListExpandedType" : 0,
+          "hasClickThrough" : false,
           "exportOptions" : {
             "shouldTrim" : false,
             "do_objectID" : "5AEE27DC-5789-49E4-B543-BFBD63E801A8",
@@ -4211,58 +4210,11 @@
 
             ]
           },
-          "hasClickThrough" : false,
+          "layerListExpandedType" : 2,
           "isFlippedVertical" : false,
-          "nameIsFixed" : true,
+          "clippingMaskMode" : 0,
           "name" : "similar_02",
           "isVisible" : true,
-          "resizingType" : 0,
-          "userInfo" : {
-            "com.animaapp.stc-sketch-plugin" : {
-              "kModelPropertiesKey" : {
-                "constraints" : {
-                  "bottom" : {
-                    "model_class" : "ADModelConstraint",
-                    "enabled" : 1,
-                    "multiplier" : 0,
-                    "model_version" : 0.10000000000000001,
-                    "constant" : -15,
-                    "modelID" : "constraint_ccd44c2b-4709-4900-8039-f0ac7cd7aeb3"
-                  },
-                  "height" : {
-                    "model_class" : "ADModelConstraint",
-                    "enabled" : 1,
-                    "multiplier" : 0,
-                    "model_version" : 0.10000000000000001,
-                    "constant" : 30,
-                    "modelID" : "constraint_8131fdd1-d6ee-4e48-b1b7-b9fad0789e5c"
-                  },
-                  "automatic" : 1,
-                  "width" : {
-                    "model_class" : "ADModelConstraint",
-                    "enabled" : 1,
-                    "multiplier" : 0,
-                    "model_version" : 0.10000000000000001,
-                    "constant" : 30,
-                    "modelID" : "constraint_46e8bad1-4c5a-49c8-817d-1342b3a9d6a5"
-                  },
-                  "model_class" : "ADModelViewConstraints",
-                  "scaleFactor" : 1,
-                  "model_version" : 0.10000000000000001,
-                  "right" : {
-                    "model_class" : "ADModelConstraint",
-                    "enabled" : 1,
-                    "multiplier" : 0,
-                    "model_version" : 0.10000000000000001,
-                    "constant" : 10,
-                    "modelID" : "constraint_e3a29ebe-5b71-459e-bbff-3dab916fe308"
-                  },
-                  "modelID" : "viewConstraints_e1756181-e87d-40d8-9e78-e48d5c53ee5f"
-                }
-              }
-            }
-          },
-          "clippingMaskMode" : 0,
           "hasClippingMask" : false,
           "layers" : [
             {
@@ -4280,8 +4232,8 @@
               "frame" : {
                 "_class" : "rect",
                 "height" : 30,
-                "do_objectID" : "C8C5C7C1-3A61-4CE3-A41A-C4DC2B352D51",
                 "constrainProportions" : true,
+                "do_objectID" : "C8C5C7C1-3A61-4CE3-A41A-C4DC2B352D51",
                 "x" : 0,
                 "width" : 30,
                 "y" : 0
@@ -4302,10 +4254,13 @@
               },
               "symbolID" : "542EDF4F-C14C-4F12-BA25-C56049710E99",
               "isFlippedVertical" : false,
-              "nameIsFixed" : false,
+              "clippingMaskMode" : 0,
               "name" : "color-palette\/color-container\/circle",
               "isVisible" : true,
+              "hasClippingMask" : false,
+              "nameIsFixed" : false,
               "resizingType" : 0,
+              "horizontalSpacing" : 0,
               "userInfo" : {
                 "com.animaapp.stc-sketch-plugin" : {
                   "kModelPropertiesKey" : {
@@ -4313,12 +4268,12 @@
                       "scaleFactor" : 1,
                       "model_version" : 0.10000000000000001,
                       "aspectRatio" : {
-                        "model_class" : "ADModelConstraint",
-                        "enabled" : 1,
                         "multiplier" : 30,
-                        "model_version" : 0.10000000000000001,
+                        "enabled" : 1,
                         "constant" : 30,
-                        "modelID" : "constraint_6aaf53d7-df72-4e57-82f2-d30e42662853"
+                        "modelID" : "constraint_6aaf53d7-df72-4e57-82f2-d30e42662853",
+                        "model_class" : "ADModelConstraint",
+                        "model_version" : 0.10000000000000001
                       },
                       "modelID" : "viewConstraints_faf7977d-e2ff-44ac-8cba-50a5203ed06c",
                       "model_class" : "ADModelViewConstraints",
@@ -4327,16 +4282,12 @@
                   }
                 }
               },
-              "clippingMaskMode" : 0,
-              "hasClippingMask" : false,
-              "horizontalSpacing" : 0,
               "isLocked" : false,
               "scale" : 1,
               "shouldBreakMaskChain" : false,
               "isFixedToViewport" : false,
               "_class" : "symbolInstance",
               "booleanOperation" : 0,
-              "resizingConstraint" : 63,
               "overrideValues" : [
                 {
                   "do_objectID" : "ED4CF907-8B79-4146-B910-54C91F8952DC",
@@ -4344,7 +4295,8 @@
                   "_class" : "overrideValue",
                   "value" : "C7FCA0C8-4219-4F37-B285-EC01A76E35DA"
                 }
-              ]
+              ],
+              "resizingConstraint" : 63
             },
             {
               "isFlippedHorizontal" : false,
@@ -4361,8 +4313,8 @@
               "frame" : {
                 "_class" : "rect",
                 "height" : 18,
-                "do_objectID" : "F880F61F-4034-4002-BE0A-4C9B346687D0",
                 "constrainProportions" : true,
+                "do_objectID" : "F880F61F-4034-4002-BE0A-4C9B346687D0",
                 "x" : 6,
                 "width" : 18,
                 "y" : 6
@@ -4383,10 +4335,13 @@
               },
               "symbolID" : "837ECBBA-75C3-492E-8C97-B49373E009C0",
               "isFlippedVertical" : false,
-              "nameIsFixed" : false,
+              "clippingMaskMode" : 0,
               "name" : "icon\/preview",
               "isVisible" : true,
+              "hasClippingMask" : false,
+              "nameIsFixed" : false,
               "resizingType" : 0,
+              "horizontalSpacing" : 0,
               "userInfo" : {
                 "com.animaapp.stc-sketch-plugin" : {
                   "kModelPropertiesKey" : {
@@ -4394,12 +4349,12 @@
                       "scaleFactor" : 1,
                       "model_version" : 0.10000000000000001,
                       "aspectRatio" : {
-                        "model_class" : "ADModelConstraint",
-                        "enabled" : 1,
                         "multiplier" : 18.909089999999999,
-                        "model_version" : 0.10000000000000001,
+                        "enabled" : 1,
                         "constant" : 18.909089999999999,
-                        "modelID" : "constraint_f71951a6-3994-432a-8efd-7c8aeb095f40"
+                        "modelID" : "constraint_f71951a6-3994-432a-8efd-7c8aeb095f40",
+                        "model_class" : "ADModelConstraint",
+                        "model_version" : 0.10000000000000001
                       },
                       "modelID" : "viewConstraints_71bbfcd3-e7a2-4def-ac1d-6581dab7fdf6",
                       "model_class" : "ADModelViewConstraints",
@@ -4408,26 +4363,76 @@
                   }
                 }
               },
-              "clippingMaskMode" : 0,
-              "hasClippingMask" : false,
-              "horizontalSpacing" : 0,
               "isLocked" : false,
               "scale" : 1,
               "shouldBreakMaskChain" : false,
               "isFixedToViewport" : false,
               "_class" : "symbolInstance",
               "booleanOperation" : 0,
-              "resizingConstraint" : 63,
               "overrideValues" : [
                 {
                   "do_objectID" : "C3970F65-45BA-4E19-AC88-68620DE19C24",
                   "overrideName" : "FE278A32-38B6-4744-BD64-43AEC38AFEDA_symbolID",
                   "_class" : "overrideValue",
                   "value" : "17A98791-8AE0-472D-96C7-F20762400ED8"
+                },
+                {
+                  "do_objectID" : "32DDE524-DBE8-454B-9A24-C2B9EF0E1182",
+                  "overrideName" : "3C7E63D0-2DA7-4382-9D63-A3BE3717631E_layerStyle",
+                  "_class" : "overrideValue",
+                  "value" : "3F895B12-53B0-4921-8801-FC9163E1DB86"
                 }
-              ]
+              ],
+              "resizingConstraint" : 63
             }
           ],
+          "nameIsFixed" : true,
+          "resizingType" : 0,
+          "userInfo" : {
+            "com.animaapp.stc-sketch-plugin" : {
+              "kModelPropertiesKey" : {
+                "constraints" : {
+                  "bottom" : {
+                    "multiplier" : 0,
+                    "enabled" : 1,
+                    "constant" : -15,
+                    "modelID" : "constraint_ccd44c2b-4709-4900-8039-f0ac7cd7aeb3",
+                    "model_class" : "ADModelConstraint",
+                    "model_version" : 0.10000000000000001
+                  },
+                  "height" : {
+                    "multiplier" : 0,
+                    "enabled" : 1,
+                    "constant" : 30,
+                    "modelID" : "constraint_8131fdd1-d6ee-4e48-b1b7-b9fad0789e5c",
+                    "model_class" : "ADModelConstraint",
+                    "model_version" : 0.10000000000000001
+                  },
+                  "automatic" : 1,
+                  "width" : {
+                    "multiplier" : 0,
+                    "enabled" : 1,
+                    "constant" : 30,
+                    "modelID" : "constraint_46e8bad1-4c5a-49c8-817d-1342b3a9d6a5",
+                    "model_class" : "ADModelConstraint",
+                    "model_version" : 0.10000000000000001
+                  },
+                  "model_class" : "ADModelViewConstraints",
+                  "scaleFactor" : 1,
+                  "model_version" : 0.10000000000000001,
+                  "right" : {
+                    "multiplier" : 0,
+                    "enabled" : 1,
+                    "constant" : 10,
+                    "modelID" : "constraint_e3a29ebe-5b71-459e-bbff-3dab916fe308",
+                    "model_class" : "ADModelConstraint",
+                    "model_version" : 0.10000000000000001
+                  },
+                  "modelID" : "viewConstraints_e1756181-e87d-40d8-9e78-e48d5c53ee5f"
+                }
+              }
+            }
+          },
           "isLocked" : false,
           "shouldBreakMaskChain" : false,
           "isFixedToViewport" : false,
@@ -4452,16 +4457,9 @@
                 "paragraphStyle" : {
                   "alignment" : 0,
                   "_class" : "paragraphStyle",
-                  "tighteningFactorForTruncation" : 0.050000000000000003,
                   "allowsDefaultTighteningForTruncation" : 0,
-                  "baseWritingDirection" : 0
-                },
-                "MSAttributedStringFontAttribute" : {
-                  "attributes" : {
-                    "name" : "MicrosoftYaHei",
-                    "size" : 12
-                  },
-                  "_class" : "fontDescriptor"
+                  "baseWritingDirection" : 0,
+                  "tighteningFactorForTruncation" : 0.050000000000000003
                 },
                 "MSAttributedStringColorAttribute" : {
                   "red" : 0.32156862745098042,
@@ -4469,17 +4467,24 @@
                   "alpha" : 1,
                   "blue" : 0.45882352941176469,
                   "green" : 0.36470588235294121
+                },
+                "MSAttributedStringFontAttribute" : {
+                  "attributes" : {
+                    "name" : "MicrosoftYaHei",
+                    "size" : 12
+                  },
+                  "_class" : "fontDescriptor"
                 }
               }
             },
             "endMarkerType" : 0
           },
-          "rotation" : 0,
+          "glyphBounds" : "{{1, 3}, {23, 12}}",
           "frame" : {
             "_class" : "rect",
             "height" : 16,
-            "do_objectID" : "5C717BD2-71BD-48E6-8F1F-DEFB11079BF0",
             "constrainProportions" : false,
+            "do_objectID" : "5C717BD2-71BD-48E6-8F1F-DEFB11079BF0",
             "x" : 18,
             "width" : 24,
             "y" : 117
@@ -4498,70 +4503,60 @@
 
             ]
           },
-          "glyphBounds" : "{{1, 3}, {23, 12}}",
+          "rotation" : 0,
           "dontSynchroniseWithSymbol" : false,
           "lineSpacingBehaviour" : 2,
           "textBehaviour" : 0,
           "isFlippedVertical" : false,
-          "nameIsFixed" : false,
+          "clippingMaskMode" : 0,
           "name" : "日報",
           "isVisible" : true,
+          "hasClippingMask" : false,
+          "nameIsFixed" : false,
           "resizingType" : 0,
           "userInfo" : {
             "com.animaapp.stc-sketch-plugin" : {
               "kModelPropertiesKey" : {
                 "constraints" : {
                   "bottom" : {
-                    "model_class" : "ADModelConstraint",
-                    "enabled" : 1,
                     "multiplier" : 0,
-                    "model_version" : 0.10000000000000001,
+                    "enabled" : 1,
                     "constant" : 17,
-                    "modelID" : "constraint_1fc69497-ded6-45e9-afcd-4b25dee2fa81"
+                    "modelID" : "constraint_1fc69497-ded6-45e9-afcd-4b25dee2fa81",
+                    "model_class" : "ADModelConstraint",
+                    "model_version" : 0.10000000000000001
                   },
                   "automatic" : 1,
                   "model_class" : "ADModelViewConstraints",
                   "scaleFactor" : 1,
-                  "model_version" : 0.10000000000000001,
                   "left" : {
-                    "model_class" : "ADModelConstraint",
-                    "enabled" : 1,
                     "multiplier" : 0,
-                    "model_version" : 0.10000000000000001,
+                    "enabled" : 1,
                     "constant" : 18,
-                    "modelID" : "constraint_1f3dfb9d-107b-4fa0-b28b-3acd0cf96730"
+                    "modelID" : "constraint_1f3dfb9d-107b-4fa0-b28b-3acd0cf96730",
+                    "model_class" : "ADModelConstraint",
+                    "model_version" : 0.10000000000000001
                   },
+                  "model_version" : 0.10000000000000001,
                   "modelID" : "viewConstraints_8163225e-45fa-404b-9160-232e4c96f319"
                 },
                 "isAutoWidth" : 1
               }
             }
           },
-          "clippingMaskMode" : 0,
-          "hasClippingMask" : false,
           "isLocked" : false,
           "attributedString" : {
-            "string" : "日報",
-            "_class" : "attributedString",
             "attributes" : [
               {
                 "length" : 2,
                 "_class" : "stringAttribute",
-                "location" : 0,
                 "attributes" : {
                   "paragraphStyle" : {
                     "alignment" : 0,
                     "_class" : "paragraphStyle",
-                    "tighteningFactorForTruncation" : 0.050000000000000003,
                     "allowsDefaultTighteningForTruncation" : 0,
-                    "baseWritingDirection" : 0
-                  },
-                  "MSAttributedStringFontAttribute" : {
-                    "attributes" : {
-                      "name" : "MicrosoftYaHei",
-                      "size" : 12
-                    },
-                    "_class" : "fontDescriptor"
+                    "baseWritingDirection" : 0,
+                    "tighteningFactorForTruncation" : 0.050000000000000003
                   },
                   "MSAttributedStringColorAttribute" : {
                     "red" : 0.32156862745098042,
@@ -4569,10 +4564,20 @@
                     "alpha" : 1,
                     "blue" : 0.45882352941176469,
                     "green" : 0.36470588235294121
+                  },
+                  "MSAttributedStringFontAttribute" : {
+                    "attributes" : {
+                      "name" : "MicrosoftYaHei",
+                      "size" : 12
+                    },
+                    "_class" : "fontDescriptor"
                   }
-                }
+                },
+                "location" : 0
               }
-            ]
+            ],
+            "_class" : "attributedString",
+            "string" : "日報"
           },
           "shouldBreakMaskChain" : false,
           "isFixedToViewport" : false,
@@ -4599,30 +4604,30 @@
                   "_class" : "paragraphStyle",
                   "alignment" : 0
                 },
-                "MSAttributedStringFontAttribute" : {
-                  "attributes" : {
-                    "name" : "Roboto-Regular",
-                    "size" : 11
-                  },
-                  "_class" : "fontDescriptor"
-                },
                 "MSAttributedStringColorAttribute" : {
                   "red" : 0.32156862745098042,
                   "_class" : "color",
                   "alpha" : 1,
                   "blue" : 0.45882352941176469,
                   "green" : 0.36470588235294121
+                },
+                "MSAttributedStringFontAttribute" : {
+                  "attributes" : {
+                    "name" : "Roboto-Regular",
+                    "size" : 11
+                  },
+                  "_class" : "fontDescriptor"
                 }
               }
             },
             "endMarkerType" : 0
           },
-          "rotation" : 0,
+          "glyphBounds" : "{{0, 2}, {58, 9}}",
           "frame" : {
             "_class" : "rect",
             "height" : 13,
-            "do_objectID" : "1DCA2F41-D249-4665-B6BC-2859FBA41C01",
             "constrainProportions" : false,
+            "do_objectID" : "1DCA2F41-D249-4665-B6BC-2859FBA41C01",
             "x" : 18,
             "width" : 59,
             "y" : 99
@@ -4641,67 +4646,57 @@
 
             ]
           },
-          "glyphBounds" : "{{0, 2}, {58, 9}}",
+          "rotation" : 0,
           "dontSynchroniseWithSymbol" : false,
           "lineSpacingBehaviour" : 2,
           "textBehaviour" : 0,
           "isFlippedVertical" : false,
-          "nameIsFixed" : false,
+          "clippingMaskMode" : 0,
           "name" : "2018\/04\/18",
           "isVisible" : true,
+          "hasClippingMask" : false,
+          "nameIsFixed" : false,
           "resizingType" : 0,
           "userInfo" : {
             "com.animaapp.stc-sketch-plugin" : {
               "kModelPropertiesKey" : {
                 "constraints" : {
                   "bottom" : {
-                    "model_class" : "ADModelConstraint",
-                    "enabled" : 1,
                     "multiplier" : 0,
-                    "model_version" : 0.10000000000000001,
+                    "enabled" : 1,
                     "constant" : 38,
-                    "modelID" : "constraint_498ff5e8-2751-4d39-9109-3f4164cb64ca"
+                    "modelID" : "constraint_498ff5e8-2751-4d39-9109-3f4164cb64ca",
+                    "model_class" : "ADModelConstraint",
+                    "model_version" : 0.10000000000000001
                   },
                   "automatic" : 1,
                   "model_class" : "ADModelViewConstraints",
                   "scaleFactor" : 1,
-                  "model_version" : 0.10000000000000001,
                   "left" : {
-                    "model_class" : "ADModelConstraint",
-                    "enabled" : 1,
                     "multiplier" : 0,
-                    "model_version" : 0.10000000000000001,
+                    "enabled" : 1,
                     "constant" : 18,
-                    "modelID" : "constraint_f091e5de-8e79-44c3-b811-06abe15afd5f"
+                    "modelID" : "constraint_f091e5de-8e79-44c3-b811-06abe15afd5f",
+                    "model_class" : "ADModelConstraint",
+                    "model_version" : 0.10000000000000001
                   },
+                  "model_version" : 0.10000000000000001,
                   "modelID" : "viewConstraints_f785bfd7-894d-47f7-8e52-2ccdfa8b334d"
                 },
                 "isAutoWidth" : 1
               }
             }
           },
-          "clippingMaskMode" : 0,
-          "hasClippingMask" : false,
           "isLocked" : false,
           "attributedString" : {
-            "string" : "2018\/04\/18",
-            "_class" : "attributedString",
             "attributes" : [
               {
                 "length" : 10,
                 "_class" : "stringAttribute",
-                "location" : 0,
                 "attributes" : {
                   "paragraphStyle" : {
                     "_class" : "paragraphStyle",
                     "alignment" : 0
-                  },
-                  "MSAttributedStringFontAttribute" : {
-                    "attributes" : {
-                      "name" : "Roboto-Regular",
-                      "size" : 11
-                    },
-                    "_class" : "fontDescriptor"
                   },
                   "MSAttributedStringColorAttribute" : {
                     "red" : 0.32156862745098042,
@@ -4709,10 +4704,20 @@
                     "alpha" : 1,
                     "blue" : 0.45882352941176469,
                     "green" : 0.36470588235294121
+                  },
+                  "MSAttributedStringFontAttribute" : {
+                    "attributes" : {
+                      "name" : "Roboto-Regular",
+                      "size" : 11
+                    },
+                    "_class" : "fontDescriptor"
                   }
-                }
+                },
+                "location" : 0
               }
-            ]
+            ],
+            "_class" : "attributedString",
+            "string" : "2018\/04\/18"
           },
           "shouldBreakMaskChain" : false,
           "isFixedToViewport" : false,
@@ -4753,8 +4758,8 @@
                 "paragraphStyle" : {
                   "_class" : "paragraphStyle",
                   "allowsDefaultTighteningForTruncation" : 0,
-                  "tighteningFactorForTruncation" : 0.050000000000000003,
                   "baseWritingDirection" : 0,
+                  "tighteningFactorForTruncation" : 0.050000000000000003,
                   "alignment" : 0,
                   "minimumLineHeight" : 24,
                   "maximumLineHeight" : 24
@@ -4763,12 +4768,12 @@
             },
             "endMarkerType" : 0
           },
-          "rotation" : 0,
+          "glyphBounds" : "{{0, 5}, {172, 40}}",
           "frame" : {
             "_class" : "rect",
             "height" : 48,
-            "do_objectID" : "2C469956-69BC-475E-A7CE-A056CBB31744",
             "constrainProportions" : false,
+            "do_objectID" : "2C469956-69BC-475E-A7CE-A056CBB31744",
             "x" : 18,
             "width" : 240,
             "y" : 19
@@ -4787,14 +4792,16 @@
 
             ]
           },
-          "glyphBounds" : "{{0, 5}, {172, 40}}",
+          "rotation" : 0,
           "dontSynchroniseWithSymbol" : false,
           "lineSpacingBehaviour" : 2,
           "textBehaviour" : 1,
           "isFlippedVertical" : false,
-          "nameIsFixed" : false,
+          "clippingMaskMode" : 0,
           "name" : "2018年區塊鏈與數字資產領域內參報告",
           "isVisible" : true,
+          "hasClippingMask" : false,
+          "nameIsFixed" : false,
           "resizingType" : 0,
           "userInfo" : {
             "com.animaapp.stc-sketch-plugin" : {
@@ -4802,49 +4809,44 @@
                 "constraints" : {
                   "automatic" : 1,
                   "width" : {
-                    "model_class" : "ADModelConstraint",
-                    "enabled" : 1,
                     "multiplier" : 0.80000000000000004,
-                    "model_version" : 0.10000000000000001,
+                    "enabled" : 1,
                     "constant" : 0,
-                    "modelID" : "constraint_cf26df75-fd8f-42e9-8545-62f83f7f0e59"
+                    "modelID" : "constraint_cf26df75-fd8f-42e9-8545-62f83f7f0e59",
+                    "model_class" : "ADModelConstraint",
+                    "model_version" : 0.10000000000000001
                   },
                   "model_class" : "ADModelViewConstraints",
                   "scaleFactor" : 1,
                   "left" : {
-                    "model_class" : "ADModelConstraint",
-                    "enabled" : 1,
                     "multiplier" : 0,
-                    "model_version" : 0.10000000000000001,
+                    "enabled" : 1,
                     "constant" : 18,
-                    "modelID" : "constraint_e1a48b81-69df-4493-a357-4b341974ea68"
+                    "modelID" : "constraint_e1a48b81-69df-4493-a357-4b341974ea68",
+                    "model_class" : "ADModelConstraint",
+                    "model_version" : 0.10000000000000001
                   },
                   "model_version" : 0.10000000000000001,
                   "modelID" : "viewConstraints_9ea2ef64-7ba1-43ff-9522-e8154caea858",
                   "top" : {
-                    "model_class" : "ADModelConstraint",
-                    "enabled" : 1,
                     "multiplier" : 0,
-                    "model_version" : 0.10000000000000001,
+                    "enabled" : 1,
                     "constant" : 19,
-                    "modelID" : "constraint_4b2bc4d2-62e7-433e-8a4c-f9556c9b8807"
+                    "modelID" : "constraint_4b2bc4d2-62e7-433e-8a4c-f9556c9b8807",
+                    "model_class" : "ADModelConstraint",
+                    "model_version" : 0.10000000000000001
                   }
                 },
                 "isAutoWidth" : 0
               }
             }
           },
-          "clippingMaskMode" : 0,
-          "hasClippingMask" : false,
           "isLocked" : false,
           "attributedString" : {
-            "string" : "2018年區塊鏈與數字資產領域內參報告",
-            "_class" : "attributedString",
             "attributes" : [
               {
                 "length" : 19,
                 "_class" : "stringAttribute",
-                "location" : 0,
                 "attributes" : {
                   "MSAttributedStringFontAttribute" : {
                     "attributes" : {
@@ -4864,15 +4866,18 @@
                   "paragraphStyle" : {
                     "_class" : "paragraphStyle",
                     "allowsDefaultTighteningForTruncation" : 0,
-                    "tighteningFactorForTruncation" : 0.050000000000000003,
                     "baseWritingDirection" : 0,
+                    "tighteningFactorForTruncation" : 0.050000000000000003,
                     "alignment" : 0,
                     "minimumLineHeight" : 24,
                     "maximumLineHeight" : 24
                   }
-                }
+                },
+                "location" : 0
               }
-            ]
+            ],
+            "_class" : "attributedString",
+            "string" : "2018年區塊鏈與數字資產領域內參報告"
           },
           "shouldBreakMaskChain" : false,
           "isFixedToViewport" : false,
@@ -4883,7 +4888,7 @@
         }
       ],
       "shouldBreakMaskChain" : true,
-      "changeIdentifier" : 32258,
+      "changeIdentifier" : 32260,
       "booleanOperation" : 0,
       "includeBackgroundColorInExport" : true,
       "_class" : "symbolMaster",
@@ -4899,9 +4904,9 @@
         "blue" : 1,
         "green" : 1
       },
-      "nameIsFixed" : true,
-      "isFixedToViewport" : false,
       "hasClickThrough" : true,
+      "isFixedToViewport" : false,
+      "nameIsFixed" : true,
       "originalObjectID" : "2E6FB5B2-19A3-4D9B-B8CB-8B9287493E5E",
       "isVisible" : true,
       "hasClippingMask" : false,
@@ -4939,15 +4944,15 @@
       "frame" : {
         "_class" : "rect",
         "height" : 150,
-        "do_objectID" : "1F6E90C5-A69F-410C-8394-5906CDD2BFDF",
         "constrainProportions" : false,
+        "do_objectID" : "1F6E90C5-A69F-410C-8394-5906CDD2BFDF",
         "x" : 2831,
         "width" : 300,
         "y" : 2039
       },
-      "layerListExpandedType" : 2,
-      "isFlippedHorizontal" : false,
       "includeBackgroundColorInInstance" : false,
+      "isFlippedHorizontal" : false,
+      "layerListExpandedType" : 2,
       "userInfo" : {
         "com.animaapp.stc-sketch-plugin" : {
           "kModelPropertiesKey" : {
@@ -4958,6 +4963,13 @@
       "resizingConstraint" : 63
     }
   ],
+  "nameIsFixed" : true,
+  "resizingType" : 0,
+  "userInfo" : {
+    "com.animaapp.stc-sketch-plugin" : {
+      "com.animaapp.animaPageID" : "CAA97F7D-DBAB-40CC-98DB-5A66EFACFBC4"
+    }
+  },
   "isLocked" : false,
   "shouldBreakMaskChain" : false,
   "isFixedToViewport" : false,
