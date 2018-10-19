@@ -1,7 +1,7 @@
 {
   "8437350D-6F78-4280-8CF1-8F97656EC26C" : {
     "scrollOrigin" : "{49, 296}",
-    "zoomValue" : 1
+    "zoomValue" : 0.25
   },
   "2DE544C4-9E0C-47A4-BAAB-39CADE9A59A6" : {
     "scrollOrigin" : "{-748, 590}",
@@ -13,7 +13,7 @@
   },
   "ECD26649-E44D-4FAF-931E-9C8A38007114" : {
     "scrollOrigin" : "{183, -1510}",
-    "zoomValue" : 8
+    "zoomValue" : 0.5
   },
   "document" : {
     "pageListHeight" : 152,

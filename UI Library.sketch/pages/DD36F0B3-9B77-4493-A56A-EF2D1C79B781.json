@@ -1209,7 +1209,7 @@
         }
       ],
       "shouldBreakMaskChain" : true,
-      "changeIdentifier" : 2542,
+      "changeIdentifier" : 2544,
       "booleanOperation" : 0,
       "includeBackgroundColorInExport" : true,
       "_class" : "symbolMaster",
@@ -4421,7 +4421,7 @@
           "glyphBounds" : "{{0, 3}, {231, 40}}",
           "frame" : {
             "_class" : "rect",
-            "height" : 45,
+            "height" : 44.79999923706054,
             "constrainProportions" : false,
             "do_objectID" : "2C469956-69BC-475E-A7CE-A056CBB31744",
             "x" : 18,
@@ -4574,7 +4574,7 @@
         }
       ],
       "shouldBreakMaskChain" : true,
-      "changeIdentifier" : 32320,
+      "changeIdentifier" : 32321,
       "booleanOperation" : 0,
       "includeBackgroundColorInExport" : true,
       "_class" : "symbolMaster",

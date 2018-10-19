@@ -459,17 +459,6 @@
         }
       }
     },
-    "8437350D-6F78-4280-8CF1-8F97656EC26C" : {
-      "name" : "🔤 Text",
-      "artboards" : {
-        "9A0EE9D1-6554-4334-A33A-BA021EAB29C4" : {
-          "name" : "CN"
-        },
-        "6BF113D2-9902-464C-8F17-A7A052E4D39A" : {
-          "name" : "EN"
-        }
-      }
-    },
     "55F53439-41BD-46C2-8D05-4A97FF051670" : {
       "name" : "🎨 Color",
       "artboards" : {
@@ -809,7 +798,6 @@
   "version" : 112,
   "fonts" : [
     "PingFangHK-Regular",
-    "MicrosoftYaHei",
     "MicrosoftYaHei-Bold",
     "PingFangHK-Semibold",
     "Roboto-Bold",
