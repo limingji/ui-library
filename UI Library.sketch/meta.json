@@ -85,6 +85,9 @@
         "87A89ABD-7B42-4694-8A43-D947EB28E704" : {
           "name" : "icon\/form\/checkbox-checked"
         },
+        "AF7D5E8B-5EB8-4940-8CBE-01CEEC477833" : {
+          "name" : "icon\/badge\/beta"
+        },
         "5468463C-59C4-47C3-AFF2-717EDE803665" : {
           "name" : "icon\/nav\/menu"
         },
@@ -353,6 +356,9 @@
     "DD36F0B3-9B77-4493-A56A-EF2D1C79B781" : {
       "name" : "✏️ Components",
       "artboards" : {
+        "A2AC9268-1FD4-465E-957D-B99F1816ECFD" : {
+          "name" : "components\/report"
+        },
         "F0574199-0ED0-43C0-8FBA-A9FEEA40DD6D" : {
           "name" : "components\/nav\/wisersOne-header"
         },
@@ -362,11 +368,11 @@
         "4E66B272-BBEC-453A-B889-3BFB8A2ED8FE" : {
           "name" : "components\/Tooltip\/data-single"
         },
+        "3670F033-3FA9-4B80-A20C-69CAA7CB9656" : {
+          "name" : "components\/nav\/WiseInfluencer"
+        },
         "711A64BE-789C-42EC-9AE7-4D9A0E9CC0C0" : {
           "name" : "components\/Tooltip\/info"
-        },
-        "A2AC9268-1FD4-465E-957D-B99F1816ECFD" : {
-          "name" : "components\/report"
         }
       }
     },
