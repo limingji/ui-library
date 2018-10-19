@@ -1060,6 +1060,85 @@
       "layers" : [
         {
           "isFlippedHorizontal" : false,
+          "verticalSpacing" : 0,
+          "style" : {
+            "_class" : "style",
+            "miterLimit" : 10,
+            "do_objectID" : "B537AFAB-9123-40B2-85CB-F41BA224F6D1",
+            "startMarkerType" : 0,
+            "windingRule" : 1,
+            "contextSettings" : {
+              "do_objectID" : "38D0759E-9A99-40DE-9A0C-0FD7A17976B7",
+              "_class" : "graphicsContextSettings",
+              "blendMode" : 0,
+              "opacity" : 0.98000001907348633
+            },
+            "endMarkerType" : 0
+          },
+          "rotation" : 0,
+          "frame" : {
+            "_class" : "rect",
+            "height" : 71,
+            "constrainProportions" : false,
+            "do_objectID" : "E55F01E8-3263-454D-98A4-65325AD22416",
+            "x" : 0,
+            "width" : 204,
+            "y" : 0
+          },
+          "do_objectID" : "7127D477-B888-4AF8-9A6E-B1C3DB589982",
+          "layerListExpandedType" : 0,
+          "exportOptions" : {
+            "shouldTrim" : false,
+            "do_objectID" : "880270F7-1B3C-4C50-89F0-DB40EC152A34",
+            "includedLayerIds" : [
+
+            ],
+            "_class" : "exportOptions",
+            "layerOptions" : 0,
+            "exportFormats" : [
+
+            ]
+          },
+          "symbolID" : "7428C80B-002A-4259-A16A-47D951639809",
+          "isFlippedVertical" : false,
+          "clippingMaskMode" : 0,
+          "name" : "*\/color-palette\/color-container",
+          "isVisible" : true,
+          "hasClippingMask" : false,
+          "nameIsFixed" : false,
+          "resizingType" : 0,
+          "horizontalSpacing" : 0,
+          "userInfo" : {
+            "com.animaapp.stc-sketch-plugin" : {
+              "kModelPropertiesKey" : {
+
+              }
+            }
+          },
+          "isLocked" : false,
+          "scale" : 1,
+          "shouldBreakMaskChain" : false,
+          "isFixedToViewport" : false,
+          "_class" : "symbolInstance",
+          "booleanOperation" : 0,
+          "overrideValues" : [
+            {
+              "do_objectID" : "CA578FCD-B7C4-46C5-BD30-6859B33D7780",
+              "overrideName" : "1764F90F-EBC2-412D-9B71-F6F897065777_symbolID",
+              "_class" : "overrideValue",
+              "value" : "17A98791-8AE0-472D-96C7-F20762400ED8"
+            },
+            {
+              "do_objectID" : "ABDC9521-B130-4C9A-8690-ACDAC1E8AB7D",
+              "overrideName" : "3003036A-5C2C-49F2-884C-98486AC9EC07_layerStyle",
+              "_class" : "overrideValue",
+              "value" : "3F895B12-53B0-4921-8801-FC9163E1DB86"
+            }
+          ],
+          "resizingConstraint" : 63
+        },
+        {
+          "isFlippedHorizontal" : false,
           "sharedStyleID" : "FC9B1486-D3B6-46B5-B8AB-656E7AF1BA67",
           "style" : {
             "_class" : "style",
@@ -1209,7 +1288,7 @@
         }
       ],
       "shouldBreakMaskChain" : true,
-      "changeIdentifier" : 2544,
+      "changeIdentifier" : 2891,
       "booleanOperation" : 0,
       "includeBackgroundColorInExport" : true,
       "_class" : "symbolMaster",
@@ -1366,6 +1445,12 @@
               "overrideName" : "1764F90F-EBC2-412D-9B71-F6F897065777_symbolID",
               "_class" : "overrideValue",
               "value" : "17A98791-8AE0-472D-96C7-F20762400ED8"
+            },
+            {
+              "do_objectID" : "ABDC9521-B130-4C9A-8690-ACDAC1E8AB7D",
+              "overrideName" : "3003036A-5C2C-49F2-884C-98486AC9EC07_layerStyle",
+              "_class" : "overrideValue",
+              "value" : "3F895B12-53B0-4921-8801-FC9163E1DB86"
             }
           ],
           "resizingConstraint" : 63
@@ -1934,7 +2019,7 @@
         }
       ],
       "shouldBreakMaskChain" : true,
-      "changeIdentifier" : 1845,
+      "changeIdentifier" : 1846,
       "booleanOperation" : 0,
       "includeBackgroundColorInExport" : true,
       "_class" : "symbolMaster",
@@ -3602,7 +3687,12 @@
           "_class" : "symbolInstance",
           "booleanOperation" : 0,
           "overrideValues" : [
-
+            {
+              "do_objectID" : "06418E06-32AF-4DD5-AF40-6F2D82AEA41B",
+              "overrideName" : "56186508-C915-4D29-9580-44F5043800C7_layerStyle",
+              "_class" : "overrideValue",
+              "value" : "3F895B12-53B0-4921-8801-FC9163E1DB86"
+            }
           ],
           "resizingConstraint" : 63
         },
@@ -4574,7 +4664,7 @@
         }
       ],
       "shouldBreakMaskChain" : true,
-      "changeIdentifier" : 32321,
+      "changeIdentifier" : 32322,
       "booleanOperation" : 0,
       "includeBackgroundColorInExport" : true,
       "_class" : "symbolMaster",

@@ -1,11 +1,38 @@
 {
   "commit" : "44fbd80fbaed5dccd549e2fcf407dc48b5b4a84e",
+  "build" : 67048,
+  "version" : 112,
+  "fonts" : [
+    "PingFangHK-Regular",
+    "MicrosoftYaHei-Bold",
+    "PingFangHK-Semibold",
+    "Roboto-Bold",
+    "Gotham-Bold",
+    "Roboto-Regular"
+  ],
+  "compatibilityVersion" : 99,
+  "app" : "com.bohemiancoding.sketch3",
+  "autosaved" : 0,
+  "variant" : "NONAPPSTORE",
+  "created" : {
+    "build" : 67048,
+    "appVersion" : "52.1",
+    "commit" : "44fbd80fbaed5dccd549e2fcf407dc48b5b4a84e",
+    "app" : "com.bohemiancoding.sketch3",
+    "compatibilityVersion" : 99,
+    "version" : 112,
+    "variant" : "NONAPPSTORE"
+  },
+  "saveHistory" : [
+    "NONAPPSTORE.67048"
+  ],
+  "appVersion" : "52.1",
   "pagesAndArtboards" : {
     "ECD26649-E44D-4FAF-931E-9C8A38007114" : {
       "name" : "🚀 Icon",
       "artboards" : {
-        "C8B89AD7-8993-40E7-BDBF-9247C137C391" : {
-          "name" : "icon\/action\/close"
+        "46275672-40DE-4369-8C82-062A5B7140C8" : {
+          "name" : "Assets\/icon\/cursor\/pointer"
         },
         "1478E47B-19B7-4B04-9A3E-7BC24C735C82" : {
           "name" : "icon\/badge\/weibo-VerifiedCelebrity"
@@ -13,8 +40,8 @@
         "8545D004-D48C-46A2-8A57-FDD14E8999CB" : {
           "name" : "icon\/meta\/like"
         },
-        "FF056EDC-CE5E-4AB8-B162-EBF075AF68CE" : {
-          "name" : "icon\/communication\/phone"
+        "C4A8F086-315C-49FC-8CF0-B54C2318B41A" : {
+          "name" : "color-palette\/color-container\/square"
         },
         "1471C67F-15F3-48BB-815B-C951FC519875" : {
           "name" : "icon\/reaction\/mono-color\/love"
@@ -292,6 +319,9 @@
         "FA9CCB19-6B02-4B55-918D-C79C73936C8E" : {
           "name" : "icon\/meta\/share"
         },
+        "FF056EDC-CE5E-4AB8-B162-EBF075AF68CE" : {
+          "name" : "icon\/communication\/phone"
+        },
         "E5EF5526-3FA5-41DA-9683-E45C21B819D3" : {
           "name" : "icon\/reaction\/mono-color\/sad"
         },
@@ -304,14 +334,11 @@
         "55EDBC48-B052-453E-AE18-4D94A50A5E7A" : {
           "name" : "icon\/meta\/star"
         },
+        "C8B89AD7-8993-40E7-BDBF-9247C137C391" : {
+          "name" : "icon\/action\/close"
+        },
         "9D61C1CE-8C5B-4D4C-9F3D-034EEB5D8245" : {
           "name" : "icon\/caret\/arrow-drop"
-        },
-        "46275672-40DE-4369-8C82-062A5B7140C8" : {
-          "name" : "Assets\/icon\/cursor\/pointer"
-        },
-        "C4A8F086-315C-49FC-8CF0-B54C2318B41A" : {
-          "name" : "color-palette\/color-container\/square"
         }
       }
     },
@@ -356,8 +383,8 @@
     "DD36F0B3-9B77-4493-A56A-EF2D1C79B781" : {
       "name" : "✏️ Components",
       "artboards" : {
-        "A2AC9268-1FD4-465E-957D-B99F1816ECFD" : {
-          "name" : "components\/report"
+        "711A64BE-789C-42EC-9AE7-4D9A0E9CC0C0" : {
+          "name" : "components\/Tooltip\/info"
         },
         "F0574199-0ED0-43C0-8FBA-A9FEEA40DD6D" : {
           "name" : "components\/nav\/wisersOne-header"
@@ -365,14 +392,14 @@
         "A1B71A9A-8E9A-4153-ACE4-FA2452251D62" : {
           "name" : "components\/nav\/module-header"
         },
+        "A2AC9268-1FD4-465E-957D-B99F1816ECFD" : {
+          "name" : "components\/report"
+        },
         "4E66B272-BBEC-453A-B889-3BFB8A2ED8FE" : {
           "name" : "components\/Tooltip\/data-single"
         },
         "3670F033-3FA9-4B80-A20C-69CAA7CB9656" : {
           "name" : "components\/nav\/WiseInfluencer"
-        },
-        "711A64BE-789C-42EC-9AE7-4D9A0E9CC0C0" : {
-          "name" : "components\/Tooltip\/info"
         }
       }
     },
@@ -459,32 +486,5 @@
         }
       }
     }
-  },
-  "version" : 112,
-  "fonts" : [
-    "PingFangHK-Regular",
-    "MicrosoftYaHei-Bold",
-    "PingFangHK-Semibold",
-    "Roboto-Bold",
-    "Gotham-Bold",
-    "Roboto-Regular"
-  ],
-  "compatibilityVersion" : 99,
-  "app" : "com.bohemiancoding.sketch3",
-  "autosaved" : 0,
-  "variant" : "NONAPPSTORE",
-  "created" : {
-    "build" : 67048,
-    "appVersion" : "52.1",
-    "commit" : "44fbd80fbaed5dccd549e2fcf407dc48b5b4a84e",
-    "app" : "com.bohemiancoding.sketch3",
-    "compatibilityVersion" : 99,
-    "version" : 112,
-    "variant" : "NONAPPSTORE"
-  },
-  "saveHistory" : [
-    "NONAPPSTORE.67048"
-  ],
-  "appVersion" : "52.1",
-  "build" : 67048
+  }
 }
